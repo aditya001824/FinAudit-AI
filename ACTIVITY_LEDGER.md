@@ -8,3 +8,4 @@
 - [2025-08-27 19:50:16] docs(sar): update FinCEN Form 111 XML filing schemas (Commit #6)
 - [2025-08-27 12:56:08] refactor(models): strengthen Pydantic v2 validation schemas (Commit #7)
 - [2025-08-27 19:14:44] fix(parser): handle cross-border SWIFT wire transit edge cases (Commit #8)
+- [2025-08-27 10:31:26] feat(rag): expand FATF 40 recommendations knowledge base (Commit #9)
