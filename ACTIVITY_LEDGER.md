@@ -9,3 +9,4 @@
 - [2025-08-27 12:56:08] refactor(models): strengthen Pydantic v2 validation schemas (Commit #7)
 - [2025-08-27 19:14:44] fix(parser): handle cross-border SWIFT wire transit edge cases (Commit #8)
 - [2025-08-27 10:31:26] feat(rag): expand FATF 40 recommendations knowledge base (Commit #9)
+- [2025-08-28 16:56:36] refactor(graph): enhance NetworkX cycle detection algorithm (Commit #10)
