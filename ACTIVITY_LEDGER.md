@@ -10,3 +10,4 @@
 - [2025-08-27 19:14:44] fix(parser): handle cross-border SWIFT wire transit edge cases (Commit #8)
 - [2025-08-27 10:31:26] feat(rag): expand FATF 40 recommendations knowledge base (Commit #9)
 - [2025-08-28 16:56:36] refactor(graph): enhance NetworkX cycle detection algorithm (Commit #10)
+- [2025-08-28 19:22:21] test(sanctions): add fuzzy matching test cases for OFAC aliases (Commit #11)
