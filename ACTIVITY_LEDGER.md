@@ -16,3 +16,4 @@
 - [2025-08-28 14:05:28] chore(ci): optimize daily maintenance automated sync (Commit #14)
 - [2025-08-28 12:23:40] perf(agent): reduce ReAct multi-agent thought latency (Commit #15)
 - [2025-08-29 11:07:11] refactor(graph): enhance NetworkX cycle detection algorithm (Commit #16)
+- [2025-08-29 22:00:18] feat(rag): expand FATF 40 recommendations knowledge base (Commit #17)
