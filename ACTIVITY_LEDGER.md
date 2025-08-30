@@ -21,3 +21,4 @@
 - [2025-08-29 21:57:22] feat(rag): expand FATF 40 recommendations knowledge base (Commit #19)
 - [2025-08-29 18:14:51] docs(aml): update FinCEN BSA compliance guidelines (Commit #20)
 - [2025-08-29 09:22:39] test(integration): verify autonomous SAR generation pipeline (Commit #21)
+- [2025-08-30 09:08:34] perf(agent): reduce ReAct multi-agent thought latency (Commit #22)
