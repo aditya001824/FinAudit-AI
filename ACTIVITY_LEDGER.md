@@ -25,3 +25,4 @@
 - [2025-08-30 19:18:09] refactor(graph): enhance NetworkX cycle detection algorithm (Commit #23)
 - [2025-08-30 11:30:57] test(sanctions): add fuzzy matching test cases for OFAC aliases (Commit #24)
 - [2025-08-31 18:38:49] feat(analytics): add betweenness centrality hub indicators (Commit #25)
+- [2025-08-31 20:17:11] refactor(models): strengthen Pydantic v2 validation schemas (Commit #26)
