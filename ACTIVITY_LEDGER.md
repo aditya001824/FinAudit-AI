@@ -30,3 +30,4 @@
 - [2025-08-31 17:35:33] docs(aml): update FinCEN BSA compliance guidelines (Commit #28)
 - [2025-08-31 21:51:13] style(ui): improve glassmorphism cyber-finance dashboard (Commit #29)
 - [2025-09-01 16:52:29] feat(rag): expand FATF 40 recommendations knowledge base (Commit #30)
+- [2025-09-01 11:42:49] feat(rag): expand FATF 40 recommendations knowledge base (Commit #31)
