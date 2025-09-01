@@ -31,3 +31,4 @@
 - [2025-08-31 21:51:13] style(ui): improve glassmorphism cyber-finance dashboard (Commit #29)
 - [2025-09-01 16:52:29] feat(rag): expand FATF 40 recommendations knowledge base (Commit #30)
 - [2025-09-01 11:42:49] feat(rag): expand FATF 40 recommendations knowledge base (Commit #31)
+- [2025-09-01 10:13:05] perf(agent): reduce ReAct multi-agent thought latency (Commit #32)
