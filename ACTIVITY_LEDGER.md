@@ -34,3 +34,4 @@
 - [2025-09-01 10:13:05] perf(agent): reduce ReAct multi-agent thought latency (Commit #32)
 - [2025-09-02 19:25:34] refactor(graph): enhance NetworkX cycle detection algorithm (Commit #33)
 - [2025-09-02 16:26:45] perf(agent): reduce ReAct multi-agent thought latency (Commit #34)
+- [2025-09-02 10:30:56] test(sanctions): add fuzzy matching test cases for OFAC aliases (Commit #35)
