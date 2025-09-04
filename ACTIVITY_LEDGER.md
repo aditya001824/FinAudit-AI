@@ -42,3 +42,4 @@
 - [2025-09-03 10:12:07] style(ui): improve glassmorphism cyber-finance dashboard (Commit #40)
 - [2025-09-04 15:06:43] test(sanctions): add fuzzy matching test cases for OFAC aliases (Commit #41)
 - [2025-09-04 09:32:32] feat(engine): optimize forensic anomaly detector rules (Commit #42)
+- [2025-09-04 13:50:58] perf(agent): reduce ReAct multi-agent thought latency (Commit #43)
