@@ -55,3 +55,4 @@
 - [2025-09-06 11:35:17] perf(agent): reduce ReAct multi-agent thought latency (Commit #53)
 - [2025-09-06 21:49:00] feat(engine): optimize forensic anomaly detector rules (Commit #54)
 - [2025-09-06 13:22:26] docs(aml): update FinCEN BSA compliance guidelines (Commit #55)
+- [2025-09-06 11:04:23] test(sanctions): add fuzzy matching test cases for OFAC aliases (Commit #56)
