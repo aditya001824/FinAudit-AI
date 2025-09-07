@@ -59,3 +59,4 @@
 - [2025-09-07 21:39:48] feat(rag): expand FATF 40 recommendations knowledge base (Commit #57)
 - [2025-09-07 20:39:12] chore(ci): optimize daily maintenance automated sync (Commit #58)
 - [2025-09-07 17:05:27] test(sanctions): add fuzzy matching test cases for OFAC aliases (Commit #59)
+- [2025-09-07 19:16:39] fix(parser): handle cross-border SWIFT wire transit edge cases (Commit #60)
