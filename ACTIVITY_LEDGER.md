@@ -56,3 +56,4 @@
 - [2025-09-06 21:49:00] feat(engine): optimize forensic anomaly detector rules (Commit #54)
 - [2025-09-06 13:22:26] docs(aml): update FinCEN BSA compliance guidelines (Commit #55)
 - [2025-09-06 11:04:23] test(sanctions): add fuzzy matching test cases for OFAC aliases (Commit #56)
+- [2025-09-07 21:39:48] feat(rag): expand FATF 40 recommendations knowledge base (Commit #57)
