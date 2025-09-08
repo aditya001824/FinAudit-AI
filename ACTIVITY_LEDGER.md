@@ -62,3 +62,4 @@
 - [2025-09-07 19:16:39] fix(parser): handle cross-border SWIFT wire transit edge cases (Commit #60)
 - [2025-09-07 10:36:34] chore(deps): update forensic cryptography packages (Commit #61)
 - [2025-09-08 17:35:15] docs(aml): update FinCEN BSA compliance guidelines (Commit #62)
+- [2025-09-08 19:57:21] chore(deps): update forensic cryptography packages (Commit #63)
