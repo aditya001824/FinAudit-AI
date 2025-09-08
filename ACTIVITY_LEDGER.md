@@ -63,3 +63,4 @@
 - [2025-09-07 10:36:34] chore(deps): update forensic cryptography packages (Commit #61)
 - [2025-09-08 17:35:15] docs(aml): update FinCEN BSA compliance guidelines (Commit #62)
 - [2025-09-08 19:57:21] chore(deps): update forensic cryptography packages (Commit #63)
+- [2025-09-08 12:10:20] test(sanctions): add fuzzy matching test cases for OFAC aliases (Commit #64)
