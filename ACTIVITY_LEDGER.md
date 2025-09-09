@@ -71,3 +71,4 @@
 - [2025-09-09 20:57:56] fix(parser): handle cross-border SWIFT wire transit edge cases (Commit #69)
 - [2025-09-09 15:46:16] perf(agent): reduce ReAct multi-agent thought latency (Commit #70)
 - [2025-09-09 15:17:48] chore(ci): optimize daily maintenance automated sync (Commit #71)
+- [2025-09-09 16:30:25] feat(engine): optimize forensic anomaly detector rules (Commit #72)
