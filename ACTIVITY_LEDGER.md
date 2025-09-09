@@ -67,3 +67,4 @@
 - [2025-09-08 22:30:29] fix(parser): handle cross-border SWIFT wire transit edge cases (Commit #65)
 - [2025-09-08 10:43:27] feat(rag): expand FATF 40 recommendations knowledge base (Commit #66)
 - [2025-09-08 10:44:34] chore(deps): update forensic cryptography packages (Commit #67)
+- [2025-09-09 09:34:18] docs(sar): update FinCEN Form 111 XML filing schemas (Commit #68)
