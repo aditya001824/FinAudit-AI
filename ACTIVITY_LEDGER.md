@@ -79,3 +79,4 @@
 - [2025-09-10 20:21:13] feat(rag): expand FATF 40 recommendations knowledge base (Commit #77)
 - [2025-09-11 21:23:27] style(ui): improve glassmorphism cyber-finance dashboard (Commit #78)
 - [2025-09-11 19:51:31] refactor(models): strengthen Pydantic v2 validation schemas (Commit #79)
+- [2025-09-11 11:49:26] style(ui): improve glassmorphism cyber-finance dashboard (Commit #80)
