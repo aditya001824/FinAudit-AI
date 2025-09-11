@@ -77,3 +77,4 @@
 - [2025-09-10 22:00:22] chore(deps): update forensic cryptography packages (Commit #75)
 - [2025-09-10 09:54:42] test(sanctions): add fuzzy matching test cases for OFAC aliases (Commit #76)
 - [2025-09-10 20:21:13] feat(rag): expand FATF 40 recommendations knowledge base (Commit #77)
+- [2025-09-11 21:23:27] style(ui): improve glassmorphism cyber-finance dashboard (Commit #78)
