@@ -81,3 +81,4 @@
 - [2025-09-11 19:51:31] refactor(models): strengthen Pydantic v2 validation schemas (Commit #79)
 - [2025-09-11 11:49:26] style(ui): improve glassmorphism cyber-finance dashboard (Commit #80)
 - [2025-09-11 21:15:16] feat(engine): optimize forensic anomaly detector rules (Commit #81)
+- [2025-09-12 11:36:56] chore(deps): update forensic cryptography packages (Commit #82)
