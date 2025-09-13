@@ -85,3 +85,4 @@
 - [2025-09-12 16:20:07] test(integration): verify autonomous SAR generation pipeline (Commit #83)
 - [2025-09-12 15:09:29] style(ui): improve glassmorphism cyber-finance dashboard (Commit #84)
 - [2025-09-13 21:17:44] feat(rag): expand FATF 40 recommendations knowledge base (Commit #85)
+- [2025-09-13 19:12:00] docs(aml): update FinCEN BSA compliance guidelines (Commit #86)
