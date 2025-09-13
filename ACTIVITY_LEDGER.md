@@ -88,3 +88,4 @@
 - [2025-09-13 19:12:00] docs(aml): update FinCEN BSA compliance guidelines (Commit #86)
 - [2025-09-13 09:22:14] perf(agent): reduce ReAct multi-agent thought latency (Commit #87)
 - [2025-09-13 11:31:23] refactor(models): strengthen Pydantic v2 validation schemas (Commit #88)
+- [2025-09-13 21:31:19] feat(engine): optimize forensic anomaly detector rules (Commit #89)
