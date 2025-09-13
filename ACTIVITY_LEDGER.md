@@ -86,3 +86,4 @@
 - [2025-09-12 15:09:29] style(ui): improve glassmorphism cyber-finance dashboard (Commit #84)
 - [2025-09-13 21:17:44] feat(rag): expand FATF 40 recommendations knowledge base (Commit #85)
 - [2025-09-13 19:12:00] docs(aml): update FinCEN BSA compliance guidelines (Commit #86)
+- [2025-09-13 09:22:14] perf(agent): reduce ReAct multi-agent thought latency (Commit #87)
