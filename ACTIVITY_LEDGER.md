@@ -93,3 +93,4 @@
 - [2025-09-14 10:18:06] refactor(graph): enhance NetworkX cycle detection algorithm (Commit #91)
 - [2025-09-14 20:28:50] test(sanctions): add fuzzy matching test cases for OFAC aliases (Commit #92)
 - [2025-09-14 17:25:24] refactor(graph): enhance NetworkX cycle detection algorithm (Commit #93)
+- [2025-09-14 18:52:04] fix(parser): handle cross-border SWIFT wire transit edge cases (Commit #94)
