@@ -90,3 +90,4 @@
 - [2025-09-13 11:31:23] refactor(models): strengthen Pydantic v2 validation schemas (Commit #88)
 - [2025-09-13 21:31:19] feat(engine): optimize forensic anomaly detector rules (Commit #89)
 - [2025-09-14 13:39:18] feat(engine): optimize forensic anomaly detector rules (Commit #90)
+- [2025-09-14 10:18:06] refactor(graph): enhance NetworkX cycle detection algorithm (Commit #91)
