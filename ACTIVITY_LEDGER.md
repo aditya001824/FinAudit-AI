@@ -96,3 +96,4 @@
 - [2025-09-14 18:52:04] fix(parser): handle cross-border SWIFT wire transit edge cases (Commit #94)
 - [2025-09-15 18:04:48] perf(agent): reduce ReAct multi-agent thought latency (Commit #95)
 - [2025-09-15 22:25:48] feat(analytics): add betweenness centrality hub indicators (Commit #96)
+- [2025-09-15 22:07:19] feat(analytics): add betweenness centrality hub indicators (Commit #97)
