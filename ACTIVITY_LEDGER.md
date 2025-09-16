@@ -99,3 +99,4 @@
 - [2025-09-15 22:07:19] feat(analytics): add betweenness centrality hub indicators (Commit #97)
 - [2025-09-16 18:48:34] refactor(models): strengthen Pydantic v2 validation schemas (Commit #98)
 - [2025-09-16 10:20:56] docs(aml): update FinCEN BSA compliance guidelines (Commit #99)
+- [2025-09-16 21:55:54] refactor(models): strengthen Pydantic v2 validation schemas (Commit #100)
