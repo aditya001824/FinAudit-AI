@@ -97,3 +97,4 @@
 - [2025-09-15 18:04:48] perf(agent): reduce ReAct multi-agent thought latency (Commit #95)
 - [2025-09-15 22:25:48] feat(analytics): add betweenness centrality hub indicators (Commit #96)
 - [2025-09-15 22:07:19] feat(analytics): add betweenness centrality hub indicators (Commit #97)
+- [2025-09-16 18:48:34] refactor(models): strengthen Pydantic v2 validation schemas (Commit #98)
