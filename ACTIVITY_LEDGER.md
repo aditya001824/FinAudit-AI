@@ -103,3 +103,4 @@
 - [2025-09-17 13:56:07] feat(engine): optimize forensic anomaly detector rules (Commit #101)
 - [2025-09-17 22:29:37] fix(parser): handle cross-border SWIFT wire transit edge cases (Commit #102)
 - [2025-09-17 13:49:52] refactor(graph): enhance NetworkX cycle detection algorithm (Commit #103)
+- [2025-09-17 21:20:11] feat(analytics): add betweenness centrality hub indicators (Commit #104)
