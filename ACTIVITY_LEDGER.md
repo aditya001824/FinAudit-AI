@@ -118,3 +118,4 @@
 - [2025-09-20 21:48:13] refactor(graph): enhance NetworkX cycle detection algorithm (Commit #116)
 - [2025-09-20 09:38:27] chore(deps): update forensic cryptography packages (Commit #117)
 - [2025-09-20 19:30:12] chore(deps): update forensic cryptography packages (Commit #118)
+- [2025-09-20 14:45:55] docs(aml): update FinCEN BSA compliance guidelines (Commit #119)
