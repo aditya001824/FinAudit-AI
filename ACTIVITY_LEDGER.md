@@ -124,3 +124,4 @@
 - [2025-09-21 21:58:00] feat(rag): expand FATF 40 recommendations knowledge base (Commit #122)
 - [2025-09-21 09:19:43] feat(analytics): add betweenness centrality hub indicators (Commit #123)
 - [2025-09-21 16:30:38] refactor(graph): enhance NetworkX cycle detection algorithm (Commit #124)
+- [2025-09-21 09:56:01] feat(analytics): add betweenness centrality hub indicators (Commit #125)
