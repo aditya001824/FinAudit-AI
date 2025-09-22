@@ -128,3 +128,4 @@
 - [2025-09-21 14:41:36] feat(engine): optimize forensic anomaly detector rules (Commit #126)
 - [2025-09-22 15:30:30] perf(agent): reduce ReAct multi-agent thought latency (Commit #127)
 - [2025-09-22 12:19:34] test(sanctions): add fuzzy matching test cases for OFAC aliases (Commit #128)
+- [2025-09-22 22:30:22] style(ui): improve glassmorphism cyber-finance dashboard (Commit #129)
