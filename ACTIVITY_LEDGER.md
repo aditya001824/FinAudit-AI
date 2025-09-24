@@ -133,3 +133,4 @@
 - [2025-09-23 18:08:49] test(integration): verify autonomous SAR generation pipeline (Commit #131)
 - [2025-09-23 17:31:52] test(sanctions): add fuzzy matching test cases for OFAC aliases (Commit #132)
 - [2025-09-23 13:26:10] docs(aml): update FinCEN BSA compliance guidelines (Commit #133)
+- [2025-09-24 18:41:45] refactor(models): strengthen Pydantic v2 validation schemas (Commit #134)
