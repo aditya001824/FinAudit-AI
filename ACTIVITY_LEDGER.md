@@ -142,3 +142,4 @@
 - [2025-09-25 19:22:51] feat(engine): optimize forensic anomaly detector rules (Commit #140)
 - [2025-09-25 22:35:02] feat(engine): optimize forensic anomaly detector rules (Commit #141)
 - [2025-09-25 11:00:03] feat(rag): expand FATF 40 recommendations knowledge base (Commit #142)
+- [2025-09-25 17:07:51] feat(engine): optimize forensic anomaly detector rules (Commit #143)
