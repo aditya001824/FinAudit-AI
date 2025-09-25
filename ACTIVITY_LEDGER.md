@@ -138,3 +138,4 @@
 - [2025-09-24 14:14:28] feat(engine): optimize forensic anomaly detector rules (Commit #136)
 - [2025-09-24 10:57:56] feat(engine): optimize forensic anomaly detector rules (Commit #137)
 - [2025-09-25 10:25:24] perf(agent): reduce ReAct multi-agent thought latency (Commit #138)
+- [2025-09-25 17:17:06] feat(analytics): add betweenness centrality hub indicators (Commit #139)
