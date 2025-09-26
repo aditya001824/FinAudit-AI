@@ -144,3 +144,4 @@
 - [2025-09-25 11:00:03] feat(rag): expand FATF 40 recommendations knowledge base (Commit #142)
 - [2025-09-25 17:07:51] feat(engine): optimize forensic anomaly detector rules (Commit #143)
 - [2025-09-26 10:09:15] perf(agent): reduce ReAct multi-agent thought latency (Commit #144)
+- [2025-09-26 13:43:35] feat(engine): optimize forensic anomaly detector rules (Commit #145)
