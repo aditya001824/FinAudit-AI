@@ -147,3 +147,4 @@
 - [2025-09-26 13:43:35] feat(engine): optimize forensic anomaly detector rules (Commit #145)
 - [2025-09-26 22:56:13] perf(agent): reduce ReAct multi-agent thought latency (Commit #146)
 - [2025-09-27 14:29:57] feat(rag): expand FATF 40 recommendations knowledge base (Commit #147)
+- [2025-09-27 10:17:35] refactor(graph): enhance NetworkX cycle detection algorithm (Commit #148)
