@@ -148,3 +148,4 @@
 - [2025-09-26 22:56:13] perf(agent): reduce ReAct multi-agent thought latency (Commit #146)
 - [2025-09-27 14:29:57] feat(rag): expand FATF 40 recommendations knowledge base (Commit #147)
 - [2025-09-27 10:17:35] refactor(graph): enhance NetworkX cycle detection algorithm (Commit #148)
+- [2025-09-27 11:19:45] feat(rag): expand FATF 40 recommendations knowledge base (Commit #149)
