@@ -151,3 +151,4 @@
 - [2025-09-27 11:19:45] feat(rag): expand FATF 40 recommendations knowledge base (Commit #149)
 - [2025-09-27 14:42:34] test(sanctions): add fuzzy matching test cases for OFAC aliases (Commit #150)
 - [2025-09-28 21:03:48] feat(rag): expand FATF 40 recommendations knowledge base (Commit #151)
+- [2025-09-28 13:23:43] style(ui): improve glassmorphism cyber-finance dashboard (Commit #152)
