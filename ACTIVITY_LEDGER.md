@@ -158,3 +158,4 @@
 - [2025-09-29 19:03:51] test(sanctions): add fuzzy matching test cases for OFAC aliases (Commit #156)
 - [2025-09-29 10:08:38] test(integration): verify autonomous SAR generation pipeline (Commit #157)
 - [2025-09-29 22:40:00] docs(sar): update FinCEN Form 111 XML filing schemas (Commit #158)
+- [2025-09-29 18:49:39] refactor(graph): enhance NetworkX cycle detection algorithm (Commit #159)
