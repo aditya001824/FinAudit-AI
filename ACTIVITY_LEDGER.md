@@ -154,3 +154,4 @@
 - [2025-09-28 13:23:43] style(ui): improve glassmorphism cyber-finance dashboard (Commit #152)
 - [2025-09-28 17:46:54] feat(engine): optimize forensic anomaly detector rules (Commit #153)
 - [2025-09-28 18:03:45] feat(rag): expand FATF 40 recommendations knowledge base (Commit #154)
+- [2025-09-29 10:16:50] chore(deps): update forensic cryptography packages (Commit #155)
