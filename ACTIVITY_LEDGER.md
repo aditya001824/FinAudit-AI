@@ -164,3 +164,4 @@
 - [2025-09-30 11:15:10] feat(rag): expand FATF 40 recommendations knowledge base (Commit #162)
 - [2025-09-30 11:30:37] refactor(graph): enhance NetworkX cycle detection algorithm (Commit #163)
 - [2025-09-30 22:45:45] refactor(graph): enhance NetworkX cycle detection algorithm (Commit #164)
+- [2025-10-01 20:49:26] test(sanctions): add fuzzy matching test cases for OFAC aliases (Commit #165)
