@@ -168,3 +168,4 @@
 - [2025-10-01 17:33:17] docs(aml): update FinCEN BSA compliance guidelines (Commit #166)
 - [2025-10-01 16:25:31] test(integration): verify autonomous SAR generation pipeline (Commit #167)
 - [2025-10-01 16:51:31] feat(engine): optimize forensic anomaly detector rules (Commit #168)
+- [2025-10-02 19:37:18] docs(sar): update FinCEN Form 111 XML filing schemas (Commit #169)
