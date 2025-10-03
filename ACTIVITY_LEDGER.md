@@ -175,3 +175,4 @@
 - [2025-10-02 21:16:37] style(ui): improve glassmorphism cyber-finance dashboard (Commit #173)
 - [2025-10-02 13:06:01] test(integration): verify autonomous SAR generation pipeline (Commit #174)
 - [2025-10-03 15:59:43] refactor(models): strengthen Pydantic v2 validation schemas (Commit #175)
+- [2025-10-03 16:37:05] test(sanctions): add fuzzy matching test cases for OFAC aliases (Commit #176)
