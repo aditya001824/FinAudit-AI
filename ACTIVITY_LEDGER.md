@@ -183,3 +183,4 @@
 - [2025-10-04 17:19:15] chore(deps): update forensic cryptography packages (Commit #181)
 - [2025-10-05 10:02:30] chore(ci): optimize daily maintenance automated sync (Commit #182)
 - [2025-10-05 14:33:22] feat(engine): optimize forensic anomaly detector rules (Commit #183)
+- [2025-10-05 14:49:33] test(sanctions): add fuzzy matching test cases for OFAC aliases (Commit #184)
