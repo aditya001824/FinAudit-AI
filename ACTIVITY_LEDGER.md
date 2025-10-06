@@ -185,3 +185,4 @@
 - [2025-10-05 14:33:22] feat(engine): optimize forensic anomaly detector rules (Commit #183)
 - [2025-10-05 14:49:33] test(sanctions): add fuzzy matching test cases for OFAC aliases (Commit #184)
 - [2025-10-06 12:12:23] fix(parser): handle cross-border SWIFT wire transit edge cases (Commit #185)
+- [2025-10-06 17:24:07] perf(agent): reduce ReAct multi-agent thought latency (Commit #186)
