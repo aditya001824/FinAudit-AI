@@ -184,3 +184,4 @@
 - [2025-10-05 10:02:30] chore(ci): optimize daily maintenance automated sync (Commit #182)
 - [2025-10-05 14:33:22] feat(engine): optimize forensic anomaly detector rules (Commit #183)
 - [2025-10-05 14:49:33] test(sanctions): add fuzzy matching test cases for OFAC aliases (Commit #184)
+- [2025-10-06 12:12:23] fix(parser): handle cross-border SWIFT wire transit edge cases (Commit #185)
