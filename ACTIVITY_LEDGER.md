@@ -187,3 +187,4 @@
 - [2025-10-06 12:12:23] fix(parser): handle cross-border SWIFT wire transit edge cases (Commit #185)
 - [2025-10-06 17:24:07] perf(agent): reduce ReAct multi-agent thought latency (Commit #186)
 - [2025-10-06 15:53:11] perf(agent): reduce ReAct multi-agent thought latency (Commit #187)
+- [2025-10-07 18:54:06] feat(rag): expand FATF 40 recommendations knowledge base (Commit #188)
