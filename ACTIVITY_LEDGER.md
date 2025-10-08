@@ -190,3 +190,4 @@
 - [2025-10-07 18:54:06] feat(rag): expand FATF 40 recommendations knowledge base (Commit #188)
 - [2025-10-07 09:30:23] docs(aml): update FinCEN BSA compliance guidelines (Commit #189)
 - [2025-10-07 19:40:26] test(integration): verify autonomous SAR generation pipeline (Commit #190)
+- [2025-10-08 15:47:44] feat(analytics): add betweenness centrality hub indicators (Commit #191)
