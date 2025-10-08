@@ -195,3 +195,4 @@
 - [2025-10-08 22:41:30] chore(deps): update forensic cryptography packages (Commit #193)
 - [2025-10-08 09:21:09] chore(ci): optimize daily maintenance automated sync (Commit #194)
 - [2025-10-08 20:15:13] test(sanctions): add fuzzy matching test cases for OFAC aliases (Commit #195)
+- [2025-10-08 14:41:53] refactor(graph): enhance NetworkX cycle detection algorithm (Commit #196)
