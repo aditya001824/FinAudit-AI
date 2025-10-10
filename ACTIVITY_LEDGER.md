@@ -206,3 +206,4 @@
 - [2025-10-10 15:38:01] feat(rag): expand FATF 40 recommendations knowledge base (Commit #204)
 - [2025-10-10 19:57:34] chore(ci): optimize daily maintenance automated sync (Commit #205)
 - [2025-10-10 12:03:49] test(integration): verify autonomous SAR generation pipeline (Commit #206)
+- [2025-10-10 12:34:07] docs(sar): update FinCEN Form 111 XML filing schemas (Commit #207)
