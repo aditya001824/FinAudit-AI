@@ -212,3 +212,4 @@
 - [2025-10-11 13:32:14] chore(ci): optimize daily maintenance automated sync (Commit #210)
 - [2025-10-11 19:55:12] feat(rag): expand FATF 40 recommendations knowledge base (Commit #211)
 - [2025-10-11 14:16:02] refactor(models): strengthen Pydantic v2 validation schemas (Commit #212)
+- [2025-10-11 20:53:48] feat(rag): expand FATF 40 recommendations knowledge base (Commit #213)
