@@ -215,3 +215,4 @@
 - [2025-10-11 20:53:48] feat(rag): expand FATF 40 recommendations knowledge base (Commit #213)
 - [2025-10-12 18:19:01] test(sanctions): add fuzzy matching test cases for OFAC aliases (Commit #214)
 - [2025-10-12 13:43:37] fix(parser): handle cross-border SWIFT wire transit edge cases (Commit #215)
+- [2025-10-12 20:50:03] fix(parser): handle cross-border SWIFT wire transit edge cases (Commit #216)
