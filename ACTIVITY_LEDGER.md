@@ -224,3 +224,4 @@
 - [2025-10-14 12:32:31] chore(ci): optimize daily maintenance automated sync (Commit #222)
 - [2025-10-14 10:29:18] docs(sar): update FinCEN Form 111 XML filing schemas (Commit #223)
 - [2025-10-15 14:00:16] feat(rag): expand FATF 40 recommendations knowledge base (Commit #224)
+- [2025-10-15 14:07:25] chore(deps): update forensic cryptography packages (Commit #225)
