@@ -230,3 +230,4 @@
 - [2025-10-16 19:37:46] fix(parser): handle cross-border SWIFT wire transit edge cases (Commit #228)
 - [2025-10-16 17:32:07] chore(deps): update forensic cryptography packages (Commit #229)
 - [2025-10-17 11:36:14] feat(analytics): add betweenness centrality hub indicators (Commit #230)
+- [2025-10-17 19:11:44] chore(deps): update forensic cryptography packages (Commit #231)
