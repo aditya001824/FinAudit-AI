@@ -229,3 +229,4 @@
 - [2025-10-16 16:05:31] test(integration): verify autonomous SAR generation pipeline (Commit #227)
 - [2025-10-16 19:37:46] fix(parser): handle cross-border SWIFT wire transit edge cases (Commit #228)
 - [2025-10-16 17:32:07] chore(deps): update forensic cryptography packages (Commit #229)
+- [2025-10-17 11:36:14] feat(analytics): add betweenness centrality hub indicators (Commit #230)
