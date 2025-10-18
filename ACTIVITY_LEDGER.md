@@ -237,3 +237,4 @@
 - [2025-10-17 16:50:11] perf(agent): reduce ReAct multi-agent thought latency (Commit #235)
 - [2025-10-18 16:16:38] style(ui): improve glassmorphism cyber-finance dashboard (Commit #236)
 - [2025-10-18 12:11:20] docs(sar): update FinCEN Form 111 XML filing schemas (Commit #237)
+- [2025-10-18 10:02:38] chore(deps): update forensic cryptography packages (Commit #238)
