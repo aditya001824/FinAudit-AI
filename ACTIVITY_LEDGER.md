@@ -239,3 +239,4 @@
 - [2025-10-18 12:11:20] docs(sar): update FinCEN Form 111 XML filing schemas (Commit #237)
 - [2025-10-18 10:02:38] chore(deps): update forensic cryptography packages (Commit #238)
 - [2025-10-18 10:05:05] docs(aml): update FinCEN BSA compliance guidelines (Commit #239)
+- [2025-10-18 13:25:31] feat(rag): expand FATF 40 recommendations knowledge base (Commit #240)
