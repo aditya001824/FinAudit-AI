@@ -238,3 +238,4 @@
 - [2025-10-18 16:16:38] style(ui): improve glassmorphism cyber-finance dashboard (Commit #236)
 - [2025-10-18 12:11:20] docs(sar): update FinCEN Form 111 XML filing schemas (Commit #237)
 - [2025-10-18 10:02:38] chore(deps): update forensic cryptography packages (Commit #238)
+- [2025-10-18 10:05:05] docs(aml): update FinCEN BSA compliance guidelines (Commit #239)
