@@ -242,3 +242,4 @@
 - [2025-10-18 13:25:31] feat(rag): expand FATF 40 recommendations knowledge base (Commit #240)
 - [2025-10-18 19:11:59] test(integration): verify autonomous SAR generation pipeline (Commit #241)
 - [2025-10-19 11:34:05] refactor(graph): enhance NetworkX cycle detection algorithm (Commit #242)
+- [2025-10-19 11:11:04] test(sanctions): add fuzzy matching test cases for OFAC aliases (Commit #243)
