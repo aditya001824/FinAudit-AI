@@ -251,3 +251,4 @@
 - [2025-10-20 18:02:12] test(sanctions): add fuzzy matching test cases for OFAC aliases (Commit #249)
 - [2025-10-20 22:55:05] test(sanctions): add fuzzy matching test cases for OFAC aliases (Commit #250)
 - [2025-10-20 21:49:18] feat(rag): expand FATF 40 recommendations knowledge base (Commit #251)
+- [2025-10-21 14:10:25] refactor(models): strengthen Pydantic v2 validation schemas (Commit #252)
