@@ -257,3 +257,4 @@
 - [2025-10-21 12:43:29] feat(engine): optimize forensic anomaly detector rules (Commit #255)
 - [2025-10-21 10:04:14] feat(engine): optimize forensic anomaly detector rules (Commit #256)
 - [2025-10-22 21:53:42] docs(sar): update FinCEN Form 111 XML filing schemas (Commit #257)
+- [2025-10-22 17:23:22] feat(engine): optimize forensic anomaly detector rules (Commit #258)
