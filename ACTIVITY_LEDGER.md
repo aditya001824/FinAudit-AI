@@ -260,3 +260,4 @@
 - [2025-10-22 17:23:22] feat(engine): optimize forensic anomaly detector rules (Commit #258)
 - [2025-10-22 20:42:22] chore(deps): update forensic cryptography packages (Commit #259)
 - [2025-10-22 16:28:43] test(sanctions): add fuzzy matching test cases for OFAC aliases (Commit #260)
+- [2025-10-22 21:08:11] test(sanctions): add fuzzy matching test cases for OFAC aliases (Commit #261)
