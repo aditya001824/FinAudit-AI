@@ -267,3 +267,4 @@
 - [2025-10-24 20:36:47] refactor(models): strengthen Pydantic v2 validation schemas (Commit #265)
 - [2025-10-24 09:50:05] refactor(graph): enhance NetworkX cycle detection algorithm (Commit #266)
 - [2025-10-24 16:25:18] feat(engine): optimize forensic anomaly detector rules (Commit #267)
+- [2025-10-24 20:31:09] chore(deps): update forensic cryptography packages (Commit #268)
