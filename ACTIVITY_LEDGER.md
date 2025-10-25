@@ -271,3 +271,4 @@
 - [2025-10-24 17:01:06] docs(aml): update FinCEN BSA compliance guidelines (Commit #269)
 - [2025-10-24 22:44:47] chore(ci): optimize daily maintenance automated sync (Commit #270)
 - [2025-10-25 14:49:21] fix(parser): handle cross-border SWIFT wire transit edge cases (Commit #271)
+- [2025-10-25 19:19:59] style(ui): improve glassmorphism cyber-finance dashboard (Commit #272)
