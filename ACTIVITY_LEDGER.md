@@ -279,3 +279,4 @@
 - [2025-10-26 14:49:34] test(sanctions): add fuzzy matching test cases for OFAC aliases (Commit #277)
 - [2025-10-27 14:11:09] style(ui): improve glassmorphism cyber-finance dashboard (Commit #278)
 - [2025-10-27 19:50:33] style(ui): improve glassmorphism cyber-finance dashboard (Commit #279)
+- [2025-10-27 16:02:46] docs(aml): update FinCEN BSA compliance guidelines (Commit #280)
