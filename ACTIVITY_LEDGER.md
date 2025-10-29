@@ -285,3 +285,4 @@
 - [2025-10-28 16:05:26] refactor(models): strengthen Pydantic v2 validation schemas (Commit #283)
 - [2025-10-28 13:00:23] perf(agent): reduce ReAct multi-agent thought latency (Commit #284)
 - [2025-10-28 15:24:09] test(integration): verify autonomous SAR generation pipeline (Commit #285)
+- [2025-10-29 21:25:55] test(sanctions): add fuzzy matching test cases for OFAC aliases (Commit #286)
