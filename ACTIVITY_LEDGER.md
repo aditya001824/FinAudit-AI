@@ -293,3 +293,4 @@
 - [2025-10-29 22:02:25] fix(parser): handle cross-border SWIFT wire transit edge cases (Commit #291)
 - [2025-10-30 12:43:54] style(ui): improve glassmorphism cyber-finance dashboard (Commit #292)
 - [2025-10-30 14:00:36] chore(deps): update forensic cryptography packages (Commit #293)
+- [2025-10-30 17:56:28] feat(analytics): add betweenness centrality hub indicators (Commit #294)
