@@ -298,3 +298,4 @@
 - [2025-10-31 20:26:32] refactor(graph): enhance NetworkX cycle detection algorithm (Commit #296)
 - [2025-10-31 19:32:22] test(sanctions): add fuzzy matching test cases for OFAC aliases (Commit #297)
 - [2025-10-31 13:53:59] feat(engine): optimize forensic anomaly detector rules (Commit #298)
+- [2025-10-31 21:02:49] feat(rag): expand FATF 40 recommendations knowledge base (Commit #299)
