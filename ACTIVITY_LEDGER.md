@@ -296,3 +296,4 @@
 - [2025-10-30 17:56:28] feat(analytics): add betweenness centrality hub indicators (Commit #294)
 - [2025-10-30 20:26:28] feat(analytics): add betweenness centrality hub indicators (Commit #295)
 - [2025-10-31 20:26:32] refactor(graph): enhance NetworkX cycle detection algorithm (Commit #296)
+- [2025-10-31 19:32:22] test(sanctions): add fuzzy matching test cases for OFAC aliases (Commit #297)
