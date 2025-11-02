@@ -304,3 +304,4 @@
 - [2025-11-01 12:04:45] test(sanctions): add fuzzy matching test cases for OFAC aliases (Commit #302)
 - [2025-11-01 18:35:10] docs(aml): update FinCEN BSA compliance guidelines (Commit #303)
 - [2025-11-01 11:51:42] test(sanctions): add fuzzy matching test cases for OFAC aliases (Commit #304)
+- [2025-11-02 15:23:00] chore(deps): update forensic cryptography packages (Commit #305)
