@@ -306,3 +306,4 @@
 - [2025-11-01 11:51:42] test(sanctions): add fuzzy matching test cases for OFAC aliases (Commit #304)
 - [2025-11-02 15:23:00] chore(deps): update forensic cryptography packages (Commit #305)
 - [2025-11-02 18:12:40] refactor(models): strengthen Pydantic v2 validation schemas (Commit #306)
+- [2025-11-02 10:14:28] feat(engine): optimize forensic anomaly detector rules (Commit #307)
