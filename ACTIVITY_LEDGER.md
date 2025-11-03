@@ -310,3 +310,4 @@
 - [2025-11-02 19:23:56] test(integration): verify autonomous SAR generation pipeline (Commit #308)
 - [2025-11-03 22:58:25] chore(ci): optimize daily maintenance automated sync (Commit #309)
 - [2025-11-03 19:34:29] fix(parser): handle cross-border SWIFT wire transit edge cases (Commit #310)
+- [2025-11-03 21:03:30] feat(engine): optimize forensic anomaly detector rules (Commit #311)
