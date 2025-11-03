@@ -312,3 +312,4 @@
 - [2025-11-03 19:34:29] fix(parser): handle cross-border SWIFT wire transit edge cases (Commit #310)
 - [2025-11-03 21:03:30] feat(engine): optimize forensic anomaly detector rules (Commit #311)
 - [2025-11-03 18:24:29] style(ui): improve glassmorphism cyber-finance dashboard (Commit #312)
+- [2025-11-03 10:46:36] chore(deps): update forensic cryptography packages (Commit #313)
