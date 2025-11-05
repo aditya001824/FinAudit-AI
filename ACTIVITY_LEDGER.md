@@ -316,3 +316,4 @@
 - [2025-11-04 19:57:22] style(ui): improve glassmorphism cyber-finance dashboard (Commit #314)
 - [2025-11-04 14:50:49] fix(parser): handle cross-border SWIFT wire transit edge cases (Commit #315)
 - [2025-11-04 10:29:24] fix(parser): handle cross-border SWIFT wire transit edge cases (Commit #316)
+- [2025-11-05 21:54:26] feat(rag): expand FATF 40 recommendations knowledge base (Commit #317)
