@@ -318,3 +318,4 @@
 - [2025-11-04 10:29:24] fix(parser): handle cross-border SWIFT wire transit edge cases (Commit #316)
 - [2025-11-05 21:54:26] feat(rag): expand FATF 40 recommendations knowledge base (Commit #317)
 - [2025-11-05 13:40:02] style(ui): improve glassmorphism cyber-finance dashboard (Commit #318)
+- [2025-11-05 15:09:56] chore(deps): update forensic cryptography packages (Commit #319)
