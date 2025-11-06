@@ -320,3 +320,4 @@
 - [2025-11-05 13:40:02] style(ui): improve glassmorphism cyber-finance dashboard (Commit #318)
 - [2025-11-05 15:09:56] chore(deps): update forensic cryptography packages (Commit #319)
 - [2025-11-06 20:02:26] feat(analytics): add betweenness centrality hub indicators (Commit #320)
+- [2025-11-06 13:00:42] feat(analytics): add betweenness centrality hub indicators (Commit #321)
