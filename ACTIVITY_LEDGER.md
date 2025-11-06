@@ -322,3 +322,4 @@
 - [2025-11-06 20:02:26] feat(analytics): add betweenness centrality hub indicators (Commit #320)
 - [2025-11-06 13:00:42] feat(analytics): add betweenness centrality hub indicators (Commit #321)
 - [2025-11-06 15:59:55] test(sanctions): add fuzzy matching test cases for OFAC aliases (Commit #322)
+- [2025-11-06 17:24:19] style(ui): improve glassmorphism cyber-finance dashboard (Commit #323)
