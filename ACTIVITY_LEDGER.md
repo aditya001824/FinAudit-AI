@@ -325,3 +325,4 @@
 - [2025-11-06 17:24:19] style(ui): improve glassmorphism cyber-finance dashboard (Commit #323)
 - [2025-11-07 10:28:26] refactor(graph): enhance NetworkX cycle detection algorithm (Commit #324)
 - [2025-11-07 20:52:01] refactor(models): strengthen Pydantic v2 validation schemas (Commit #325)
+- [2025-11-07 10:01:02] docs(sar): update FinCEN Form 111 XML filing schemas (Commit #326)
