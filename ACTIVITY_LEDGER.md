@@ -330,3 +330,4 @@
 - [2025-11-08 22:29:34] chore(deps): update forensic cryptography packages (Commit #328)
 - [2025-11-08 15:53:51] test(sanctions): add fuzzy matching test cases for OFAC aliases (Commit #329)
 - [2025-11-08 09:01:35] feat(engine): optimize forensic anomaly detector rules (Commit #330)
+- [2025-11-08 11:33:50] test(integration): verify autonomous SAR generation pipeline (Commit #331)
