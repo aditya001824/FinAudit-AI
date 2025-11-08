@@ -327,3 +327,4 @@
 - [2025-11-07 20:52:01] refactor(models): strengthen Pydantic v2 validation schemas (Commit #325)
 - [2025-11-07 10:01:02] docs(sar): update FinCEN Form 111 XML filing schemas (Commit #326)
 - [2025-11-08 15:56:05] docs(aml): update FinCEN BSA compliance guidelines (Commit #327)
+- [2025-11-08 22:29:34] chore(deps): update forensic cryptography packages (Commit #328)
