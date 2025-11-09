@@ -337,3 +337,4 @@
 - [2025-11-09 16:38:09] docs(aml): update FinCEN BSA compliance guidelines (Commit #335)
 - [2025-11-09 21:34:58] test(sanctions): add fuzzy matching test cases for OFAC aliases (Commit #336)
 - [2025-11-09 12:17:15] test(integration): verify autonomous SAR generation pipeline (Commit #337)
+- [2025-11-09 21:52:58] refactor(graph): enhance NetworkX cycle detection algorithm (Commit #338)
