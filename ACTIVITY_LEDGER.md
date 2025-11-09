@@ -333,3 +333,4 @@
 - [2025-11-08 11:33:50] test(integration): verify autonomous SAR generation pipeline (Commit #331)
 - [2025-11-08 19:51:11] refactor(models): strengthen Pydantic v2 validation schemas (Commit #332)
 - [2025-11-09 10:26:30] chore(ci): optimize daily maintenance automated sync (Commit #333)
+- [2025-11-09 19:33:37] feat(rag): expand FATF 40 recommendations knowledge base (Commit #334)
