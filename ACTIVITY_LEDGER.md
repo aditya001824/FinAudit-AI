@@ -353,3 +353,4 @@
 - [2025-11-12 22:06:20] chore(ci): optimize daily maintenance automated sync (Commit #351)
 - [2025-11-12 14:58:25] perf(agent): reduce ReAct multi-agent thought latency (Commit #352)
 - [2025-11-13 14:48:15] perf(agent): reduce ReAct multi-agent thought latency (Commit #353)
+- [2025-11-13 17:41:10] refactor(models): strengthen Pydantic v2 validation schemas (Commit #354)
