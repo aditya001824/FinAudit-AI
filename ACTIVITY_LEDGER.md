@@ -354,3 +354,4 @@
 - [2025-11-12 14:58:25] perf(agent): reduce ReAct multi-agent thought latency (Commit #352)
 - [2025-11-13 14:48:15] perf(agent): reduce ReAct multi-agent thought latency (Commit #353)
 - [2025-11-13 17:41:10] refactor(models): strengthen Pydantic v2 validation schemas (Commit #354)
+- [2025-11-13 20:10:08] docs(aml): update FinCEN BSA compliance guidelines (Commit #355)
