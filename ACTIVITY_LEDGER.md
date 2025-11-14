@@ -360,3 +360,4 @@
 - [2025-11-14 19:27:48] refactor(models): strengthen Pydantic v2 validation schemas (Commit #358)
 - [2025-11-14 21:47:27] feat(rag): expand FATF 40 recommendations knowledge base (Commit #359)
 - [2025-11-14 17:19:11] docs(aml): update FinCEN BSA compliance guidelines (Commit #360)
+- [2025-11-14 16:45:32] feat(analytics): add betweenness centrality hub indicators (Commit #361)
