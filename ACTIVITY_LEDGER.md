@@ -357,3 +357,4 @@
 - [2025-11-13 20:10:08] docs(aml): update FinCEN BSA compliance guidelines (Commit #355)
 - [2025-11-13 17:41:29] docs(sar): update FinCEN Form 111 XML filing schemas (Commit #356)
 - [2025-11-14 18:34:51] docs(aml): update FinCEN BSA compliance guidelines (Commit #357)
+- [2025-11-14 19:27:48] refactor(models): strengthen Pydantic v2 validation schemas (Commit #358)
