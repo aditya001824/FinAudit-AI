@@ -364,3 +364,4 @@
 - [2025-11-14 20:11:18] feat(rag): expand FATF 40 recommendations knowledge base (Commit #362)
 - [2025-11-15 10:26:18] perf(agent): reduce ReAct multi-agent thought latency (Commit #363)
 - [2025-11-15 12:41:30] docs(aml): update FinCEN BSA compliance guidelines (Commit #364)
+- [2025-11-15 21:37:13] feat(rag): expand FATF 40 recommendations knowledge base (Commit #365)
