@@ -367,3 +367,4 @@
 - [2025-11-15 21:37:13] feat(rag): expand FATF 40 recommendations knowledge base (Commit #365)
 - [2025-11-15 16:30:42] feat(rag): expand FATF 40 recommendations knowledge base (Commit #366)
 - [2025-11-15 19:31:32] chore(deps): update forensic cryptography packages (Commit #367)
+- [2025-11-16 11:36:59] perf(agent): reduce ReAct multi-agent thought latency (Commit #368)
