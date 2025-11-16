@@ -370,3 +370,4 @@
 - [2025-11-16 11:36:59] perf(agent): reduce ReAct multi-agent thought latency (Commit #368)
 - [2025-11-16 16:52:20] chore(deps): update forensic cryptography packages (Commit #369)
 - [2025-11-16 19:55:57] refactor(graph): enhance NetworkX cycle detection algorithm (Commit #370)
+- [2025-11-16 22:44:50] refactor(models): strengthen Pydantic v2 validation schemas (Commit #371)
