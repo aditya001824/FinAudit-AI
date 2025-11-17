@@ -374,3 +374,4 @@
 - [2025-11-16 19:51:51] feat(analytics): add betweenness centrality hub indicators (Commit #372)
 - [2025-11-17 19:38:03] refactor(graph): enhance NetworkX cycle detection algorithm (Commit #373)
 - [2025-11-17 18:56:06] style(ui): improve glassmorphism cyber-finance dashboard (Commit #374)
+- [2025-11-17 17:09:49] feat(analytics): add betweenness centrality hub indicators (Commit #375)
