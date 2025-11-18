@@ -377,3 +377,4 @@
 - [2025-11-17 17:09:49] feat(analytics): add betweenness centrality hub indicators (Commit #375)
 - [2025-11-18 09:12:55] perf(agent): reduce ReAct multi-agent thought latency (Commit #376)
 - [2025-11-18 15:14:11] chore(deps): update forensic cryptography packages (Commit #377)
+- [2025-11-18 16:22:36] feat(engine): optimize forensic anomaly detector rules (Commit #378)
