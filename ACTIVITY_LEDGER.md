@@ -383,3 +383,4 @@
 - [2025-11-19 13:45:37] test(integration): verify autonomous SAR generation pipeline (Commit #381)
 - [2025-11-19 12:01:18] style(ui): improve glassmorphism cyber-finance dashboard (Commit #382)
 - [2025-11-19 11:09:22] feat(rag): expand FATF 40 recommendations knowledge base (Commit #383)
+- [2025-11-19 13:32:10] feat(engine): optimize forensic anomaly detector rules (Commit #384)
