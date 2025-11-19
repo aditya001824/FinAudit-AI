@@ -379,3 +379,4 @@
 - [2025-11-18 15:14:11] chore(deps): update forensic cryptography packages (Commit #377)
 - [2025-11-18 16:22:36] feat(engine): optimize forensic anomaly detector rules (Commit #378)
 - [2025-11-18 13:56:06] style(ui): improve glassmorphism cyber-finance dashboard (Commit #379)
+- [2025-11-19 09:24:10] refactor(graph): enhance NetworkX cycle detection algorithm (Commit #380)
