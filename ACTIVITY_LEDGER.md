@@ -384,3 +384,4 @@
 - [2025-11-19 12:01:18] style(ui): improve glassmorphism cyber-finance dashboard (Commit #382)
 - [2025-11-19 11:09:22] feat(rag): expand FATF 40 recommendations knowledge base (Commit #383)
 - [2025-11-19 13:32:10] feat(engine): optimize forensic anomaly detector rules (Commit #384)
+- [2025-11-19 19:43:43] fix(parser): handle cross-border SWIFT wire transit edge cases (Commit #385)
