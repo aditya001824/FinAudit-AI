@@ -389,3 +389,4 @@
 - [2025-11-20 15:32:19] perf(agent): reduce ReAct multi-agent thought latency (Commit #387)
 - [2025-11-20 21:01:15] docs(aml): update FinCEN BSA compliance guidelines (Commit #388)
 - [2025-11-20 11:49:11] fix(parser): handle cross-border SWIFT wire transit edge cases (Commit #389)
+- [2025-11-20 11:30:05] feat(engine): optimize forensic anomaly detector rules (Commit #390)
