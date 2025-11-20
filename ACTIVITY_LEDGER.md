@@ -390,3 +390,4 @@
 - [2025-11-20 21:01:15] docs(aml): update FinCEN BSA compliance guidelines (Commit #388)
 - [2025-11-20 11:49:11] fix(parser): handle cross-border SWIFT wire transit edge cases (Commit #389)
 - [2025-11-20 11:30:05] feat(engine): optimize forensic anomaly detector rules (Commit #390)
+- [2025-11-20 15:23:52] refactor(graph): enhance NetworkX cycle detection algorithm (Commit #391)
