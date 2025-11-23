@@ -403,3 +403,4 @@
 - [2025-11-22 19:42:15] refactor(graph): enhance NetworkX cycle detection algorithm (Commit #401)
 - [2025-11-22 17:34:32] docs(sar): update FinCEN Form 111 XML filing schemas (Commit #402)
 - [2025-11-22 19:22:18] docs(sar): update FinCEN Form 111 XML filing schemas (Commit #403)
+- [2025-11-23 19:04:38] docs(aml): update FinCEN BSA compliance guidelines (Commit #404)
