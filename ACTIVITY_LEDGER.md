@@ -411,3 +411,4 @@
 - [2025-11-24 19:00:57] docs(sar): update FinCEN Form 111 XML filing schemas (Commit #409)
 - [2025-11-24 17:58:53] feat(rag): expand FATF 40 recommendations knowledge base (Commit #410)
 - [2025-11-24 17:39:56] chore(ci): optimize daily maintenance automated sync (Commit #411)
+- [2025-11-24 12:49:04] refactor(models): strengthen Pydantic v2 validation schemas (Commit #412)
