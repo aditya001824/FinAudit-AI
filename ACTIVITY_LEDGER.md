@@ -414,3 +414,4 @@
 - [2025-11-24 12:49:04] refactor(models): strengthen Pydantic v2 validation schemas (Commit #412)
 - [2025-11-24 12:47:30] style(ui): improve glassmorphism cyber-finance dashboard (Commit #413)
 - [2025-11-25 21:23:06] fix(parser): handle cross-border SWIFT wire transit edge cases (Commit #414)
+- [2025-11-25 17:04:57] docs(aml): update FinCEN BSA compliance guidelines (Commit #415)
