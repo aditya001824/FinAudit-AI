@@ -415,3 +415,4 @@
 - [2025-11-24 12:47:30] style(ui): improve glassmorphism cyber-finance dashboard (Commit #413)
 - [2025-11-25 21:23:06] fix(parser): handle cross-border SWIFT wire transit edge cases (Commit #414)
 - [2025-11-25 17:04:57] docs(aml): update FinCEN BSA compliance guidelines (Commit #415)
+- [2025-11-25 19:15:40] feat(analytics): add betweenness centrality hub indicators (Commit #416)
