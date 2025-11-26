@@ -421,3 +421,4 @@
 - [2025-11-26 22:36:04] feat(rag): expand FATF 40 recommendations knowledge base (Commit #419)
 - [2025-11-26 20:58:37] test(integration): verify autonomous SAR generation pipeline (Commit #420)
 - [2025-11-26 21:48:55] chore(deps): update forensic cryptography packages (Commit #421)
+- [2025-11-26 10:56:18] test(sanctions): add fuzzy matching test cases for OFAC aliases (Commit #422)
