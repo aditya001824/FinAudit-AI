@@ -419,3 +419,4 @@
 - [2025-11-26 13:36:59] docs(aml): update FinCEN BSA compliance guidelines (Commit #417)
 - [2025-11-26 14:36:29] feat(engine): optimize forensic anomaly detector rules (Commit #418)
 - [2025-11-26 22:36:04] feat(rag): expand FATF 40 recommendations knowledge base (Commit #419)
+- [2025-11-26 20:58:37] test(integration): verify autonomous SAR generation pipeline (Commit #420)
