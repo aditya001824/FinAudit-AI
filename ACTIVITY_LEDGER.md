@@ -423,3 +423,4 @@
 - [2025-11-26 21:48:55] chore(deps): update forensic cryptography packages (Commit #421)
 - [2025-11-26 10:56:18] test(sanctions): add fuzzy matching test cases for OFAC aliases (Commit #422)
 - [2025-11-27 10:11:46] fix(parser): handle cross-border SWIFT wire transit edge cases (Commit #423)
+- [2025-11-27 09:16:12] fix(parser): handle cross-border SWIFT wire transit edge cases (Commit #424)
