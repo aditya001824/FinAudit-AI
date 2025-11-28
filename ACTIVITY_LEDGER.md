@@ -427,3 +427,4 @@
 - [2025-11-27 21:28:42] refactor(models): strengthen Pydantic v2 validation schemas (Commit #425)
 - [2025-11-28 15:11:37] feat(analytics): add betweenness centrality hub indicators (Commit #426)
 - [2025-11-28 12:25:48] test(integration): verify autonomous SAR generation pipeline (Commit #427)
+- [2025-11-28 14:19:59] test(sanctions): add fuzzy matching test cases for OFAC aliases (Commit #428)
