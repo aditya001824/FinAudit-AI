@@ -429,3 +429,4 @@
 - [2025-11-28 12:25:48] test(integration): verify autonomous SAR generation pipeline (Commit #427)
 - [2025-11-28 14:19:59] test(sanctions): add fuzzy matching test cases for OFAC aliases (Commit #428)
 - [2025-11-29 21:47:07] style(ui): improve glassmorphism cyber-finance dashboard (Commit #429)
+- [2025-11-29 14:04:29] feat(analytics): add betweenness centrality hub indicators (Commit #430)
