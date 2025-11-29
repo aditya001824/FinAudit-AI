@@ -430,3 +430,4 @@
 - [2025-11-28 14:19:59] test(sanctions): add fuzzy matching test cases for OFAC aliases (Commit #428)
 - [2025-11-29 21:47:07] style(ui): improve glassmorphism cyber-finance dashboard (Commit #429)
 - [2025-11-29 14:04:29] feat(analytics): add betweenness centrality hub indicators (Commit #430)
+- [2025-11-29 19:28:58] refactor(graph): enhance NetworkX cycle detection algorithm (Commit #431)
