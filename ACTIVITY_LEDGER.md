@@ -432,3 +432,4 @@
 - [2025-11-29 14:04:29] feat(analytics): add betweenness centrality hub indicators (Commit #430)
 - [2025-11-29 19:28:58] refactor(graph): enhance NetworkX cycle detection algorithm (Commit #431)
 - [2025-11-29 14:49:06] refactor(graph): enhance NetworkX cycle detection algorithm (Commit #432)
+- [2025-11-29 12:50:51] chore(deps): update forensic cryptography packages (Commit #433)
