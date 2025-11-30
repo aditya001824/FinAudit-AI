@@ -435,3 +435,4 @@
 - [2025-11-29 12:50:51] chore(deps): update forensic cryptography packages (Commit #433)
 - [2025-11-30 15:22:47] feat(rag): expand FATF 40 recommendations knowledge base (Commit #434)
 - [2025-11-30 17:58:53] feat(engine): optimize forensic anomaly detector rules (Commit #435)
+- [2025-11-30 14:35:43] refactor(models): strengthen Pydantic v2 validation schemas (Commit #436)
