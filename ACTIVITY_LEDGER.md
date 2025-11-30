@@ -433,3 +433,4 @@
 - [2025-11-29 19:28:58] refactor(graph): enhance NetworkX cycle detection algorithm (Commit #431)
 - [2025-11-29 14:49:06] refactor(graph): enhance NetworkX cycle detection algorithm (Commit #432)
 - [2025-11-29 12:50:51] chore(deps): update forensic cryptography packages (Commit #433)
+- [2025-11-30 15:22:47] feat(rag): expand FATF 40 recommendations knowledge base (Commit #434)
