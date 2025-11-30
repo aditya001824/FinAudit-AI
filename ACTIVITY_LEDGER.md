@@ -437,3 +437,4 @@
 - [2025-11-30 17:58:53] feat(engine): optimize forensic anomaly detector rules (Commit #435)
 - [2025-11-30 14:35:43] refactor(models): strengthen Pydantic v2 validation schemas (Commit #436)
 - [2025-11-30 10:18:57] refactor(graph): enhance NetworkX cycle detection algorithm (Commit #437)
+- [2025-11-30 14:05:02] style(ui): improve glassmorphism cyber-finance dashboard (Commit #438)
