@@ -436,3 +436,4 @@
 - [2025-11-30 15:22:47] feat(rag): expand FATF 40 recommendations knowledge base (Commit #434)
 - [2025-11-30 17:58:53] feat(engine): optimize forensic anomaly detector rules (Commit #435)
 - [2025-11-30 14:35:43] refactor(models): strengthen Pydantic v2 validation schemas (Commit #436)
+- [2025-11-30 10:18:57] refactor(graph): enhance NetworkX cycle detection algorithm (Commit #437)
