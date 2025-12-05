@@ -454,3 +454,4 @@
 - [2025-12-04 19:26:18] chore(deps): update forensic cryptography packages (Commit #452)
 - [2025-12-04 13:14:37] docs(aml): update FinCEN BSA compliance guidelines (Commit #453)
 - [2025-12-04 16:02:09] test(integration): verify autonomous SAR generation pipeline (Commit #454)
+- [2025-12-05 14:16:07] docs(sar): update FinCEN Form 111 XML filing schemas (Commit #455)
