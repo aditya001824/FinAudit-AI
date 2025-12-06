@@ -458,3 +458,4 @@
 - [2025-12-05 17:21:22] docs(aml): update FinCEN BSA compliance guidelines (Commit #456)
 - [2025-12-05 20:11:20] chore(deps): update forensic cryptography packages (Commit #457)
 - [2025-12-06 12:54:37] feat(rag): expand FATF 40 recommendations knowledge base (Commit #458)
+- [2025-12-06 20:54:40] feat(engine): optimize forensic anomaly detector rules (Commit #459)
