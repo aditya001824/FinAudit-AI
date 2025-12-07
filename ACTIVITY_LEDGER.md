@@ -464,3 +464,4 @@
 - [2025-12-07 13:42:05] style(ui): improve glassmorphism cyber-finance dashboard (Commit #462)
 - [2025-12-07 09:54:57] perf(agent): reduce ReAct multi-agent thought latency (Commit #463)
 - [2025-12-07 12:25:49] perf(agent): reduce ReAct multi-agent thought latency (Commit #464)
+- [2025-12-07 21:28:00] docs(sar): update FinCEN Form 111 XML filing schemas (Commit #465)
