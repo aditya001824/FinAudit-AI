@@ -474,3 +474,4 @@
 - [2025-12-09 11:48:32] docs(sar): update FinCEN Form 111 XML filing schemas (Commit #472)
 - [2025-12-09 20:17:12] refactor(graph): enhance NetworkX cycle detection algorithm (Commit #473)
 - [2025-12-09 21:10:30] feat(rag): expand FATF 40 recommendations knowledge base (Commit #474)
+- [2025-12-09 18:52:22] feat(engine): optimize forensic anomaly detector rules (Commit #475)
