@@ -477,3 +477,4 @@
 - [2025-12-09 18:52:22] feat(engine): optimize forensic anomaly detector rules (Commit #475)
 - [2025-12-09 14:20:19] fix(parser): handle cross-border SWIFT wire transit edge cases (Commit #476)
 - [2025-12-10 19:02:24] chore(deps): update forensic cryptography packages (Commit #477)
+- [2025-12-10 19:48:47] docs(sar): update FinCEN Form 111 XML filing schemas (Commit #478)
