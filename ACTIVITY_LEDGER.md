@@ -481,3 +481,4 @@
 - [2025-12-10 15:45:23] docs(sar): update FinCEN Form 111 XML filing schemas (Commit #479)
 - [2025-12-10 10:15:22] chore(ci): optimize daily maintenance automated sync (Commit #480)
 - [2025-12-11 15:23:45] docs(sar): update FinCEN Form 111 XML filing schemas (Commit #481)
+- [2025-12-11 13:04:17] feat(analytics): add betweenness centrality hub indicators (Commit #482)
