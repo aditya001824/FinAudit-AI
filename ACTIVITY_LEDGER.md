@@ -485,3 +485,4 @@
 - [2025-12-11 15:53:25] perf(agent): reduce ReAct multi-agent thought latency (Commit #483)
 - [2025-12-12 11:54:26] feat(analytics): add betweenness centrality hub indicators (Commit #484)
 - [2025-12-12 22:38:01] docs(sar): update FinCEN Form 111 XML filing schemas (Commit #485)
+- [2025-12-12 20:18:08] feat(engine): optimize forensic anomaly detector rules (Commit #486)
