@@ -488,3 +488,4 @@
 - [2025-12-12 20:18:08] feat(engine): optimize forensic anomaly detector rules (Commit #486)
 - [2025-12-13 13:47:32] test(sanctions): add fuzzy matching test cases for OFAC aliases (Commit #487)
 - [2025-12-13 11:09:04] style(ui): improve glassmorphism cyber-finance dashboard (Commit #488)
+- [2025-12-13 15:17:24] feat(analytics): add betweenness centrality hub indicators (Commit #489)
