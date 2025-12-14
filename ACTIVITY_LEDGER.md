@@ -492,3 +492,4 @@
 - [2025-12-14 11:54:11] fix(parser): handle cross-border SWIFT wire transit edge cases (Commit #490)
 - [2025-12-14 21:32:01] refactor(graph): enhance NetworkX cycle detection algorithm (Commit #491)
 - [2025-12-14 09:07:05] chore(deps): update forensic cryptography packages (Commit #492)
+- [2025-12-14 18:40:26] feat(analytics): add betweenness centrality hub indicators (Commit #493)
