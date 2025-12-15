@@ -494,3 +494,4 @@
 - [2025-12-14 09:07:05] chore(deps): update forensic cryptography packages (Commit #492)
 - [2025-12-14 18:40:26] feat(analytics): add betweenness centrality hub indicators (Commit #493)
 - [2025-12-14 20:49:30] docs(aml): update FinCEN BSA compliance guidelines (Commit #494)
+- [2025-12-15 13:30:12] chore(deps): update forensic cryptography packages (Commit #495)
