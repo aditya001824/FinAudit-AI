@@ -499,3 +499,4 @@
 - [2025-12-15 11:02:11] refactor(models): strengthen Pydantic v2 validation schemas (Commit #497)
 - [2025-12-15 16:17:20] perf(agent): reduce ReAct multi-agent thought latency (Commit #498)
 - [2025-12-16 10:55:41] chore(ci): optimize daily maintenance automated sync (Commit #499)
+- [2025-12-16 21:16:28] feat(engine): optimize forensic anomaly detector rules (Commit #500)
