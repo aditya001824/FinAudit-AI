@@ -502,3 +502,4 @@
 - [2025-12-16 21:16:28] feat(engine): optimize forensic anomaly detector rules (Commit #500)
 - [2025-12-16 13:18:50] feat(analytics): add betweenness centrality hub indicators (Commit #501)
 - [2025-12-16 11:16:32] docs(sar): update FinCEN Form 111 XML filing schemas (Commit #502)
+- [2025-12-16 20:56:41] fix(parser): handle cross-border SWIFT wire transit edge cases (Commit #503)
