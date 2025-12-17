@@ -505,3 +505,4 @@
 - [2025-12-16 20:56:41] fix(parser): handle cross-border SWIFT wire transit edge cases (Commit #503)
 - [2025-12-17 09:48:03] feat(engine): optimize forensic anomaly detector rules (Commit #504)
 - [2025-12-17 18:39:44] chore(deps): update forensic cryptography packages (Commit #505)
+- [2025-12-17 13:03:17] fix(parser): handle cross-border SWIFT wire transit edge cases (Commit #506)
