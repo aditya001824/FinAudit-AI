@@ -507,3 +507,4 @@
 - [2025-12-17 18:39:44] chore(deps): update forensic cryptography packages (Commit #505)
 - [2025-12-17 13:03:17] fix(parser): handle cross-border SWIFT wire transit edge cases (Commit #506)
 - [2025-12-18 15:05:15] feat(engine): optimize forensic anomaly detector rules (Commit #507)
+- [2025-12-18 09:26:43] test(sanctions): add fuzzy matching test cases for OFAC aliases (Commit #508)
