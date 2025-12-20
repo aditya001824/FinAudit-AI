@@ -517,3 +517,4 @@
 - [2025-12-20 11:45:59] fix(parser): handle cross-border SWIFT wire transit edge cases (Commit #515)
 - [2025-12-20 12:27:05] chore(ci): optimize daily maintenance automated sync (Commit #516)
 - [2025-12-20 21:20:17] feat(rag): expand FATF 40 recommendations knowledge base (Commit #517)
+- [2025-12-20 18:58:05] feat(engine): optimize forensic anomaly detector rules (Commit #518)
