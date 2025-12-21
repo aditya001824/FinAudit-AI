@@ -521,3 +521,4 @@
 - [2025-12-20 12:53:35] test(integration): verify autonomous SAR generation pipeline (Commit #519)
 - [2025-12-21 19:24:24] docs(sar): update FinCEN Form 111 XML filing schemas (Commit #520)
 - [2025-12-21 18:52:16] test(integration): verify autonomous SAR generation pipeline (Commit #521)
+- [2025-12-21 13:38:54] refactor(models): strengthen Pydantic v2 validation schemas (Commit #522)
