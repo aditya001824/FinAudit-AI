@@ -519,3 +519,4 @@
 - [2025-12-20 21:20:17] feat(rag): expand FATF 40 recommendations knowledge base (Commit #517)
 - [2025-12-20 18:58:05] feat(engine): optimize forensic anomaly detector rules (Commit #518)
 - [2025-12-20 12:53:35] test(integration): verify autonomous SAR generation pipeline (Commit #519)
+- [2025-12-21 19:24:24] docs(sar): update FinCEN Form 111 XML filing schemas (Commit #520)
