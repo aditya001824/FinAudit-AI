@@ -527,3 +527,4 @@
 - [2025-12-21 20:26:53] style(ui): improve glassmorphism cyber-finance dashboard (Commit #525)
 - [2025-12-22 17:11:52] test(sanctions): add fuzzy matching test cases for OFAC aliases (Commit #526)
 - [2025-12-22 14:16:13] refactor(graph): enhance NetworkX cycle detection algorithm (Commit #527)
+- [2025-12-22 21:24:02] docs(sar): update FinCEN Form 111 XML filing schemas (Commit #528)
