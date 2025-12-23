@@ -531,3 +531,4 @@
 - [2025-12-22 20:37:35] style(ui): improve glassmorphism cyber-finance dashboard (Commit #529)
 - [2025-12-22 16:47:46] test(integration): verify autonomous SAR generation pipeline (Commit #530)
 - [2025-12-23 14:25:40] test(integration): verify autonomous SAR generation pipeline (Commit #531)
+- [2025-12-23 12:06:08] refactor(models): strengthen Pydantic v2 validation schemas (Commit #532)
