@@ -534,3 +534,4 @@
 - [2025-12-23 12:06:08] refactor(models): strengthen Pydantic v2 validation schemas (Commit #532)
 - [2025-12-23 09:30:34] feat(engine): optimize forensic anomaly detector rules (Commit #533)
 - [2025-12-24 09:44:19] fix(parser): handle cross-border SWIFT wire transit edge cases (Commit #534)
+- [2025-12-24 21:20:04] refactor(graph): enhance NetworkX cycle detection algorithm (Commit #535)
