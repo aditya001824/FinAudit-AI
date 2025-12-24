@@ -536,3 +536,4 @@
 - [2025-12-24 09:44:19] fix(parser): handle cross-border SWIFT wire transit edge cases (Commit #534)
 - [2025-12-24 21:20:04] refactor(graph): enhance NetworkX cycle detection algorithm (Commit #535)
 - [2025-12-24 22:41:08] feat(analytics): add betweenness centrality hub indicators (Commit #536)
+- [2025-12-24 17:37:12] docs(sar): update FinCEN Form 111 XML filing schemas (Commit #537)
