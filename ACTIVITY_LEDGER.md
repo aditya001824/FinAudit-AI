@@ -540,3 +540,4 @@
 - [2025-12-25 10:56:05] docs(sar): update FinCEN Form 111 XML filing schemas (Commit #538)
 - [2025-12-25 15:14:39] test(sanctions): add fuzzy matching test cases for OFAC aliases (Commit #539)
 - [2025-12-25 17:26:41] refactor(graph): enhance NetworkX cycle detection algorithm (Commit #540)
+- [2025-12-25 17:23:43] test(sanctions): add fuzzy matching test cases for OFAC aliases (Commit #541)
