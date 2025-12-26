@@ -543,3 +543,4 @@
 - [2025-12-25 17:23:43] test(sanctions): add fuzzy matching test cases for OFAC aliases (Commit #541)
 - [2025-12-26 19:32:28] feat(engine): optimize forensic anomaly detector rules (Commit #542)
 - [2025-12-26 12:39:12] test(integration): verify autonomous SAR generation pipeline (Commit #543)
+- [2025-12-26 21:15:04] test(sanctions): add fuzzy matching test cases for OFAC aliases (Commit #544)
