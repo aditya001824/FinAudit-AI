@@ -545,3 +545,4 @@
 - [2025-12-26 12:39:12] test(integration): verify autonomous SAR generation pipeline (Commit #543)
 - [2025-12-26 21:15:04] test(sanctions): add fuzzy matching test cases for OFAC aliases (Commit #544)
 - [2025-12-26 20:13:23] feat(rag): expand FATF 40 recommendations knowledge base (Commit #545)
+- [2025-12-27 18:56:51] perf(agent): reduce ReAct multi-agent thought latency (Commit #546)
