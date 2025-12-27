@@ -548,3 +548,4 @@
 - [2025-12-27 18:56:51] perf(agent): reduce ReAct multi-agent thought latency (Commit #546)
 - [2025-12-27 21:03:38] feat(engine): optimize forensic anomaly detector rules (Commit #547)
 - [2025-12-27 16:28:28] fix(parser): handle cross-border SWIFT wire transit edge cases (Commit #548)
+- [2025-12-27 12:43:43] refactor(graph): enhance NetworkX cycle detection algorithm (Commit #549)
