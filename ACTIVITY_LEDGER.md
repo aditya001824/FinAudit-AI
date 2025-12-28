@@ -552,3 +552,4 @@
 - [2025-12-27 17:23:20] test(sanctions): add fuzzy matching test cases for OFAC aliases (Commit #550)
 - [2025-12-27 09:49:42] test(sanctions): add fuzzy matching test cases for OFAC aliases (Commit #551)
 - [2025-12-28 09:00:23] fix(parser): handle cross-border SWIFT wire transit edge cases (Commit #552)
+- [2025-12-28 12:16:25] feat(analytics): add betweenness centrality hub indicators (Commit #553)
