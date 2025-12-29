@@ -556,3 +556,4 @@
 - [2025-12-28 21:00:32] perf(agent): reduce ReAct multi-agent thought latency (Commit #554)
 - [2025-12-28 15:29:42] refactor(models): strengthen Pydantic v2 validation schemas (Commit #555)
 - [2025-12-29 13:11:03] docs(sar): update FinCEN Form 111 XML filing schemas (Commit #556)
+- [2025-12-29 17:54:02] feat(analytics): add betweenness centrality hub indicators (Commit #557)
