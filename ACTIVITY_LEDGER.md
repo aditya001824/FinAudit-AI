@@ -560,3 +560,4 @@
 - [2025-12-29 12:06:00] feat(rag): expand FATF 40 recommendations knowledge base (Commit #558)
 - [2025-12-29 11:25:25] refactor(graph): enhance NetworkX cycle detection algorithm (Commit #559)
 - [2025-12-29 21:57:48] docs(aml): update FinCEN BSA compliance guidelines (Commit #560)
+- [2025-12-30 19:21:39] refactor(graph): enhance NetworkX cycle detection algorithm (Commit #561)
