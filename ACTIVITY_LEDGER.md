@@ -562,3 +562,4 @@
 - [2025-12-29 21:57:48] docs(aml): update FinCEN BSA compliance guidelines (Commit #560)
 - [2025-12-30 19:21:39] refactor(graph): enhance NetworkX cycle detection algorithm (Commit #561)
 - [2025-12-30 10:39:20] chore(ci): optimize daily maintenance automated sync (Commit #562)
+- [2025-12-30 22:07:56] test(sanctions): add fuzzy matching test cases for OFAC aliases (Commit #563)
