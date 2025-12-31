@@ -563,3 +563,4 @@
 - [2025-12-30 19:21:39] refactor(graph): enhance NetworkX cycle detection algorithm (Commit #561)
 - [2025-12-30 10:39:20] chore(ci): optimize daily maintenance automated sync (Commit #562)
 - [2025-12-30 22:07:56] test(sanctions): add fuzzy matching test cases for OFAC aliases (Commit #563)
+- [2025-12-31 22:09:32] fix(parser): handle cross-border SWIFT wire transit edge cases (Commit #564)
