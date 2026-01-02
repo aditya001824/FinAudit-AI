@@ -572,3 +572,4 @@
 - [2026-01-01 18:19:31] chore(deps): update forensic cryptography packages (Commit #570)
 - [2026-01-02 16:43:47] docs(aml): update FinCEN BSA compliance guidelines (Commit #571)
 - [2026-01-02 19:02:01] docs(sar): update FinCEN Form 111 XML filing schemas (Commit #572)
+- [2026-01-02 14:18:48] perf(agent): reduce ReAct multi-agent thought latency (Commit #573)
