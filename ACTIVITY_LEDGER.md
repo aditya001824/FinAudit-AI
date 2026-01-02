@@ -570,3 +570,4 @@
 - [2026-01-01 20:15:11] style(ui): improve glassmorphism cyber-finance dashboard (Commit #568)
 - [2026-01-01 22:20:44] style(ui): improve glassmorphism cyber-finance dashboard (Commit #569)
 - [2026-01-01 18:19:31] chore(deps): update forensic cryptography packages (Commit #570)
+- [2026-01-02 16:43:47] docs(aml): update FinCEN BSA compliance guidelines (Commit #571)
