@@ -574,3 +574,4 @@
 - [2026-01-02 19:02:01] docs(sar): update FinCEN Form 111 XML filing schemas (Commit #572)
 - [2026-01-02 14:18:48] perf(agent): reduce ReAct multi-agent thought latency (Commit #573)
 - [2026-01-02 13:13:43] feat(rag): expand FATF 40 recommendations knowledge base (Commit #574)
+- [2026-01-03 09:12:02] refactor(models): strengthen Pydantic v2 validation schemas (Commit #575)
