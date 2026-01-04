@@ -577,3 +577,4 @@
 - [2026-01-03 09:12:02] refactor(models): strengthen Pydantic v2 validation schemas (Commit #575)
 - [2026-01-03 22:22:34] chore(deps): update forensic cryptography packages (Commit #576)
 - [2026-01-03 22:27:55] chore(ci): optimize daily maintenance automated sync (Commit #577)
+- [2026-01-04 18:41:57] fix(parser): handle cross-border SWIFT wire transit edge cases (Commit #578)
