@@ -580,3 +580,4 @@
 - [2026-01-04 18:41:57] fix(parser): handle cross-border SWIFT wire transit edge cases (Commit #578)
 - [2026-01-04 19:03:32] feat(rag): expand FATF 40 recommendations knowledge base (Commit #579)
 - [2026-01-04 20:43:08] feat(engine): optimize forensic anomaly detector rules (Commit #580)
+- [2026-01-05 20:26:37] docs(aml): update FinCEN BSA compliance guidelines (Commit #581)
