@@ -584,3 +584,4 @@
 - [2026-01-05 22:33:49] chore(ci): optimize daily maintenance automated sync (Commit #582)
 - [2026-01-05 09:16:21] fix(parser): handle cross-border SWIFT wire transit edge cases (Commit #583)
 - [2026-01-06 11:43:47] feat(engine): optimize forensic anomaly detector rules (Commit #584)
+- [2026-01-06 20:20:38] refactor(models): strengthen Pydantic v2 validation schemas (Commit #585)
