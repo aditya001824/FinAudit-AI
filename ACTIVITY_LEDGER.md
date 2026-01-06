@@ -583,3 +583,4 @@
 - [2026-01-05 20:26:37] docs(aml): update FinCEN BSA compliance guidelines (Commit #581)
 - [2026-01-05 22:33:49] chore(ci): optimize daily maintenance automated sync (Commit #582)
 - [2026-01-05 09:16:21] fix(parser): handle cross-border SWIFT wire transit edge cases (Commit #583)
+- [2026-01-06 11:43:47] feat(engine): optimize forensic anomaly detector rules (Commit #584)
