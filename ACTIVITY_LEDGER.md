@@ -590,3 +590,4 @@
 - [2026-01-06 21:00:25] style(ui): improve glassmorphism cyber-finance dashboard (Commit #588)
 - [2026-01-06 17:46:04] docs(aml): update FinCEN BSA compliance guidelines (Commit #589)
 - [2026-01-07 14:17:33] perf(agent): reduce ReAct multi-agent thought latency (Commit #590)
+- [2026-01-07 21:38:15] feat(analytics): add betweenness centrality hub indicators (Commit #591)
