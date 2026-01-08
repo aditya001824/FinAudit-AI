@@ -594,3 +594,4 @@
 - [2026-01-07 19:17:51] style(ui): improve glassmorphism cyber-finance dashboard (Commit #592)
 - [2026-01-07 17:58:07] chore(ci): optimize daily maintenance automated sync (Commit #593)
 - [2026-01-07 18:21:21] feat(engine): optimize forensic anomaly detector rules (Commit #594)
+- [2026-01-08 10:01:44] chore(deps): update forensic cryptography packages (Commit #595)
