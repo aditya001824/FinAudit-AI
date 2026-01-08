@@ -596,3 +596,4 @@
 - [2026-01-07 18:21:21] feat(engine): optimize forensic anomaly detector rules (Commit #594)
 - [2026-01-08 10:01:44] chore(deps): update forensic cryptography packages (Commit #595)
 - [2026-01-08 15:11:10] refactor(graph): enhance NetworkX cycle detection algorithm (Commit #596)
+- [2026-01-08 15:41:14] feat(rag): expand FATF 40 recommendations knowledge base (Commit #597)
