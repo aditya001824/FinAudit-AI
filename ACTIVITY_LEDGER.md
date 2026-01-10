@@ -606,3 +606,4 @@
 - [2026-01-10 10:03:03] perf(agent): reduce ReAct multi-agent thought latency (Commit #604)
 - [2026-01-10 22:49:21] chore(deps): update forensic cryptography packages (Commit #605)
 - [2026-01-10 12:14:22] docs(sar): update FinCEN Form 111 XML filing schemas (Commit #606)
+- [2026-01-10 10:53:36] feat(analytics): add betweenness centrality hub indicators (Commit #607)
