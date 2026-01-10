@@ -604,3 +604,4 @@
 - [2026-01-09 17:49:29] perf(agent): reduce ReAct multi-agent thought latency (Commit #602)
 - [2026-01-09 15:09:00] test(sanctions): add fuzzy matching test cases for OFAC aliases (Commit #603)
 - [2026-01-10 10:03:03] perf(agent): reduce ReAct multi-agent thought latency (Commit #604)
+- [2026-01-10 22:49:21] chore(deps): update forensic cryptography packages (Commit #605)
