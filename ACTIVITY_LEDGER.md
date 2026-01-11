@@ -608,3 +608,4 @@
 - [2026-01-10 12:14:22] docs(sar): update FinCEN Form 111 XML filing schemas (Commit #606)
 - [2026-01-10 10:53:36] feat(analytics): add betweenness centrality hub indicators (Commit #607)
 - [2026-01-11 16:06:02] feat(rag): expand FATF 40 recommendations knowledge base (Commit #608)
+- [2026-01-11 20:47:54] fix(parser): handle cross-border SWIFT wire transit edge cases (Commit #609)
