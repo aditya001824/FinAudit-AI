@@ -610,3 +610,4 @@
 - [2026-01-11 16:06:02] feat(rag): expand FATF 40 recommendations knowledge base (Commit #608)
 - [2026-01-11 20:47:54] fix(parser): handle cross-border SWIFT wire transit edge cases (Commit #609)
 - [2026-01-11 20:59:06] test(integration): verify autonomous SAR generation pipeline (Commit #610)
+- [2026-01-12 18:16:06] docs(aml): update FinCEN BSA compliance guidelines (Commit #611)
