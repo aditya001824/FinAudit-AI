@@ -613,3 +613,4 @@
 - [2026-01-12 18:16:06] docs(aml): update FinCEN BSA compliance guidelines (Commit #611)
 - [2026-01-12 18:33:04] perf(agent): reduce ReAct multi-agent thought latency (Commit #612)
 - [2026-01-12 15:33:59] perf(agent): reduce ReAct multi-agent thought latency (Commit #613)
+- [2026-01-12 20:36:03] fix(parser): handle cross-border SWIFT wire transit edge cases (Commit #614)
