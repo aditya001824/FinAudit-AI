@@ -614,3 +614,4 @@
 - [2026-01-12 18:33:04] perf(agent): reduce ReAct multi-agent thought latency (Commit #612)
 - [2026-01-12 15:33:59] perf(agent): reduce ReAct multi-agent thought latency (Commit #613)
 - [2026-01-12 20:36:03] fix(parser): handle cross-border SWIFT wire transit edge cases (Commit #614)
+- [2026-01-12 12:55:23] refactor(models): strengthen Pydantic v2 validation schemas (Commit #615)
