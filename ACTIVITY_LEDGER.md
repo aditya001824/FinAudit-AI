@@ -617,3 +617,4 @@
 - [2026-01-12 12:55:23] refactor(models): strengthen Pydantic v2 validation schemas (Commit #615)
 - [2026-01-13 19:14:39] docs(aml): update FinCEN BSA compliance guidelines (Commit #616)
 - [2026-01-13 18:28:51] test(sanctions): add fuzzy matching test cases for OFAC aliases (Commit #617)
+- [2026-01-13 19:45:04] docs(sar): update FinCEN Form 111 XML filing schemas (Commit #618)
