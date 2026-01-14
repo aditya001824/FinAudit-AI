@@ -620,3 +620,4 @@
 - [2026-01-13 19:45:04] docs(sar): update FinCEN Form 111 XML filing schemas (Commit #618)
 - [2026-01-13 21:03:53] test(sanctions): add fuzzy matching test cases for OFAC aliases (Commit #619)
 - [2026-01-14 22:22:57] feat(analytics): add betweenness centrality hub indicators (Commit #620)
+- [2026-01-14 22:56:16] refactor(graph): enhance NetworkX cycle detection algorithm (Commit #621)
