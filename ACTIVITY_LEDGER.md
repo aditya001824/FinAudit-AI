@@ -621,3 +621,4 @@
 - [2026-01-13 21:03:53] test(sanctions): add fuzzy matching test cases for OFAC aliases (Commit #619)
 - [2026-01-14 22:22:57] feat(analytics): add betweenness centrality hub indicators (Commit #620)
 - [2026-01-14 22:56:16] refactor(graph): enhance NetworkX cycle detection algorithm (Commit #621)
+- [2026-01-14 16:43:42] docs(aml): update FinCEN BSA compliance guidelines (Commit #622)
