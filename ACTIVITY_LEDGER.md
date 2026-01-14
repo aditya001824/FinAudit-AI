@@ -623,3 +623,4 @@
 - [2026-01-14 22:56:16] refactor(graph): enhance NetworkX cycle detection algorithm (Commit #621)
 - [2026-01-14 16:43:42] docs(aml): update FinCEN BSA compliance guidelines (Commit #622)
 - [2026-01-14 18:44:59] feat(analytics): add betweenness centrality hub indicators (Commit #623)
+- [2026-01-14 19:57:47] feat(rag): expand FATF 40 recommendations knowledge base (Commit #624)
