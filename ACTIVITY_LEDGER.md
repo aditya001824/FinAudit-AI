@@ -625,3 +625,4 @@
 - [2026-01-14 18:44:59] feat(analytics): add betweenness centrality hub indicators (Commit #623)
 - [2026-01-14 19:57:47] feat(rag): expand FATF 40 recommendations knowledge base (Commit #624)
 - [2026-01-14 15:31:48] style(ui): improve glassmorphism cyber-finance dashboard (Commit #625)
+- [2026-01-15 10:45:35] docs(aml): update FinCEN BSA compliance guidelines (Commit #626)
