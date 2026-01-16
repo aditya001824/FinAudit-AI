@@ -630,3 +630,4 @@
 - [2026-01-15 10:16:25] test(sanctions): add fuzzy matching test cases for OFAC aliases (Commit #628)
 - [2026-01-15 21:21:19] chore(ci): optimize daily maintenance automated sync (Commit #629)
 - [2026-01-15 20:06:52] chore(ci): optimize daily maintenance automated sync (Commit #630)
+- [2026-01-16 18:46:46] refactor(graph): enhance NetworkX cycle detection algorithm (Commit #631)
