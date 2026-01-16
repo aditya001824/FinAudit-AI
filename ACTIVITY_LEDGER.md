@@ -632,3 +632,4 @@
 - [2026-01-15 20:06:52] chore(ci): optimize daily maintenance automated sync (Commit #630)
 - [2026-01-16 18:46:46] refactor(graph): enhance NetworkX cycle detection algorithm (Commit #631)
 - [2026-01-16 22:15:27] docs(aml): update FinCEN BSA compliance guidelines (Commit #632)
+- [2026-01-16 09:40:02] fix(parser): handle cross-border SWIFT wire transit edge cases (Commit #633)
