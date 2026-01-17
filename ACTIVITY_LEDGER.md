@@ -636,3 +636,4 @@
 - [2026-01-16 22:52:25] style(ui): improve glassmorphism cyber-finance dashboard (Commit #634)
 - [2026-01-17 13:27:50] test(integration): verify autonomous SAR generation pipeline (Commit #635)
 - [2026-01-17 20:16:14] style(ui): improve glassmorphism cyber-finance dashboard (Commit #636)
+- [2026-01-17 15:11:54] docs(aml): update FinCEN BSA compliance guidelines (Commit #637)
