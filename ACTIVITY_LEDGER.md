@@ -638,3 +638,4 @@
 - [2026-01-17 20:16:14] style(ui): improve glassmorphism cyber-finance dashboard (Commit #636)
 - [2026-01-17 15:11:54] docs(aml): update FinCEN BSA compliance guidelines (Commit #637)
 - [2026-01-18 15:48:47] feat(rag): expand FATF 40 recommendations knowledge base (Commit #638)
+- [2026-01-18 10:33:30] test(sanctions): add fuzzy matching test cases for OFAC aliases (Commit #639)
