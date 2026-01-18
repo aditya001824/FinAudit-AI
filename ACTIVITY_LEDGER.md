@@ -640,3 +640,4 @@
 - [2026-01-18 15:48:47] feat(rag): expand FATF 40 recommendations knowledge base (Commit #638)
 - [2026-01-18 10:33:30] test(sanctions): add fuzzy matching test cases for OFAC aliases (Commit #639)
 - [2026-01-18 14:30:33] test(sanctions): add fuzzy matching test cases for OFAC aliases (Commit #640)
+- [2026-01-18 19:44:24] chore(deps): update forensic cryptography packages (Commit #641)
