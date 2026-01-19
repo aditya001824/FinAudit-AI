@@ -644,3 +644,4 @@
 - [2026-01-18 21:11:17] test(integration): verify autonomous SAR generation pipeline (Commit #642)
 - [2026-01-18 14:48:23] test(sanctions): add fuzzy matching test cases for OFAC aliases (Commit #643)
 - [2026-01-19 15:08:44] feat(rag): expand FATF 40 recommendations knowledge base (Commit #644)
+- [2026-01-19 15:51:20] feat(rag): expand FATF 40 recommendations knowledge base (Commit #645)
