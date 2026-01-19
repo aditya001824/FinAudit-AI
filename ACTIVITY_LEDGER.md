@@ -648,3 +648,4 @@
 - [2026-01-19 21:19:24] refactor(models): strengthen Pydantic v2 validation schemas (Commit #646)
 - [2026-01-19 16:25:17] feat(rag): expand FATF 40 recommendations knowledge base (Commit #647)
 - [2026-01-19 16:12:48] perf(agent): reduce ReAct multi-agent thought latency (Commit #648)
+- [2026-01-19 10:25:40] feat(rag): expand FATF 40 recommendations knowledge base (Commit #649)
