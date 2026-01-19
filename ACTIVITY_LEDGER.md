@@ -646,3 +646,4 @@
 - [2026-01-19 15:08:44] feat(rag): expand FATF 40 recommendations knowledge base (Commit #644)
 - [2026-01-19 15:51:20] feat(rag): expand FATF 40 recommendations knowledge base (Commit #645)
 - [2026-01-19 21:19:24] refactor(models): strengthen Pydantic v2 validation schemas (Commit #646)
+- [2026-01-19 16:25:17] feat(rag): expand FATF 40 recommendations knowledge base (Commit #647)
