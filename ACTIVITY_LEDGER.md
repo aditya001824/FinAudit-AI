@@ -651,3 +651,4 @@
 - [2026-01-19 10:25:40] feat(rag): expand FATF 40 recommendations knowledge base (Commit #649)
 - [2026-01-20 14:58:37] style(ui): improve glassmorphism cyber-finance dashboard (Commit #650)
 - [2026-01-20 12:51:09] refactor(models): strengthen Pydantic v2 validation schemas (Commit #651)
+- [2026-01-20 10:38:37] docs(sar): update FinCEN Form 111 XML filing schemas (Commit #652)
