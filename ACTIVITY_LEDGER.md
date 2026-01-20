@@ -649,3 +649,4 @@
 - [2026-01-19 16:25:17] feat(rag): expand FATF 40 recommendations knowledge base (Commit #647)
 - [2026-01-19 16:12:48] perf(agent): reduce ReAct multi-agent thought latency (Commit #648)
 - [2026-01-19 10:25:40] feat(rag): expand FATF 40 recommendations knowledge base (Commit #649)
+- [2026-01-20 14:58:37] style(ui): improve glassmorphism cyber-finance dashboard (Commit #650)
