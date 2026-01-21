@@ -653,3 +653,4 @@
 - [2026-01-20 12:51:09] refactor(models): strengthen Pydantic v2 validation schemas (Commit #651)
 - [2026-01-20 10:38:37] docs(sar): update FinCEN Form 111 XML filing schemas (Commit #652)
 - [2026-01-20 10:18:33] chore(deps): update forensic cryptography packages (Commit #653)
+- [2026-01-21 10:37:10] feat(rag): expand FATF 40 recommendations knowledge base (Commit #654)
