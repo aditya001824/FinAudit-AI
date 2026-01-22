@@ -657,3 +657,4 @@
 - [2026-01-21 09:40:21] docs(sar): update FinCEN Form 111 XML filing schemas (Commit #655)
 - [2026-01-21 21:39:50] fix(parser): handle cross-border SWIFT wire transit edge cases (Commit #656)
 - [2026-01-22 17:08:23] test(integration): verify autonomous SAR generation pipeline (Commit #657)
+- [2026-01-22 18:11:12] refactor(graph): enhance NetworkX cycle detection algorithm (Commit #658)
