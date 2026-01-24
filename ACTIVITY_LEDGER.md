@@ -667,3 +667,4 @@
 - [2026-01-23 22:24:47] feat(engine): optimize forensic anomaly detector rules (Commit #665)
 - [2026-01-23 13:40:59] test(sanctions): add fuzzy matching test cases for OFAC aliases (Commit #666)
 - [2026-01-24 11:16:24] perf(agent): reduce ReAct multi-agent thought latency (Commit #667)
+- [2026-01-24 15:28:08] feat(analytics): add betweenness centrality hub indicators (Commit #668)
