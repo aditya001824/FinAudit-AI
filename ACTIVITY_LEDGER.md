@@ -675,3 +675,4 @@
 - [2026-01-25 21:17:28] fix(parser): handle cross-border SWIFT wire transit edge cases (Commit #673)
 - [2026-01-25 22:01:28] chore(deps): update forensic cryptography packages (Commit #674)
 - [2026-01-25 18:14:47] test(integration): verify autonomous SAR generation pipeline (Commit #675)
+- [2026-01-25 18:03:03] feat(engine): optimize forensic anomaly detector rules (Commit #676)
