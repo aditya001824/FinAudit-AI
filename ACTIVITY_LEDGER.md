@@ -688,3 +688,4 @@
 - [2026-01-27 13:12:30] test(sanctions): add fuzzy matching test cases for OFAC aliases (Commit #686)
 - [2026-01-27 10:51:30] test(sanctions): add fuzzy matching test cases for OFAC aliases (Commit #687)
 - [2026-01-27 14:03:39] test(sanctions): add fuzzy matching test cases for OFAC aliases (Commit #688)
+- [2026-01-27 20:20:49] test(sanctions): add fuzzy matching test cases for OFAC aliases (Commit #689)
