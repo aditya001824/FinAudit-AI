@@ -693,3 +693,4 @@
 - [2026-01-28 11:26:50] perf(agent): reduce ReAct multi-agent thought latency (Commit #691)
 - [2026-01-28 15:02:47] chore(ci): optimize daily maintenance automated sync (Commit #692)
 - [2026-01-28 19:51:24] chore(ci): optimize daily maintenance automated sync (Commit #693)
+- [2026-01-28 17:10:26] feat(rag): expand FATF 40 recommendations knowledge base (Commit #694)
