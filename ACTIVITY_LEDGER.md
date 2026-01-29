@@ -695,3 +695,4 @@
 - [2026-01-28 19:51:24] chore(ci): optimize daily maintenance automated sync (Commit #693)
 - [2026-01-28 17:10:26] feat(rag): expand FATF 40 recommendations knowledge base (Commit #694)
 - [2026-01-29 16:33:41] test(sanctions): add fuzzy matching test cases for OFAC aliases (Commit #695)
+- [2026-01-29 19:07:09] perf(agent): reduce ReAct multi-agent thought latency (Commit #696)
