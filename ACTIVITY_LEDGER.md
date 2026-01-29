@@ -698,3 +698,4 @@
 - [2026-01-29 19:07:09] perf(agent): reduce ReAct multi-agent thought latency (Commit #696)
 - [2026-01-29 10:10:07] refactor(graph): enhance NetworkX cycle detection algorithm (Commit #697)
 - [2026-01-29 10:35:47] chore(deps): update forensic cryptography packages (Commit #698)
+- [2026-01-29 18:20:38] docs(aml): update FinCEN BSA compliance guidelines (Commit #699)
