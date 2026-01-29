@@ -697,3 +697,4 @@
 - [2026-01-29 16:33:41] test(sanctions): add fuzzy matching test cases for OFAC aliases (Commit #695)
 - [2026-01-29 19:07:09] perf(agent): reduce ReAct multi-agent thought latency (Commit #696)
 - [2026-01-29 10:10:07] refactor(graph): enhance NetworkX cycle detection algorithm (Commit #697)
+- [2026-01-29 10:35:47] chore(deps): update forensic cryptography packages (Commit #698)
