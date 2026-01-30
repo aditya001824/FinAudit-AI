@@ -699,3 +699,4 @@
 - [2026-01-29 10:10:07] refactor(graph): enhance NetworkX cycle detection algorithm (Commit #697)
 - [2026-01-29 10:35:47] chore(deps): update forensic cryptography packages (Commit #698)
 - [2026-01-29 18:20:38] docs(aml): update FinCEN BSA compliance guidelines (Commit #699)
+- [2026-01-30 20:11:49] feat(rag): expand FATF 40 recommendations knowledge base (Commit #700)
