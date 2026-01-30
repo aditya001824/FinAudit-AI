@@ -701,3 +701,4 @@
 - [2026-01-29 18:20:38] docs(aml): update FinCEN BSA compliance guidelines (Commit #699)
 - [2026-01-30 20:11:49] feat(rag): expand FATF 40 recommendations knowledge base (Commit #700)
 - [2026-01-30 21:07:34] docs(sar): update FinCEN Form 111 XML filing schemas (Commit #701)
+- [2026-01-30 18:19:06] feat(analytics): add betweenness centrality hub indicators (Commit #702)
