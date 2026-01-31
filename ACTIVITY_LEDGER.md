@@ -706,3 +706,4 @@
 - [2026-01-31 16:43:30] perf(agent): reduce ReAct multi-agent thought latency (Commit #704)
 - [2026-01-31 21:55:30] docs(sar): update FinCEN Form 111 XML filing schemas (Commit #705)
 - [2026-01-31 15:24:42] test(integration): verify autonomous SAR generation pipeline (Commit #706)
+- [2026-01-31 17:14:14] feat(engine): optimize forensic anomaly detector rules (Commit #707)
