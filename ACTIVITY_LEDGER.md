@@ -704,3 +704,4 @@
 - [2026-01-30 18:19:06] feat(analytics): add betweenness centrality hub indicators (Commit #702)
 - [2026-01-31 19:45:17] test(integration): verify autonomous SAR generation pipeline (Commit #703)
 - [2026-01-31 16:43:30] perf(agent): reduce ReAct multi-agent thought latency (Commit #704)
+- [2026-01-31 21:55:30] docs(sar): update FinCEN Form 111 XML filing schemas (Commit #705)
