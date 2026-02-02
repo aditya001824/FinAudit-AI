@@ -713,3 +713,4 @@
 - [2026-02-02 22:43:47] docs(sar): update FinCEN Form 111 XML filing schemas (Commit #711)
 - [2026-02-02 17:29:36] style(ui): improve glassmorphism cyber-finance dashboard (Commit #712)
 - [2026-02-02 10:39:30] test(integration): verify autonomous SAR generation pipeline (Commit #713)
+- [2026-02-02 20:23:32] feat(analytics): add betweenness centrality hub indicators (Commit #714)
