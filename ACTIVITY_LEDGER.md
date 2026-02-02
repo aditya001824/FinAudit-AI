@@ -710,3 +710,4 @@
 - [2026-02-01 21:27:27] fix(parser): handle cross-border SWIFT wire transit edge cases (Commit #708)
 - [2026-02-01 18:52:29] feat(rag): expand FATF 40 recommendations knowledge base (Commit #709)
 - [2026-02-01 14:47:45] docs(aml): update FinCEN BSA compliance guidelines (Commit #710)
+- [2026-02-02 22:43:47] docs(sar): update FinCEN Form 111 XML filing schemas (Commit #711)
