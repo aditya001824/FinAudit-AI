@@ -715,3 +715,4 @@
 - [2026-02-02 10:39:30] test(integration): verify autonomous SAR generation pipeline (Commit #713)
 - [2026-02-02 20:23:32] feat(analytics): add betweenness centrality hub indicators (Commit #714)
 - [2026-02-02 11:15:32] refactor(graph): enhance NetworkX cycle detection algorithm (Commit #715)
+- [2026-02-03 11:47:41] fix(parser): handle cross-border SWIFT wire transit edge cases (Commit #716)
