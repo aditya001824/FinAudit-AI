@@ -718,3 +718,4 @@
 - [2026-02-03 11:47:41] fix(parser): handle cross-border SWIFT wire transit edge cases (Commit #716)
 - [2026-02-03 15:39:56] docs(aml): update FinCEN BSA compliance guidelines (Commit #717)
 - [2026-02-03 10:34:23] fix(parser): handle cross-border SWIFT wire transit edge cases (Commit #718)
+- [2026-02-03 21:52:04] refactor(graph): enhance NetworkX cycle detection algorithm (Commit #719)
