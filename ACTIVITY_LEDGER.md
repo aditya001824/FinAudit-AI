@@ -722,3 +722,4 @@
 - [2026-02-03 18:07:16] test(sanctions): add fuzzy matching test cases for OFAC aliases (Commit #720)
 - [2026-02-04 15:39:06] fix(parser): handle cross-border SWIFT wire transit edge cases (Commit #721)
 - [2026-02-04 13:05:43] feat(rag): expand FATF 40 recommendations knowledge base (Commit #722)
+- [2026-02-04 20:24:39] style(ui): improve glassmorphism cyber-finance dashboard (Commit #723)
