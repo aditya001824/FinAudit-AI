@@ -720,3 +720,4 @@
 - [2026-02-03 10:34:23] fix(parser): handle cross-border SWIFT wire transit edge cases (Commit #718)
 - [2026-02-03 21:52:04] refactor(graph): enhance NetworkX cycle detection algorithm (Commit #719)
 - [2026-02-03 18:07:16] test(sanctions): add fuzzy matching test cases for OFAC aliases (Commit #720)
+- [2026-02-04 15:39:06] fix(parser): handle cross-border SWIFT wire transit edge cases (Commit #721)
