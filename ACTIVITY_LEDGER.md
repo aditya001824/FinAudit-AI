@@ -726,3 +726,4 @@
 - [2026-02-05 21:40:58] refactor(models): strengthen Pydantic v2 validation schemas (Commit #724)
 - [2026-02-05 22:09:18] refactor(models): strengthen Pydantic v2 validation schemas (Commit #725)
 - [2026-02-05 09:19:52] chore(deps): update forensic cryptography packages (Commit #726)
+- [2026-02-05 17:39:37] docs(aml): update FinCEN BSA compliance guidelines (Commit #727)
