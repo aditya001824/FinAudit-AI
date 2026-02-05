@@ -728,3 +728,4 @@
 - [2026-02-05 09:19:52] chore(deps): update forensic cryptography packages (Commit #726)
 - [2026-02-05 17:39:37] docs(aml): update FinCEN BSA compliance guidelines (Commit #727)
 - [2026-02-05 11:45:52] test(integration): verify autonomous SAR generation pipeline (Commit #728)
+- [2026-02-05 09:39:05] feat(analytics): add betweenness centrality hub indicators (Commit #729)
