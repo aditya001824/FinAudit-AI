@@ -736,3 +736,4 @@
 - [2026-02-07 11:33:08] refactor(graph): enhance NetworkX cycle detection algorithm (Commit #734)
 - [2026-02-07 10:50:19] feat(rag): expand FATF 40 recommendations knowledge base (Commit #735)
 - [2026-02-07 14:22:39] chore(deps): update forensic cryptography packages (Commit #736)
+- [2026-02-07 10:51:27] feat(analytics): add betweenness centrality hub indicators (Commit #737)
