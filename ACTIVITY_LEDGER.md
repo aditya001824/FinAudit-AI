@@ -734,3 +734,4 @@
 - [2026-02-06 12:46:17] chore(ci): optimize daily maintenance automated sync (Commit #732)
 - [2026-02-07 09:24:46] docs(aml): update FinCEN BSA compliance guidelines (Commit #733)
 - [2026-02-07 11:33:08] refactor(graph): enhance NetworkX cycle detection algorithm (Commit #734)
+- [2026-02-07 10:50:19] feat(rag): expand FATF 40 recommendations knowledge base (Commit #735)
