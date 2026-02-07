@@ -733,3 +733,4 @@
 - [2026-02-06 16:08:46] test(sanctions): add fuzzy matching test cases for OFAC aliases (Commit #731)
 - [2026-02-06 12:46:17] chore(ci): optimize daily maintenance automated sync (Commit #732)
 - [2026-02-07 09:24:46] docs(aml): update FinCEN BSA compliance guidelines (Commit #733)
+- [2026-02-07 11:33:08] refactor(graph): enhance NetworkX cycle detection algorithm (Commit #734)
