@@ -739,3 +739,4 @@
 - [2026-02-07 10:51:27] feat(analytics): add betweenness centrality hub indicators (Commit #737)
 - [2026-02-07 14:57:59] docs(aml): update FinCEN BSA compliance guidelines (Commit #738)
 - [2026-02-08 21:09:54] chore(ci): optimize daily maintenance automated sync (Commit #739)
+- [2026-02-08 19:34:39] docs(sar): update FinCEN Form 111 XML filing schemas (Commit #740)
