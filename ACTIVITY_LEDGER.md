@@ -745,3 +745,4 @@
 - [2026-02-08 11:28:55] refactor(graph): enhance NetworkX cycle detection algorithm (Commit #743)
 - [2026-02-08 18:39:58] feat(analytics): add betweenness centrality hub indicators (Commit #744)
 - [2026-02-09 13:35:49] fix(parser): handle cross-border SWIFT wire transit edge cases (Commit #745)
+- [2026-02-09 14:58:17] style(ui): improve glassmorphism cyber-finance dashboard (Commit #746)
