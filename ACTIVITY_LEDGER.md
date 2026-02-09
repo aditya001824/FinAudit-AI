@@ -744,3 +744,4 @@
 - [2026-02-08 15:59:31] refactor(models): strengthen Pydantic v2 validation schemas (Commit #742)
 - [2026-02-08 11:28:55] refactor(graph): enhance NetworkX cycle detection algorithm (Commit #743)
 - [2026-02-08 18:39:58] feat(analytics): add betweenness centrality hub indicators (Commit #744)
+- [2026-02-09 13:35:49] fix(parser): handle cross-border SWIFT wire transit edge cases (Commit #745)
