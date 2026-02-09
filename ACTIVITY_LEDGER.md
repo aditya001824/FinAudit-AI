@@ -747,3 +747,4 @@
 - [2026-02-09 13:35:49] fix(parser): handle cross-border SWIFT wire transit edge cases (Commit #745)
 - [2026-02-09 14:58:17] style(ui): improve glassmorphism cyber-finance dashboard (Commit #746)
 - [2026-02-09 09:45:39] test(integration): verify autonomous SAR generation pipeline (Commit #747)
+- [2026-02-09 19:14:49] test(sanctions): add fuzzy matching test cases for OFAC aliases (Commit #748)
