@@ -754,3 +754,4 @@
 - [2026-02-10 14:20:31] style(ui): improve glassmorphism cyber-finance dashboard (Commit #752)
 - [2026-02-11 20:19:10] refactor(graph): enhance NetworkX cycle detection algorithm (Commit #753)
 - [2026-02-11 22:02:49] chore(deps): update forensic cryptography packages (Commit #754)
+- [2026-02-11 11:18:06] feat(analytics): add betweenness centrality hub indicators (Commit #755)
