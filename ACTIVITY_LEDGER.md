@@ -763,3 +763,4 @@
 - [2026-02-12 10:10:41] docs(sar): update FinCEN Form 111 XML filing schemas (Commit #761)
 - [2026-02-13 18:56:05] test(integration): verify autonomous SAR generation pipeline (Commit #762)
 - [2026-02-13 18:16:27] style(ui): improve glassmorphism cyber-finance dashboard (Commit #763)
+- [2026-02-13 15:18:45] fix(parser): handle cross-border SWIFT wire transit edge cases (Commit #764)
