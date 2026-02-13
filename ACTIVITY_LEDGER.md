@@ -761,3 +761,4 @@
 - [2026-02-12 21:20:44] docs(aml): update FinCEN BSA compliance guidelines (Commit #759)
 - [2026-02-12 16:15:16] test(sanctions): add fuzzy matching test cases for OFAC aliases (Commit #760)
 - [2026-02-12 10:10:41] docs(sar): update FinCEN Form 111 XML filing schemas (Commit #761)
+- [2026-02-13 18:56:05] test(integration): verify autonomous SAR generation pipeline (Commit #762)
