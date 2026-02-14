@@ -765,3 +765,4 @@
 - [2026-02-13 18:16:27] style(ui): improve glassmorphism cyber-finance dashboard (Commit #763)
 - [2026-02-13 15:18:45] fix(parser): handle cross-border SWIFT wire transit edge cases (Commit #764)
 - [2026-02-14 20:37:55] feat(engine): optimize forensic anomaly detector rules (Commit #765)
+- [2026-02-14 12:13:28] test(integration): verify autonomous SAR generation pipeline (Commit #766)
