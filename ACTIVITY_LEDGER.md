@@ -766,3 +766,4 @@
 - [2026-02-13 15:18:45] fix(parser): handle cross-border SWIFT wire transit edge cases (Commit #764)
 - [2026-02-14 20:37:55] feat(engine): optimize forensic anomaly detector rules (Commit #765)
 - [2026-02-14 12:13:28] test(integration): verify autonomous SAR generation pipeline (Commit #766)
+- [2026-02-14 19:25:35] perf(agent): reduce ReAct multi-agent thought latency (Commit #767)
