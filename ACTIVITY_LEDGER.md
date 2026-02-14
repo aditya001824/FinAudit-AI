@@ -768,3 +768,4 @@
 - [2026-02-14 12:13:28] test(integration): verify autonomous SAR generation pipeline (Commit #766)
 - [2026-02-14 19:25:35] perf(agent): reduce ReAct multi-agent thought latency (Commit #767)
 - [2026-02-14 09:36:21] feat(engine): optimize forensic anomaly detector rules (Commit #768)
+- [2026-02-14 22:11:06] feat(rag): expand FATF 40 recommendations knowledge base (Commit #769)
