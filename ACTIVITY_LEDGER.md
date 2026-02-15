@@ -770,3 +770,4 @@
 - [2026-02-14 09:36:21] feat(engine): optimize forensic anomaly detector rules (Commit #768)
 - [2026-02-14 22:11:06] feat(rag): expand FATF 40 recommendations knowledge base (Commit #769)
 - [2026-02-15 12:26:28] docs(sar): update FinCEN Form 111 XML filing schemas (Commit #770)
+- [2026-02-15 20:41:04] feat(rag): expand FATF 40 recommendations knowledge base (Commit #771)
