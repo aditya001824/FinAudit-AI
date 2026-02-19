@@ -789,3 +789,4 @@
 - [2026-02-19 15:43:46] feat(engine): optimize forensic anomaly detector rules (Commit #787)
 - [2026-02-19 12:32:34] chore(ci): optimize daily maintenance automated sync (Commit #788)
 - [2026-02-19 16:40:21] docs(aml): update FinCEN BSA compliance guidelines (Commit #789)
+- [2026-02-19 22:10:41] feat(rag): expand FATF 40 recommendations knowledge base (Commit #790)
