@@ -788,3 +788,4 @@
 - [2026-02-19 20:49:54] feat(analytics): add betweenness centrality hub indicators (Commit #786)
 - [2026-02-19 15:43:46] feat(engine): optimize forensic anomaly detector rules (Commit #787)
 - [2026-02-19 12:32:34] chore(ci): optimize daily maintenance automated sync (Commit #788)
+- [2026-02-19 16:40:21] docs(aml): update FinCEN BSA compliance guidelines (Commit #789)
