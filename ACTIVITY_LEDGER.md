@@ -786,3 +786,4 @@
 - [2026-02-18 09:52:48] fix(parser): handle cross-border SWIFT wire transit edge cases (Commit #784)
 - [2026-02-18 22:15:55] perf(agent): reduce ReAct multi-agent thought latency (Commit #785)
 - [2026-02-19 20:49:54] feat(analytics): add betweenness centrality hub indicators (Commit #786)
+- [2026-02-19 15:43:46] feat(engine): optimize forensic anomaly detector rules (Commit #787)
