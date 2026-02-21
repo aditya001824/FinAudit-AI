@@ -795,3 +795,4 @@
 - [2026-02-20 11:55:57] fix(parser): handle cross-border SWIFT wire transit edge cases (Commit #793)
 - [2026-02-20 14:35:03] refactor(graph): enhance NetworkX cycle detection algorithm (Commit #794)
 - [2026-02-21 14:50:03] refactor(graph): enhance NetworkX cycle detection algorithm (Commit #795)
+- [2026-02-21 12:15:56] chore(deps): update forensic cryptography packages (Commit #796)
