@@ -799,3 +799,4 @@
 - [2026-02-21 14:41:25] test(sanctions): add fuzzy matching test cases for OFAC aliases (Commit #797)
 - [2026-02-22 11:16:48] chore(deps): update forensic cryptography packages (Commit #798)
 - [2026-02-22 13:16:40] style(ui): improve glassmorphism cyber-finance dashboard (Commit #799)
+- [2026-02-22 11:44:55] chore(deps): update forensic cryptography packages (Commit #800)
