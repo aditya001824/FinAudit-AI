@@ -800,3 +800,4 @@
 - [2026-02-22 11:16:48] chore(deps): update forensic cryptography packages (Commit #798)
 - [2026-02-22 13:16:40] style(ui): improve glassmorphism cyber-finance dashboard (Commit #799)
 - [2026-02-22 11:44:55] chore(deps): update forensic cryptography packages (Commit #800)
+- [2026-02-22 15:08:09] fix(parser): handle cross-border SWIFT wire transit edge cases (Commit #801)
