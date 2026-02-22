@@ -797,3 +797,4 @@
 - [2026-02-21 14:50:03] refactor(graph): enhance NetworkX cycle detection algorithm (Commit #795)
 - [2026-02-21 12:15:56] chore(deps): update forensic cryptography packages (Commit #796)
 - [2026-02-21 14:41:25] test(sanctions): add fuzzy matching test cases for OFAC aliases (Commit #797)
+- [2026-02-22 11:16:48] chore(deps): update forensic cryptography packages (Commit #798)
