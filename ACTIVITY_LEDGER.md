@@ -809,3 +809,4 @@
 - [2026-02-23 19:27:46] perf(agent): reduce ReAct multi-agent thought latency (Commit #807)
 - [2026-02-23 18:06:13] chore(ci): optimize daily maintenance automated sync (Commit #808)
 - [2026-02-24 19:35:29] feat(rag): expand FATF 40 recommendations knowledge base (Commit #809)
+- [2026-02-24 09:34:33] docs(sar): update FinCEN Form 111 XML filing schemas (Commit #810)
