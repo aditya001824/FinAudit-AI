@@ -812,3 +812,4 @@
 - [2026-02-24 09:34:33] docs(sar): update FinCEN Form 111 XML filing schemas (Commit #810)
 - [2026-02-24 18:52:29] chore(deps): update forensic cryptography packages (Commit #811)
 - [2026-02-25 16:59:23] docs(sar): update FinCEN Form 111 XML filing schemas (Commit #812)
+- [2026-02-25 16:05:30] refactor(models): strengthen Pydantic v2 validation schemas (Commit #813)
