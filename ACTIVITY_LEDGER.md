@@ -818,3 +818,4 @@
 - [2026-02-26 20:24:23] feat(rag): expand FATF 40 recommendations knowledge base (Commit #816)
 - [2026-02-26 20:33:59] refactor(graph): enhance NetworkX cycle detection algorithm (Commit #817)
 - [2026-02-26 19:26:52] test(integration): verify autonomous SAR generation pipeline (Commit #818)
+- [2026-02-26 09:19:51] feat(analytics): add betweenness centrality hub indicators (Commit #819)
