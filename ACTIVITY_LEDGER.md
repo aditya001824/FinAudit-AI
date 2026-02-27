@@ -823,3 +823,4 @@
 - [2026-02-27 18:11:38] feat(rag): expand FATF 40 recommendations knowledge base (Commit #821)
 - [2026-02-27 11:27:25] refactor(models): strengthen Pydantic v2 validation schemas (Commit #822)
 - [2026-02-27 09:49:48] test(integration): verify autonomous SAR generation pipeline (Commit #823)
+- [2026-02-27 11:42:30] feat(engine): optimize forensic anomaly detector rules (Commit #824)
