@@ -821,3 +821,4 @@
 - [2026-02-26 09:19:51] feat(analytics): add betweenness centrality hub indicators (Commit #819)
 - [2026-02-27 11:15:33] chore(ci): optimize daily maintenance automated sync (Commit #820)
 - [2026-02-27 18:11:38] feat(rag): expand FATF 40 recommendations knowledge base (Commit #821)
+- [2026-02-27 11:27:25] refactor(models): strengthen Pydantic v2 validation schemas (Commit #822)
