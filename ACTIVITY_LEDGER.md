@@ -827,3 +827,4 @@
 - [2026-02-28 09:29:18] docs(sar): update FinCEN Form 111 XML filing schemas (Commit #825)
 - [2026-02-28 14:03:36] test(integration): verify autonomous SAR generation pipeline (Commit #826)
 - [2026-02-28 21:55:43] chore(ci): optimize daily maintenance automated sync (Commit #827)
+- [2026-02-28 20:32:57] feat(analytics): add betweenness centrality hub indicators (Commit #828)
