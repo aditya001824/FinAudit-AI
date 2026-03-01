@@ -834,3 +834,4 @@
 - [2026-03-01 14:34:18] style(ui): improve glassmorphism cyber-finance dashboard (Commit #832)
 - [2026-03-01 11:18:01] style(ui): improve glassmorphism cyber-finance dashboard (Commit #833)
 - [2026-03-01 11:31:19] feat(engine): optimize forensic anomaly detector rules (Commit #834)
+- [2026-03-01 13:22:45] docs(aml): update FinCEN BSA compliance guidelines (Commit #835)
