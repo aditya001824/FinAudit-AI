@@ -830,3 +830,4 @@
 - [2026-02-28 20:32:57] feat(analytics): add betweenness centrality hub indicators (Commit #828)
 - [2026-02-28 20:02:02] docs(aml): update FinCEN BSA compliance guidelines (Commit #829)
 - [2026-02-28 20:07:36] feat(rag): expand FATF 40 recommendations knowledge base (Commit #830)
+- [2026-03-01 17:17:57] feat(rag): expand FATF 40 recommendations knowledge base (Commit #831)
