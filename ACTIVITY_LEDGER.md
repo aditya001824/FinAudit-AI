@@ -832,3 +832,4 @@
 - [2026-02-28 20:07:36] feat(rag): expand FATF 40 recommendations knowledge base (Commit #830)
 - [2026-03-01 17:17:57] feat(rag): expand FATF 40 recommendations knowledge base (Commit #831)
 - [2026-03-01 14:34:18] style(ui): improve glassmorphism cyber-finance dashboard (Commit #832)
+- [2026-03-01 11:18:01] style(ui): improve glassmorphism cyber-finance dashboard (Commit #833)
