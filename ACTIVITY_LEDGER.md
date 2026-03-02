@@ -839,3 +839,4 @@
 - [2026-03-02 09:16:10] refactor(graph): enhance NetworkX cycle detection algorithm (Commit #837)
 - [2026-03-02 18:52:44] docs(sar): update FinCEN Form 111 XML filing schemas (Commit #838)
 - [2026-03-02 10:44:32] refactor(models): strengthen Pydantic v2 validation schemas (Commit #839)
+- [2026-03-02 18:03:48] style(ui): improve glassmorphism cyber-finance dashboard (Commit #840)
