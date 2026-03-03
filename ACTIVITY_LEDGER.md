@@ -841,3 +841,4 @@
 - [2026-03-02 10:44:32] refactor(models): strengthen Pydantic v2 validation schemas (Commit #839)
 - [2026-03-02 18:03:48] style(ui): improve glassmorphism cyber-finance dashboard (Commit #840)
 - [2026-03-02 22:54:50] feat(rag): expand FATF 40 recommendations knowledge base (Commit #841)
+- [2026-03-03 11:44:20] refactor(graph): enhance NetworkX cycle detection algorithm (Commit #842)
