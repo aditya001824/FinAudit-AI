@@ -845,3 +845,4 @@
 - [2026-03-03 21:01:25] refactor(graph): enhance NetworkX cycle detection algorithm (Commit #843)
 - [2026-03-03 18:24:52] docs(sar): update FinCEN Form 111 XML filing schemas (Commit #844)
 - [2026-03-03 20:41:19] refactor(models): strengthen Pydantic v2 validation schemas (Commit #845)
+- [2026-03-03 22:35:01] feat(engine): optimize forensic anomaly detector rules (Commit #846)
