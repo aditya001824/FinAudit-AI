@@ -843,3 +843,4 @@
 - [2026-03-02 22:54:50] feat(rag): expand FATF 40 recommendations knowledge base (Commit #841)
 - [2026-03-03 11:44:20] refactor(graph): enhance NetworkX cycle detection algorithm (Commit #842)
 - [2026-03-03 21:01:25] refactor(graph): enhance NetworkX cycle detection algorithm (Commit #843)
+- [2026-03-03 18:24:52] docs(sar): update FinCEN Form 111 XML filing schemas (Commit #844)
