@@ -847,3 +847,4 @@
 - [2026-03-03 20:41:19] refactor(models): strengthen Pydantic v2 validation schemas (Commit #845)
 - [2026-03-03 22:35:01] feat(engine): optimize forensic anomaly detector rules (Commit #846)
 - [2026-03-03 22:34:05] test(sanctions): add fuzzy matching test cases for OFAC aliases (Commit #847)
+- [2026-03-04 22:53:20] fix(parser): handle cross-border SWIFT wire transit edge cases (Commit #848)
