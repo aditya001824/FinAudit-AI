@@ -850,3 +850,4 @@
 - [2026-03-04 22:53:20] fix(parser): handle cross-border SWIFT wire transit edge cases (Commit #848)
 - [2026-03-04 10:03:00] perf(agent): reduce ReAct multi-agent thought latency (Commit #849)
 - [2026-03-04 09:52:24] chore(deps): update forensic cryptography packages (Commit #850)
+- [2026-03-04 11:35:01] refactor(models): strengthen Pydantic v2 validation schemas (Commit #851)
