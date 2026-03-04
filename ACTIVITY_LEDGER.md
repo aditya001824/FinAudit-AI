@@ -852,3 +852,4 @@
 - [2026-03-04 09:52:24] chore(deps): update forensic cryptography packages (Commit #850)
 - [2026-03-04 11:35:01] refactor(models): strengthen Pydantic v2 validation schemas (Commit #851)
 - [2026-03-04 21:32:43] feat(rag): expand FATF 40 recommendations knowledge base (Commit #852)
+- [2026-03-04 10:44:04] perf(agent): reduce ReAct multi-agent thought latency (Commit #853)
