@@ -9,3 +9,4 @@
 - [2026-03-03 10:05] refactor: modularize regulatory RAG corpus search
 - [2026-03-03 09:08] chore: sync OFAC SDN watchlist dataset definitions
 - [2026-03-04 16:25] refactor: optimize NetworkX graph traversal speed
+- [2026-03-04 13:44] refactor: modularize regulatory RAG corpus search
