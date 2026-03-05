@@ -855,3 +855,4 @@
 - [2026-03-04 10:44:04] perf(agent): reduce ReAct multi-agent thought latency (Commit #853)
 - [2026-03-05 13:28:21] chore(deps): update forensic cryptography packages (Commit #854)
 - [2026-03-05 19:37:41] chore(deps): update forensic cryptography packages (Commit #855)
+- [2026-03-05 21:32:12] refactor(models): strengthen Pydantic v2 validation schemas (Commit #856)
