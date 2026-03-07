@@ -865,3 +865,4 @@
 - [2026-03-07 10:51:05] test(integration): verify autonomous SAR generation pipeline (Commit #863)
 - [2026-03-07 10:43:35] feat(engine): optimize forensic anomaly detector rules (Commit #864)
 - [2026-03-07 21:39:10] perf(agent): reduce ReAct multi-agent thought latency (Commit #865)
+- [2026-03-07 16:33:03] feat(analytics): add betweenness centrality hub indicators (Commit #866)
