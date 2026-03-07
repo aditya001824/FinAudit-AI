@@ -14,3 +14,4 @@
 - [2026-03-06 14:30] refactor: optimize NetworkX graph traversal speed
 - [2026-03-06 15:22] perf: improve ReAct agent multi-step reasoning response latency
 - [2026-03-07 09:12] chore: update FinCEN red flag indicators catalog
+- [2026-03-07 12:31] feat: add FATF recommendation 16 wire transit validation
