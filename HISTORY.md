@@ -13,3 +13,4 @@
 - [2026-03-05 15:58] docs: update AML forensic typology guidelines
 - [2026-03-06 14:30] refactor: optimize NetworkX graph traversal speed
 - [2026-03-06 15:22] perf: improve ReAct agent multi-step reasoning response latency
+- [2026-03-07 09:12] chore: update FinCEN red flag indicators catalog
