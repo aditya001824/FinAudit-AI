@@ -867,3 +867,4 @@
 - [2026-03-07 21:39:10] perf(agent): reduce ReAct multi-agent thought latency (Commit #865)
 - [2026-03-07 16:33:03] feat(analytics): add betweenness centrality hub indicators (Commit #866)
 - [2026-03-07 19:03:37] chore(deps): update forensic cryptography packages (Commit #867)
+- [2026-03-07 21:18:19] feat(rag): expand FATF 40 recommendations knowledge base (Commit #868)
