@@ -863,3 +863,4 @@
 - [2026-03-06 17:48:38] feat(analytics): add betweenness centrality hub indicators (Commit #861)
 - [2026-03-06 09:53:15] chore(ci): optimize daily maintenance automated sync (Commit #862)
 - [2026-03-07 10:51:05] test(integration): verify autonomous SAR generation pipeline (Commit #863)
+- [2026-03-07 10:43:35] feat(engine): optimize forensic anomaly detector rules (Commit #864)
