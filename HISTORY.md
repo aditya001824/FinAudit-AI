@@ -18,3 +18,4 @@
 - [2026-03-07 20:26] style: enhance war room cyber-finance dark theme UI
 - [2026-03-07 21:44] perf: improve ReAct agent multi-step reasoning response latency
 - [2026-03-08 13:32] feat: expand high-risk offshore jurisdiction definitions
+- [2026-03-08 14:39] feat: add FATF recommendation 16 wire transit validation
