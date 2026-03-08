@@ -870,3 +870,4 @@
 - [2026-03-07 21:18:19] feat(rag): expand FATF 40 recommendations knowledge base (Commit #868)
 - [2026-03-08 20:22:26] chore(ci): optimize daily maintenance automated sync (Commit #869)
 - [2026-03-08 11:20:49] feat(analytics): add betweenness centrality hub indicators (Commit #870)
+- [2026-03-08 09:26:32] docs(aml): update FinCEN BSA compliance guidelines (Commit #871)
