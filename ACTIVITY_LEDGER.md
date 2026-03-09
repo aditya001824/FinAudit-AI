@@ -871,3 +871,4 @@
 - [2026-03-08 20:22:26] chore(ci): optimize daily maintenance automated sync (Commit #869)
 - [2026-03-08 11:20:49] feat(analytics): add betweenness centrality hub indicators (Commit #870)
 - [2026-03-08 09:26:32] docs(aml): update FinCEN BSA compliance guidelines (Commit #871)
+- [2026-03-09 20:25:44] refactor(graph): enhance NetworkX cycle detection algorithm (Commit #872)
