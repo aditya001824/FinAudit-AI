@@ -875,3 +875,4 @@
 - [2026-03-09 13:52:29] docs(aml): update FinCEN BSA compliance guidelines (Commit #873)
 - [2026-03-09 11:36:16] docs(aml): update FinCEN BSA compliance guidelines (Commit #874)
 - [2026-03-09 12:31:27] perf(agent): reduce ReAct multi-agent thought latency (Commit #875)
+- [2026-03-09 10:42:03] feat(analytics): add betweenness centrality hub indicators (Commit #876)
