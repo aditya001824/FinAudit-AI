@@ -876,3 +876,4 @@
 - [2026-03-09 11:36:16] docs(aml): update FinCEN BSA compliance guidelines (Commit #874)
 - [2026-03-09 12:31:27] perf(agent): reduce ReAct multi-agent thought latency (Commit #875)
 - [2026-03-09 10:42:03] feat(analytics): add betweenness centrality hub indicators (Commit #876)
+- [2026-03-10 13:11:22] fix(parser): handle cross-border SWIFT wire transit edge cases (Commit #877)
