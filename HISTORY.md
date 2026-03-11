@@ -23,3 +23,4 @@
 - [2026-03-10 19:55] chore: sync OFAC SDN watchlist dataset definitions
 - [2026-03-11 20:03] perf: improve ReAct agent multi-step reasoning response latency
 - [2026-03-11 11:10] docs: update AML forensic typology guidelines
+- [2026-03-11 13:44] feat: add betweenness centrality hub detection
