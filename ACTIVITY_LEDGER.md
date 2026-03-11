@@ -885,3 +885,4 @@
 - [2026-03-11 15:27:30] style(ui): improve glassmorphism cyber-finance dashboard (Commit #883)
 - [2026-03-11 18:17:56] refactor(graph): enhance NetworkX cycle detection algorithm (Commit #884)
 - [2026-03-11 12:39:12] chore(ci): optimize daily maintenance automated sync (Commit #885)
+- [2026-03-11 11:09:13] feat(rag): expand FATF 40 recommendations knowledge base (Commit #886)
