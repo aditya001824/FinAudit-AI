@@ -883,3 +883,4 @@
 - [2026-03-11 11:54:27] docs(sar): update FinCEN Form 111 XML filing schemas (Commit #881)
 - [2026-03-11 11:40:47] perf(agent): reduce ReAct multi-agent thought latency (Commit #882)
 - [2026-03-11 15:27:30] style(ui): improve glassmorphism cyber-finance dashboard (Commit #883)
+- [2026-03-11 18:17:56] refactor(graph): enhance NetworkX cycle detection algorithm (Commit #884)
