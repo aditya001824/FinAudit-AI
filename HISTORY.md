@@ -26,3 +26,4 @@
 - [2026-03-11 13:44] feat: add betweenness centrality hub detection
 - [2026-03-11 20:36] feat: expand high-risk offshore jurisdiction definitions
 - [2026-03-12 10:54] test: verify circular round-trip wash trading heuristics
+- [2026-03-12 10:47] refactor: modularize regulatory RAG corpus search
