@@ -891,3 +891,4 @@
 - [2026-03-12 20:54:44] test(integration): verify autonomous SAR generation pipeline (Commit #889)
 - [2026-03-12 22:35:32] refactor(models): strengthen Pydantic v2 validation schemas (Commit #890)
 - [2026-03-13 15:34:26] chore(deps): update forensic cryptography packages (Commit #891)
+- [2026-03-13 16:42:22] feat(engine): optimize forensic anomaly detector rules (Commit #892)
