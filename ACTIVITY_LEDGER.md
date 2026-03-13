@@ -893,3 +893,4 @@
 - [2026-03-13 15:34:26] chore(deps): update forensic cryptography packages (Commit #891)
 - [2026-03-13 16:42:22] feat(engine): optimize forensic anomaly detector rules (Commit #892)
 - [2026-03-13 09:51:30] feat(analytics): add betweenness centrality hub indicators (Commit #893)
+- [2026-03-13 15:37:33] feat(engine): optimize forensic anomaly detector rules (Commit #894)
