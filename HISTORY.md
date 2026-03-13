@@ -29,3 +29,4 @@
 - [2026-03-12 10:47] refactor: modularize regulatory RAG corpus search
 - [2026-03-12 15:59] style: enhance war room cyber-finance dark theme UI
 - [2026-03-13 10:08] feat: expand high-risk offshore jurisdiction definitions
+- [2026-03-13 20:34] refactor: optimize NetworkX graph traversal speed
