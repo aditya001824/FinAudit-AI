@@ -31,3 +31,4 @@
 - [2026-03-13 10:08] feat: expand high-risk offshore jurisdiction definitions
 - [2026-03-13 20:34] refactor: optimize NetworkX graph traversal speed
 - [2026-03-13 14:22] perf: stream SSE agent thought tokens asynchronously
+- [2026-03-14 18:40] docs: update AML forensic typology guidelines
