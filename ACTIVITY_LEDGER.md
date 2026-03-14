@@ -896,3 +896,4 @@
 - [2026-03-13 15:37:33] feat(engine): optimize forensic anomaly detector rules (Commit #894)
 - [2026-03-13 22:16:41] fix(parser): handle cross-border SWIFT wire transit edge cases (Commit #895)
 - [2026-03-14 15:38:17] refactor(graph): enhance NetworkX cycle detection algorithm (Commit #896)
+- [2026-03-14 15:06:25] docs(aml): update FinCEN BSA compliance guidelines (Commit #897)
