@@ -34,3 +34,4 @@
 - [2026-03-14 18:40] docs: update AML forensic typology guidelines
 - [2026-03-14 09:26] chore: optimize docker-compose build caching
 - [2026-03-15 15:19] feat: add betweenness centrality hub detection
+- [2026-03-15 20:50] fix: handle zero-amount edge cases in flow reconstructor
