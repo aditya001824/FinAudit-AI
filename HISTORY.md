@@ -36,3 +36,4 @@
 - [2026-03-15 15:19] feat: add betweenness centrality hub detection
 - [2026-03-15 20:50] fix: handle zero-amount edge cases in flow reconstructor
 - [2026-03-15 21:47] docs: update AML forensic typology guidelines
+- [2026-03-15 16:51] perf: stream SSE agent thought tokens asynchronously
