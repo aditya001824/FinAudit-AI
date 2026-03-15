@@ -33,3 +33,4 @@
 - [2026-03-13 14:22] perf: stream SSE agent thought tokens asynchronously
 - [2026-03-14 18:40] docs: update AML forensic typology guidelines
 - [2026-03-14 09:26] chore: optimize docker-compose build caching
+- [2026-03-15 15:19] feat: add betweenness centrality hub detection
