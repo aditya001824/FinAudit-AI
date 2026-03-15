@@ -898,3 +898,4 @@
 - [2026-03-14 15:38:17] refactor(graph): enhance NetworkX cycle detection algorithm (Commit #896)
 - [2026-03-14 15:06:25] docs(aml): update FinCEN BSA compliance guidelines (Commit #897)
 - [2026-03-14 13:47:13] chore(ci): optimize daily maintenance automated sync (Commit #898)
+- [2026-03-15 19:17:34] refactor(models): strengthen Pydantic v2 validation schemas (Commit #899)
