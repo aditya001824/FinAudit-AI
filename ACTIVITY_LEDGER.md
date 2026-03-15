@@ -901,3 +901,4 @@
 - [2026-03-15 19:17:34] refactor(models): strengthen Pydantic v2 validation schemas (Commit #899)
 - [2026-03-15 10:40:54] docs(sar): update FinCEN Form 111 XML filing schemas (Commit #900)
 - [2026-03-15 18:29:21] test(sanctions): add fuzzy matching test cases for OFAC aliases (Commit #901)
+- [2026-03-15 15:32:25] fix(parser): handle cross-border SWIFT wire transit edge cases (Commit #902)
