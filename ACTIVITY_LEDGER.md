@@ -903,3 +903,4 @@
 - [2026-03-15 18:29:21] test(sanctions): add fuzzy matching test cases for OFAC aliases (Commit #901)
 - [2026-03-15 15:32:25] fix(parser): handle cross-border SWIFT wire transit edge cases (Commit #902)
 - [2026-03-16 19:51:05] feat(rag): expand FATF 40 recommendations knowledge base (Commit #903)
+- [2026-03-16 12:28:44] perf(agent): reduce ReAct multi-agent thought latency (Commit #904)
