@@ -40,3 +40,4 @@
 - [2026-03-16 12:03] fix: refine fuzzy sanctions matching threshold for aliases
 - [2026-03-16 12:46] fix: refine fuzzy sanctions matching threshold for aliases
 - [2026-03-16 09:29] feat: add betweenness centrality hub detection
+- [2026-03-17 21:26] perf: stream SSE agent thought tokens asynchronously
