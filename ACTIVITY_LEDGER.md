@@ -908,3 +908,4 @@
 - [2026-03-17 18:16:54] test(sanctions): add fuzzy matching test cases for OFAC aliases (Commit #906)
 - [2026-03-17 15:54:42] test(integration): verify autonomous SAR generation pipeline (Commit #907)
 - [2026-03-17 14:36:43] chore(deps): update forensic cryptography packages (Commit #908)
+- [2026-03-17 20:56:49] feat(engine): optimize forensic anomaly detector rules (Commit #909)
