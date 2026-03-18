@@ -43,3 +43,4 @@
 - [2026-03-17 21:26] perf: stream SSE agent thought tokens asynchronously
 - [2026-03-18 14:20] feat: add FATF recommendation 16 wire transit validation
 - [2026-03-18 14:57] docs: update AML forensic typology guidelines
+- [2026-03-18 21:56] refactor: modularize regulatory RAG corpus search
