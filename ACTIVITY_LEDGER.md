@@ -914,3 +914,4 @@
 - [2026-03-18 15:09:52] refactor(models): strengthen Pydantic v2 validation schemas (Commit #912)
 - [2026-03-18 17:36:50] style(ui): improve glassmorphism cyber-finance dashboard (Commit #913)
 - [2026-03-19 10:54:23] fix(parser): handle cross-border SWIFT wire transit edge cases (Commit #914)
+- [2026-03-19 15:08:24] test(sanctions): add fuzzy matching test cases for OFAC aliases (Commit #915)
