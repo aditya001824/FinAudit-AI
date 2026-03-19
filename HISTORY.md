@@ -45,3 +45,4 @@
 - [2026-03-18 14:57] docs: update AML forensic typology guidelines
 - [2026-03-18 21:56] refactor: modularize regulatory RAG corpus search
 - [2026-03-18 16:31] feat: add betweenness centrality hub detection
+- [2026-03-19 14:24] perf: improve ReAct agent multi-step reasoning response latency
