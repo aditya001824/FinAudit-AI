@@ -916,3 +916,4 @@
 - [2026-03-19 10:54:23] fix(parser): handle cross-border SWIFT wire transit edge cases (Commit #914)
 - [2026-03-19 15:08:24] test(sanctions): add fuzzy matching test cases for OFAC aliases (Commit #915)
 - [2026-03-19 15:46:54] feat(analytics): add betweenness centrality hub indicators (Commit #916)
+- [2026-03-20 10:49:06] feat(engine): optimize forensic anomaly detector rules (Commit #917)
