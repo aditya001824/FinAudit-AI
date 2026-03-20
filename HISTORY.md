@@ -47,3 +47,4 @@
 - [2026-03-18 16:31] feat: add betweenness centrality hub detection
 - [2026-03-19 14:24] perf: improve ReAct agent multi-step reasoning response latency
 - [2026-03-20 11:55] feat: add FATF recommendation 16 wire transit validation
+- [2026-03-20 14:27] test: verify circular round-trip wash trading heuristics
