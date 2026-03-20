@@ -920,3 +920,4 @@
 - [2026-03-20 16:10:31] chore(ci): optimize daily maintenance automated sync (Commit #918)
 - [2026-03-20 19:12:14] perf(agent): reduce ReAct multi-agent thought latency (Commit #919)
 - [2026-03-20 10:44:57] refactor(graph): enhance NetworkX cycle detection algorithm (Commit #920)
+- [2026-03-20 15:50:48] feat(engine): optimize forensic anomaly detector rules (Commit #921)
