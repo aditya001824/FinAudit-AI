@@ -923,3 +923,4 @@
 - [2026-03-20 15:50:48] feat(engine): optimize forensic anomaly detector rules (Commit #921)
 - [2026-03-21 09:51:16] docs(sar): update FinCEN Form 111 XML filing schemas (Commit #922)
 - [2026-03-21 21:54:02] feat(engine): optimize forensic anomaly detector rules (Commit #923)
+- [2026-03-21 17:13:03] test(sanctions): add fuzzy matching test cases for OFAC aliases (Commit #924)
