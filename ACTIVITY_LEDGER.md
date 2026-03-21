@@ -924,3 +924,4 @@
 - [2026-03-21 09:51:16] docs(sar): update FinCEN Form 111 XML filing schemas (Commit #922)
 - [2026-03-21 21:54:02] feat(engine): optimize forensic anomaly detector rules (Commit #923)
 - [2026-03-21 17:13:03] test(sanctions): add fuzzy matching test cases for OFAC aliases (Commit #924)
+- [2026-03-21 12:07:43] fix(parser): handle cross-border SWIFT wire transit edge cases (Commit #925)
