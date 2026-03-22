@@ -929,3 +929,4 @@
 - [2026-03-21 17:27:56] test(integration): verify autonomous SAR generation pipeline (Commit #927)
 - [2026-03-22 20:18:42] test(integration): verify autonomous SAR generation pipeline (Commit #928)
 - [2026-03-22 17:58:26] chore(ci): optimize daily maintenance automated sync (Commit #929)
+- [2026-03-22 16:04:18] docs(aml): update FinCEN BSA compliance guidelines (Commit #930)
