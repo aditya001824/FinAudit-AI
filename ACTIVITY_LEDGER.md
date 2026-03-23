@@ -934,3 +934,4 @@
 - [2026-03-22 22:12:32] test(integration): verify autonomous SAR generation pipeline (Commit #932)
 - [2026-03-23 14:35:28] feat(analytics): add betweenness centrality hub indicators (Commit #933)
 - [2026-03-23 10:30:48] feat(engine): optimize forensic anomaly detector rules (Commit #934)
+- [2026-03-23 20:46:36] docs(aml): update FinCEN BSA compliance guidelines (Commit #935)
