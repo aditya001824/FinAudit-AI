@@ -933,3 +933,4 @@
 - [2026-03-22 09:52:50] docs(sar): update FinCEN Form 111 XML filing schemas (Commit #931)
 - [2026-03-22 22:12:32] test(integration): verify autonomous SAR generation pipeline (Commit #932)
 - [2026-03-23 14:35:28] feat(analytics): add betweenness centrality hub indicators (Commit #933)
+- [2026-03-23 10:30:48] feat(engine): optimize forensic anomaly detector rules (Commit #934)
