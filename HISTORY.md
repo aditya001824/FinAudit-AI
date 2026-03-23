@@ -51,3 +51,4 @@
 - [2026-03-21 12:55] feat: add betweenness centrality hub detection
 - [2026-03-21 11:38] feat: expand high-risk offshore jurisdiction definitions
 - [2026-03-22 12:07] docs: update AML forensic typology guidelines
+- [2026-03-23 12:56] style: enhance war room cyber-finance dark theme UI
