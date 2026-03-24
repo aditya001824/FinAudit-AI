@@ -937,3 +937,4 @@
 - [2026-03-23 20:46:36] docs(aml): update FinCEN BSA compliance guidelines (Commit #935)
 - [2026-03-24 17:33:08] chore(deps): update forensic cryptography packages (Commit #936)
 - [2026-03-24 22:38:22] refactor(models): strengthen Pydantic v2 validation schemas (Commit #937)
+- [2026-03-24 17:04:50] test(sanctions): add fuzzy matching test cases for OFAC aliases (Commit #938)
