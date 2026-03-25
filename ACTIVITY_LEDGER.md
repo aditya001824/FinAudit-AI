@@ -944,3 +944,4 @@
 - [2026-03-25 13:30:03] docs(sar): update FinCEN Form 111 XML filing schemas (Commit #942)
 - [2026-03-25 22:11:13] style(ui): improve glassmorphism cyber-finance dashboard (Commit #943)
 - [2026-03-25 18:12:30] perf(agent): reduce ReAct multi-agent thought latency (Commit #944)
+- [2026-03-25 22:49:52] feat(rag): expand FATF 40 recommendations knowledge base (Commit #945)
