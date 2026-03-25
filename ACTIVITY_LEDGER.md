@@ -940,3 +940,4 @@
 - [2026-03-24 17:04:50] test(sanctions): add fuzzy matching test cases for OFAC aliases (Commit #938)
 - [2026-03-24 14:20:57] docs(aml): update FinCEN BSA compliance guidelines (Commit #939)
 - [2026-03-25 18:44:11] docs(aml): update FinCEN BSA compliance guidelines (Commit #940)
+- [2026-03-25 11:50:55] refactor(models): strengthen Pydantic v2 validation schemas (Commit #941)
