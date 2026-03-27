@@ -951,3 +951,4 @@
 - [2026-03-26 09:26:37] refactor(models): strengthen Pydantic v2 validation schemas (Commit #949)
 - [2026-03-27 17:16:24] feat(engine): optimize forensic anomaly detector rules (Commit #950)
 - [2026-03-27 16:18:45] refactor(models): strengthen Pydantic v2 validation schemas (Commit #951)
+- [2026-03-27 15:05:43] feat(engine): optimize forensic anomaly detector rules (Commit #952)
