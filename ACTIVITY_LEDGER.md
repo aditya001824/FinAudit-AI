@@ -956,3 +956,4 @@
 - [2026-03-28 12:24:01] feat(rag): expand FATF 40 recommendations knowledge base (Commit #954)
 - [2026-03-28 12:59:41] refactor(models): strengthen Pydantic v2 validation schemas (Commit #955)
 - [2026-03-28 18:12:33] feat(rag): expand FATF 40 recommendations knowledge base (Commit #956)
+- [2026-03-28 20:57:46] docs(aml): update FinCEN BSA compliance guidelines (Commit #957)
