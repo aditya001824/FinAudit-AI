@@ -56,3 +56,4 @@
 - [2026-03-25 17:53] docs: update AML forensic typology guidelines
 - [2026-03-26 13:35] test: verify circular round-trip wash trading heuristics
 - [2026-03-26 19:46] feat: add FATF recommendation 16 wire transit validation
+- [2026-03-28 16:36] style: enhance war room cyber-finance dark theme UI
