@@ -954,3 +954,4 @@
 - [2026-03-27 15:05:43] feat(engine): optimize forensic anomaly detector rules (Commit #952)
 - [2026-03-28 17:59:57] chore(ci): optimize daily maintenance automated sync (Commit #953)
 - [2026-03-28 12:24:01] feat(rag): expand FATF 40 recommendations knowledge base (Commit #954)
+- [2026-03-28 12:59:41] refactor(models): strengthen Pydantic v2 validation schemas (Commit #955)
