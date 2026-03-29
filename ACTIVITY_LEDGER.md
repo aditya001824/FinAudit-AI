@@ -960,3 +960,4 @@
 - [2026-03-29 16:32:46] fix(parser): handle cross-border SWIFT wire transit edge cases (Commit #958)
 - [2026-03-29 15:07:52] chore(ci): optimize daily maintenance automated sync (Commit #959)
 - [2026-03-29 16:06:32] feat(analytics): add betweenness centrality hub indicators (Commit #960)
+- [2026-03-29 11:34:24] feat(rag): expand FATF 40 recommendations knowledge base (Commit #961)
