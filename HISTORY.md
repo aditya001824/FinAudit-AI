@@ -57,3 +57,4 @@
 - [2026-03-26 13:35] test: verify circular round-trip wash trading heuristics
 - [2026-03-26 19:46] feat: add FATF recommendation 16 wire transit validation
 - [2026-03-28 16:36] style: enhance war room cyber-finance dark theme UI
+- [2026-03-29 17:27] perf: stream SSE agent thought tokens asynchronously
