@@ -60,3 +60,4 @@
 - [2026-03-29 17:27] perf: stream SSE agent thought tokens asynchronously
 - [2026-03-29 12:56] style: enhance war room cyber-finance dark theme UI
 - [2026-03-30 19:36] feat: add FATF recommendation 16 wire transit validation
+- [2026-03-30 13:07] docs: clarify BSA anti-structuring statutory authorities
