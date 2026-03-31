@@ -969,3 +969,4 @@
 - [2026-03-31 12:57:14] refactor(models): strengthen Pydantic v2 validation schemas (Commit #967)
 - [2026-03-31 13:53:44] chore(deps): update forensic cryptography packages (Commit #968)
 - [2026-03-31 14:39:02] style(ui): improve glassmorphism cyber-finance dashboard (Commit #969)
+- [2026-03-31 17:46:06] chore(deps): update forensic cryptography packages (Commit #970)
