@@ -967,3 +967,4 @@
 - [2026-03-30 19:20:04] feat(engine): optimize forensic anomaly detector rules (Commit #965)
 - [2026-03-31 18:05:08] chore(ci): optimize daily maintenance automated sync (Commit #966)
 - [2026-03-31 12:57:14] refactor(models): strengthen Pydantic v2 validation schemas (Commit #967)
+- [2026-03-31 13:53:44] chore(deps): update forensic cryptography packages (Commit #968)
