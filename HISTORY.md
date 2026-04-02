@@ -63,3 +63,4 @@
 - [2026-03-30 13:07] docs: clarify BSA anti-structuring statutory authorities
 - [2026-04-01 11:56] docs: update SAR Form 111 XML schema references
 - [2026-04-02 15:41] chore: optimize docker-compose build caching
+- [2026-04-02 17:34] chore: update FinCEN red flag indicators catalog
