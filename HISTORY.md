@@ -67,3 +67,4 @@
 - [2026-04-02 09:32] perf: stream SSE agent thought tokens asynchronously
 - [2026-04-03 17:25] perf: improve ReAct agent multi-step reasoning response latency
 - [2026-04-03 12:49] chore: sync OFAC SDN watchlist dataset definitions
+- [2026-04-03 21:52] style: enhance war room cyber-finance dark theme UI
