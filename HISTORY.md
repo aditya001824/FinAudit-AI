@@ -68,3 +68,4 @@
 - [2026-04-03 17:25] perf: improve ReAct agent multi-step reasoning response latency
 - [2026-04-03 12:49] chore: sync OFAC SDN watchlist dataset definitions
 - [2026-04-03 21:52] style: enhance war room cyber-finance dark theme UI
+- [2026-04-04 20:53] test: add unit tests for structuring anomaly detection engine
