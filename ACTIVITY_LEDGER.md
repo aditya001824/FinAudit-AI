@@ -986,3 +986,4 @@
 - [2026-04-04 09:24:48] perf(agent): reduce ReAct multi-agent thought latency (Commit #984)
 - [2026-04-04 16:59:58] docs(sar): update FinCEN Form 111 XML filing schemas (Commit #985)
 - [2026-04-04 16:16:20] fix(parser): handle cross-border SWIFT wire transit edge cases (Commit #986)
+- [2026-04-04 11:00:52] fix(parser): handle cross-border SWIFT wire transit edge cases (Commit #987)
