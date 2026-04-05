@@ -70,3 +70,4 @@
 - [2026-04-03 21:52] style: enhance war room cyber-finance dark theme UI
 - [2026-04-04 20:53] test: add unit tests for structuring anomaly detection engine
 - [2026-04-04 16:17] docs: clarify BSA anti-structuring statutory authorities
+- [2026-04-05 12:06] fix: refine fuzzy sanctions matching threshold for aliases
