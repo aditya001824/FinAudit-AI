@@ -990,3 +990,4 @@
 - [2026-04-05 14:36:20] refactor(models): strengthen Pydantic v2 validation schemas (Commit #988)
 - [2026-04-05 22:09:15] feat(analytics): add betweenness centrality hub indicators (Commit #989)
 - [2026-04-05 17:00:41] style(ui): improve glassmorphism cyber-finance dashboard (Commit #990)
+- [2026-04-05 10:20:00] feat(rag): expand FATF 40 recommendations knowledge base (Commit #991)
