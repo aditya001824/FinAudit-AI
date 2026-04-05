@@ -988,3 +988,4 @@
 - [2026-04-04 16:16:20] fix(parser): handle cross-border SWIFT wire transit edge cases (Commit #986)
 - [2026-04-04 11:00:52] fix(parser): handle cross-border SWIFT wire transit edge cases (Commit #987)
 - [2026-04-05 14:36:20] refactor(models): strengthen Pydantic v2 validation schemas (Commit #988)
+- [2026-04-05 22:09:15] feat(analytics): add betweenness centrality hub indicators (Commit #989)
