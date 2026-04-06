@@ -995,3 +995,4 @@
 - [2026-04-05 13:26:51] fix(parser): handle cross-border SWIFT wire transit edge cases (Commit #993)
 - [2026-04-06 20:32:05] test(integration): verify autonomous SAR generation pipeline (Commit #994)
 - [2026-04-06 10:41:34] feat(analytics): add betweenness centrality hub indicators (Commit #995)
+- [2026-04-06 19:42:48] test(sanctions): add fuzzy matching test cases for OFAC aliases (Commit #996)
