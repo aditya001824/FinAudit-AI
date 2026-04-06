@@ -993,3 +993,4 @@
 - [2026-04-05 10:20:00] feat(rag): expand FATF 40 recommendations knowledge base (Commit #991)
 - [2026-04-05 21:16:30] docs(sar): update FinCEN Form 111 XML filing schemas (Commit #992)
 - [2026-04-05 13:26:51] fix(parser): handle cross-border SWIFT wire transit edge cases (Commit #993)
+- [2026-04-06 20:32:05] test(integration): verify autonomous SAR generation pipeline (Commit #994)
