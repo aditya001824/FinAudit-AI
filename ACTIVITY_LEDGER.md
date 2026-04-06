@@ -994,3 +994,4 @@
 - [2026-04-05 21:16:30] docs(sar): update FinCEN Form 111 XML filing schemas (Commit #992)
 - [2026-04-05 13:26:51] fix(parser): handle cross-border SWIFT wire transit edge cases (Commit #993)
 - [2026-04-06 20:32:05] test(integration): verify autonomous SAR generation pipeline (Commit #994)
+- [2026-04-06 10:41:34] feat(analytics): add betweenness centrality hub indicators (Commit #995)
