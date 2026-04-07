@@ -997,3 +997,4 @@
 - [2026-04-06 10:41:34] feat(analytics): add betweenness centrality hub indicators (Commit #995)
 - [2026-04-06 19:42:48] test(sanctions): add fuzzy matching test cases for OFAC aliases (Commit #996)
 - [2026-04-06 13:40:44] docs(aml): update FinCEN BSA compliance guidelines (Commit #997)
+- [2026-04-07 22:49:53] chore(deps): update forensic cryptography packages (Commit #998)
