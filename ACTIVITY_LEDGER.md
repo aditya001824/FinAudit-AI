@@ -1000,3 +1000,4 @@
 - [2026-04-07 22:49:53] chore(deps): update forensic cryptography packages (Commit #998)
 - [2026-04-07 16:26:43] chore(ci): optimize daily maintenance automated sync (Commit #999)
 - [2026-04-07 09:23:40] refactor(models): strengthen Pydantic v2 validation schemas (Commit #1000)
+- [2026-04-07 22:47:48] test(sanctions): add fuzzy matching test cases for OFAC aliases (Commit #1001)
