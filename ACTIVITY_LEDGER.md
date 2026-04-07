@@ -999,3 +999,4 @@
 - [2026-04-06 13:40:44] docs(aml): update FinCEN BSA compliance guidelines (Commit #997)
 - [2026-04-07 22:49:53] chore(deps): update forensic cryptography packages (Commit #998)
 - [2026-04-07 16:26:43] chore(ci): optimize daily maintenance automated sync (Commit #999)
+- [2026-04-07 09:23:40] refactor(models): strengthen Pydantic v2 validation schemas (Commit #1000)
