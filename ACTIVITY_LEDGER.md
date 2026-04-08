@@ -1004,3 +1004,4 @@
 - [2026-04-08 14:34:11] feat(rag): expand FATF 40 recommendations knowledge base (Commit #1002)
 - [2026-04-08 22:26:12] test(integration): verify autonomous SAR generation pipeline (Commit #1003)
 - [2026-04-08 14:38:19] chore(ci): optimize daily maintenance automated sync (Commit #1004)
+- [2026-04-08 21:28:00] feat(engine): optimize forensic anomaly detector rules (Commit #1005)
