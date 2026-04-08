@@ -72,3 +72,4 @@
 - [2026-04-04 16:17] docs: clarify BSA anti-structuring statutory authorities
 - [2026-04-05 12:06] fix: refine fuzzy sanctions matching threshold for aliases
 - [2026-04-06 16:11] style: enhance war room cyber-finance dark theme UI
+- [2026-04-08 14:22] docs: update SAR Form 111 XML schema references
