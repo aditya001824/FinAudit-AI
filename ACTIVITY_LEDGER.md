@@ -1009,3 +1009,4 @@
 - [2026-04-09 12:19:56] perf(agent): reduce ReAct multi-agent thought latency (Commit #1007)
 - [2026-04-09 09:52:49] feat(engine): optimize forensic anomaly detector rules (Commit #1008)
 - [2026-04-09 17:42:37] feat(rag): expand FATF 40 recommendations knowledge base (Commit #1009)
+- [2026-04-09 19:44:27] docs(aml): update FinCEN BSA compliance guidelines (Commit #1010)
