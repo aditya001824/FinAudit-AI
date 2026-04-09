@@ -1008,3 +1008,4 @@
 - [2026-04-09 21:47:46] fix(parser): handle cross-border SWIFT wire transit edge cases (Commit #1006)
 - [2026-04-09 12:19:56] perf(agent): reduce ReAct multi-agent thought latency (Commit #1007)
 - [2026-04-09 09:52:49] feat(engine): optimize forensic anomaly detector rules (Commit #1008)
+- [2026-04-09 17:42:37] feat(rag): expand FATF 40 recommendations knowledge base (Commit #1009)
