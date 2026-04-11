@@ -75,3 +75,4 @@
 - [2026-04-08 14:22] docs: update SAR Form 111 XML schema references
 - [2026-04-10 09:40] fix: handle zero-amount edge cases in flow reconstructor
 - [2026-04-11 16:36] docs: update AML forensic typology guidelines
+- [2026-04-11 11:36] style: enhance war room cyber-finance dark theme UI
