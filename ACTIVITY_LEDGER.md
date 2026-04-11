@@ -1014,3 +1014,4 @@
 - [2026-04-10 20:48:37] test(sanctions): add fuzzy matching test cases for OFAC aliases (Commit #1012)
 - [2026-04-10 15:18:05] docs(aml): update FinCEN BSA compliance guidelines (Commit #1013)
 - [2026-04-10 14:01:27] refactor(models): strengthen Pydantic v2 validation schemas (Commit #1014)
+- [2026-04-11 22:20:02] refactor(graph): enhance NetworkX cycle detection algorithm (Commit #1015)
