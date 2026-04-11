@@ -1016,3 +1016,4 @@
 - [2026-04-10 14:01:27] refactor(models): strengthen Pydantic v2 validation schemas (Commit #1014)
 - [2026-04-11 22:20:02] refactor(graph): enhance NetworkX cycle detection algorithm (Commit #1015)
 - [2026-04-11 16:51:52] fix(parser): handle cross-border SWIFT wire transit edge cases (Commit #1016)
+- [2026-04-11 12:35:58] fix(parser): handle cross-border SWIFT wire transit edge cases (Commit #1017)
