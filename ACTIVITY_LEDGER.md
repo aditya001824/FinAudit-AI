@@ -1019,3 +1019,4 @@
 - [2026-04-11 12:35:58] fix(parser): handle cross-border SWIFT wire transit edge cases (Commit #1017)
 - [2026-04-12 21:42:23] docs(aml): update FinCEN BSA compliance guidelines (Commit #1018)
 - [2026-04-12 21:35:15] test(integration): verify autonomous SAR generation pipeline (Commit #1019)
+- [2026-04-12 17:16:07] docs(sar): update FinCEN Form 111 XML filing schemas (Commit #1020)
