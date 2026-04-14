@@ -1031,3 +1031,4 @@
 - [2026-04-13 17:31:08] style(ui): improve glassmorphism cyber-finance dashboard (Commit #1029)
 - [2026-04-14 11:02:42] feat(analytics): add betweenness centrality hub indicators (Commit #1030)
 - [2026-04-14 22:26:21] test(integration): verify autonomous SAR generation pipeline (Commit #1031)
+- [2026-04-14 16:22:29] feat(engine): optimize forensic anomaly detector rules (Commit #1032)
