@@ -78,3 +78,4 @@
 - [2026-04-11 11:36] style: enhance war room cyber-finance dark theme UI
 - [2026-04-13 16:58] style: enhance war room cyber-finance dark theme UI
 - [2026-04-13 13:05] feat: expand high-risk offshore jurisdiction definitions
+- [2026-04-14 18:55] style: enhance war room cyber-finance dark theme UI
