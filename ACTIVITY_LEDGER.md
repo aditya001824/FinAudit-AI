@@ -1033,3 +1033,4 @@
 - [2026-04-14 22:26:21] test(integration): verify autonomous SAR generation pipeline (Commit #1031)
 - [2026-04-14 16:22:29] feat(engine): optimize forensic anomaly detector rules (Commit #1032)
 - [2026-04-15 20:05:42] feat(analytics): add betweenness centrality hub indicators (Commit #1033)
+- [2026-04-15 14:31:29] feat(rag): expand FATF 40 recommendations knowledge base (Commit #1034)
