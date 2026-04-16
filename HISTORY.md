@@ -81,3 +81,4 @@
 - [2026-04-14 18:55] style: enhance war room cyber-finance dark theme UI
 - [2026-04-14 11:15] feat: add FATF recommendation 16 wire transit validation
 - [2026-04-16 09:11] perf: improve ReAct agent multi-step reasoning response latency
+- [2026-04-16 11:44] chore: update FinCEN red flag indicators catalog
