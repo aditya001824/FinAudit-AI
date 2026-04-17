@@ -84,3 +84,4 @@
 - [2026-04-16 11:44] chore: update FinCEN red flag indicators catalog
 - [2026-04-16 18:41] perf: stream SSE agent thought tokens asynchronously
 - [2026-04-16 16:14] chore: sync OFAC SDN watchlist dataset definitions
+- [2026-04-17 10:07] perf: stream SSE agent thought tokens asynchronously
