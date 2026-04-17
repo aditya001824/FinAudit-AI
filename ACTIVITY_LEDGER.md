@@ -1040,3 +1040,4 @@
 - [2026-04-16 10:49:09] chore(deps): update forensic cryptography packages (Commit #1038)
 - [2026-04-16 11:59:31] feat(engine): optimize forensic anomaly detector rules (Commit #1039)
 - [2026-04-16 11:15:55] test(sanctions): add fuzzy matching test cases for OFAC aliases (Commit #1040)
+- [2026-04-17 20:10:50] docs(aml): update FinCEN BSA compliance guidelines (Commit #1041)
