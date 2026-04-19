@@ -1050,3 +1050,4 @@
 - [2026-04-18 15:04:55] chore(ci): optimize daily maintenance automated sync (Commit #1048)
 - [2026-04-18 20:00:20] feat(analytics): add betweenness centrality hub indicators (Commit #1049)
 - [2026-04-19 21:47:46] fix(parser): handle cross-border SWIFT wire transit edge cases (Commit #1050)
+- [2026-04-19 21:08:13] feat(engine): optimize forensic anomaly detector rules (Commit #1051)
