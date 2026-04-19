@@ -1051,3 +1051,4 @@
 - [2026-04-18 20:00:20] feat(analytics): add betweenness centrality hub indicators (Commit #1049)
 - [2026-04-19 21:47:46] fix(parser): handle cross-border SWIFT wire transit edge cases (Commit #1050)
 - [2026-04-19 21:08:13] feat(engine): optimize forensic anomaly detector rules (Commit #1051)
+- [2026-04-19 17:59:44] feat(rag): expand FATF 40 recommendations knowledge base (Commit #1052)
