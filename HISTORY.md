@@ -89,3 +89,4 @@
 - [2026-04-18 14:55] test: add unit tests for structuring anomaly detection engine
 - [2026-04-19 20:51] perf: improve ReAct agent multi-step reasoning response latency
 - [2026-04-20 12:45] chore: update FinCEN red flag indicators catalog
+- [2026-04-20 16:38] refactor: modularize regulatory RAG corpus search
