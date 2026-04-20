@@ -91,3 +91,4 @@
 - [2026-04-20 12:45] chore: update FinCEN red flag indicators catalog
 - [2026-04-20 16:38] refactor: modularize regulatory RAG corpus search
 - [2026-04-20 17:05] feat: add betweenness centrality hub detection
+- [2026-04-20 10:24] test: add unit tests for structuring anomaly detection engine
