@@ -1060,3 +1060,4 @@
 - [2026-04-20 10:35:15] docs(sar): update FinCEN Form 111 XML filing schemas (Commit #1058)
 - [2026-04-21 20:21:12] perf(agent): reduce ReAct multi-agent thought latency (Commit #1059)
 - [2026-04-21 18:45:16] chore(deps): update forensic cryptography packages (Commit #1060)
+- [2026-04-21 11:34:34] refactor(models): strengthen Pydantic v2 validation schemas (Commit #1061)
