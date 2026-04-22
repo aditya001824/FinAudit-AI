@@ -1062,3 +1062,4 @@
 - [2026-04-21 18:45:16] chore(deps): update forensic cryptography packages (Commit #1060)
 - [2026-04-21 11:34:34] refactor(models): strengthen Pydantic v2 validation schemas (Commit #1061)
 - [2026-04-21 22:08:13] docs(sar): update FinCEN Form 111 XML filing schemas (Commit #1062)
+- [2026-04-22 19:21:24] feat(analytics): add betweenness centrality hub indicators (Commit #1063)
