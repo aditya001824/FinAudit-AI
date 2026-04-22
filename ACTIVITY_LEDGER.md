@@ -1063,3 +1063,4 @@
 - [2026-04-21 11:34:34] refactor(models): strengthen Pydantic v2 validation schemas (Commit #1061)
 - [2026-04-21 22:08:13] docs(sar): update FinCEN Form 111 XML filing schemas (Commit #1062)
 - [2026-04-22 19:21:24] feat(analytics): add betweenness centrality hub indicators (Commit #1063)
+- [2026-04-22 09:31:28] docs(aml): update FinCEN BSA compliance guidelines (Commit #1064)
