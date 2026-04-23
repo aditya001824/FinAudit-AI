@@ -94,3 +94,4 @@
 - [2026-04-20 10:24] test: add unit tests for structuring anomaly detection engine
 - [2026-04-21 17:49] refactor: modularize regulatory RAG corpus search
 - [2026-04-22 17:59] fix: handle zero-amount edge cases in flow reconstructor
+- [2026-04-23 16:36] docs: clarify BSA anti-structuring statutory authorities
