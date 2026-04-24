@@ -1073,3 +1073,4 @@
 - [2026-04-24 18:16:34] fix(parser): handle cross-border SWIFT wire transit edge cases (Commit #1071)
 - [2026-04-24 22:49:41] feat(engine): optimize forensic anomaly detector rules (Commit #1072)
 - [2026-04-24 14:35:46] test(sanctions): add fuzzy matching test cases for OFAC aliases (Commit #1073)
+- [2026-04-24 09:25:29] docs(aml): update FinCEN BSA compliance guidelines (Commit #1074)
