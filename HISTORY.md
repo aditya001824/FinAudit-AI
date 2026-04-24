@@ -96,3 +96,4 @@
 - [2026-04-22 17:59] fix: handle zero-amount edge cases in flow reconstructor
 - [2026-04-23 16:36] docs: clarify BSA anti-structuring statutory authorities
 - [2026-04-23 09:13] perf: improve ReAct agent multi-step reasoning response latency
+- [2026-04-24 10:59] docs: clarify BSA anti-structuring statutory authorities
