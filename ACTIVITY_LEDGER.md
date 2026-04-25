@@ -1077,3 +1077,4 @@
 - [2026-04-25 20:50:57] feat(rag): expand FATF 40 recommendations knowledge base (Commit #1075)
 - [2026-04-25 22:17:41] test(sanctions): add fuzzy matching test cases for OFAC aliases (Commit #1076)
 - [2026-04-25 16:56:18] refactor(graph): enhance NetworkX cycle detection algorithm (Commit #1077)
+- [2026-04-25 21:09:25] fix(parser): handle cross-border SWIFT wire transit edge cases (Commit #1078)
