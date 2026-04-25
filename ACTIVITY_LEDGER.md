@@ -1075,3 +1075,4 @@
 - [2026-04-24 14:35:46] test(sanctions): add fuzzy matching test cases for OFAC aliases (Commit #1073)
 - [2026-04-24 09:25:29] docs(aml): update FinCEN BSA compliance guidelines (Commit #1074)
 - [2026-04-25 20:50:57] feat(rag): expand FATF 40 recommendations knowledge base (Commit #1075)
+- [2026-04-25 22:17:41] test(sanctions): add fuzzy matching test cases for OFAC aliases (Commit #1076)
