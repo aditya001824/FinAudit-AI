@@ -1086,3 +1086,4 @@
 - [2026-04-26 20:54:41] refactor(graph): enhance NetworkX cycle detection algorithm (Commit #1084)
 - [2026-04-27 12:39:16] docs(aml): update FinCEN BSA compliance guidelines (Commit #1085)
 - [2026-04-27 16:20:08] feat(analytics): add betweenness centrality hub indicators (Commit #1086)
+- [2026-04-27 16:12:14] refactor(models): strengthen Pydantic v2 validation schemas (Commit #1087)
