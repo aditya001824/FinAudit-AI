@@ -102,3 +102,4 @@
 - [2026-04-25 11:52] perf: stream SSE agent thought tokens asynchronously
 - [2026-04-25 21:15] chore: optimize docker-compose build caching
 - [2026-04-27 15:09] chore: optimize docker-compose build caching
+- [2026-04-28 16:12] feat: add betweenness centrality hub detection
