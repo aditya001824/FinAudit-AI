@@ -1090,3 +1090,4 @@
 - [2026-04-27 18:03:10] chore(deps): update forensic cryptography packages (Commit #1088)
 - [2026-04-28 17:59:49] fix(parser): handle cross-border SWIFT wire transit edge cases (Commit #1089)
 - [2026-04-28 19:33:16] chore(ci): optimize daily maintenance automated sync (Commit #1090)
+- [2026-04-28 16:05:21] docs(sar): update FinCEN Form 111 XML filing schemas (Commit #1091)
