@@ -1095,3 +1095,4 @@
 - [2026-04-29 16:48:26] fix(parser): handle cross-border SWIFT wire transit edge cases (Commit #1093)
 - [2026-04-29 22:10:00] style(ui): improve glassmorphism cyber-finance dashboard (Commit #1094)
 - [2026-04-29 18:21:49] feat(analytics): add betweenness centrality hub indicators (Commit #1095)
+- [2026-04-29 15:50:28] refactor(graph): enhance NetworkX cycle detection algorithm (Commit #1096)
