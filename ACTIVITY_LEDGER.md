@@ -1093,3 +1093,4 @@
 - [2026-04-28 16:05:21] docs(sar): update FinCEN Form 111 XML filing schemas (Commit #1091)
 - [2026-04-28 09:19:18] refactor(models): strengthen Pydantic v2 validation schemas (Commit #1092)
 - [2026-04-29 16:48:26] fix(parser): handle cross-border SWIFT wire transit edge cases (Commit #1093)
+- [2026-04-29 22:10:00] style(ui): improve glassmorphism cyber-finance dashboard (Commit #1094)
