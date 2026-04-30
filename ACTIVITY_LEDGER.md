@@ -1100,3 +1100,4 @@
 - [2026-04-30 10:46:25] style(ui): improve glassmorphism cyber-finance dashboard (Commit #1098)
 - [2026-04-30 16:27:11] style(ui): improve glassmorphism cyber-finance dashboard (Commit #1099)
 - [2026-04-30 21:51:09] refactor(graph): enhance NetworkX cycle detection algorithm (Commit #1100)
+- [2026-04-30 13:40:14] docs(aml): update FinCEN BSA compliance guidelines (Commit #1101)
