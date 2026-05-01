@@ -106,3 +106,4 @@
 - [2026-04-30 17:20] refactor: modularize regulatory RAG corpus search
 - [2026-04-30 11:11] test: verify circular round-trip wash trading heuristics
 - [2026-04-30 14:41] perf: improve ReAct agent multi-step reasoning response latency
+- [2026-05-01 13:18] fix: refine fuzzy sanctions matching threshold for aliases
