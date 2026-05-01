@@ -108,3 +108,4 @@
 - [2026-04-30 14:41] perf: improve ReAct agent multi-step reasoning response latency
 - [2026-05-01 13:18] fix: refine fuzzy sanctions matching threshold for aliases
 - [2026-05-01 12:39] test: add unit tests for structuring anomaly detection engine
+- [2026-05-01 18:51] refactor: modularize regulatory RAG corpus search
