@@ -109,3 +109,4 @@
 - [2026-05-01 13:18] fix: refine fuzzy sanctions matching threshold for aliases
 - [2026-05-01 12:39] test: add unit tests for structuring anomaly detection engine
 - [2026-05-01 18:51] refactor: modularize regulatory RAG corpus search
+- [2026-05-02 21:31] docs: clarify BSA anti-structuring statutory authorities
