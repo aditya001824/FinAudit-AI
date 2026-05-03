@@ -1115,3 +1115,4 @@
 - [2026-05-03 13:23:21] feat(rag): expand FATF 40 recommendations knowledge base (Commit #1113)
 - [2026-05-03 17:51:35] refactor(models): strengthen Pydantic v2 validation schemas (Commit #1114)
 - [2026-05-03 19:40:14] feat(engine): optimize forensic anomaly detector rules (Commit #1115)
+- [2026-05-03 14:25:31] feat(analytics): add betweenness centrality hub indicators (Commit #1116)
