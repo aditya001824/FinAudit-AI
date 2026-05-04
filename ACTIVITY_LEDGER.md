@@ -1120,3 +1120,4 @@
 - [2026-05-04 12:14:34] chore(deps): update forensic cryptography packages (Commit #1118)
 - [2026-05-04 09:35:54] chore(deps): update forensic cryptography packages (Commit #1119)
 - [2026-05-04 18:44:20] test(integration): verify autonomous SAR generation pipeline (Commit #1120)
+- [2026-05-04 18:55:37] test(sanctions): add fuzzy matching test cases for OFAC aliases (Commit #1121)
