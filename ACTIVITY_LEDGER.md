@@ -1117,3 +1117,4 @@
 - [2026-05-03 19:40:14] feat(engine): optimize forensic anomaly detector rules (Commit #1115)
 - [2026-05-03 14:25:31] feat(analytics): add betweenness centrality hub indicators (Commit #1116)
 - [2026-05-03 11:52:37] fix(parser): handle cross-border SWIFT wire transit edge cases (Commit #1117)
+- [2026-05-04 12:14:34] chore(deps): update forensic cryptography packages (Commit #1118)
