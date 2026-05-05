@@ -1122,3 +1122,4 @@
 - [2026-05-04 18:44:20] test(integration): verify autonomous SAR generation pipeline (Commit #1120)
 - [2026-05-04 18:55:37] test(sanctions): add fuzzy matching test cases for OFAC aliases (Commit #1121)
 - [2026-05-04 15:23:13] docs(sar): update FinCEN Form 111 XML filing schemas (Commit #1122)
+- [2026-05-05 12:52:18] docs(sar): update FinCEN Form 111 XML filing schemas (Commit #1123)
