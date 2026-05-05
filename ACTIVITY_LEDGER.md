@@ -1123,3 +1123,4 @@
 - [2026-05-04 18:55:37] test(sanctions): add fuzzy matching test cases for OFAC aliases (Commit #1121)
 - [2026-05-04 15:23:13] docs(sar): update FinCEN Form 111 XML filing schemas (Commit #1122)
 - [2026-05-05 12:52:18] docs(sar): update FinCEN Form 111 XML filing schemas (Commit #1123)
+- [2026-05-05 17:12:14] chore(deps): update forensic cryptography packages (Commit #1124)
