@@ -1126,3 +1126,4 @@
 - [2026-05-05 17:12:14] chore(deps): update forensic cryptography packages (Commit #1124)
 - [2026-05-05 20:23:07] test(integration): verify autonomous SAR generation pipeline (Commit #1125)
 - [2026-05-05 21:28:09] docs(sar): update FinCEN Form 111 XML filing schemas (Commit #1126)
+- [2026-05-06 15:28:05] test(sanctions): add fuzzy matching test cases for OFAC aliases (Commit #1127)
