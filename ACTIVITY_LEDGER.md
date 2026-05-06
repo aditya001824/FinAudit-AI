@@ -1129,3 +1129,4 @@
 - [2026-05-06 15:28:05] test(sanctions): add fuzzy matching test cases for OFAC aliases (Commit #1127)
 - [2026-05-06 20:59:29] feat(analytics): add betweenness centrality hub indicators (Commit #1128)
 - [2026-05-06 22:05:57] feat(rag): expand FATF 40 recommendations knowledge base (Commit #1129)
+- [2026-05-06 19:07:15] feat(rag): expand FATF 40 recommendations knowledge base (Commit #1130)
