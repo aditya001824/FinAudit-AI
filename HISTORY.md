@@ -113,3 +113,4 @@
 - [2026-05-02 11:23] chore: optimize docker-compose build caching
 - [2026-05-03 10:12] refactor: modularize regulatory RAG corpus search
 - [2026-05-03 19:34] chore: update FinCEN red flag indicators catalog
+- [2026-05-06 09:12] perf: improve ReAct agent multi-step reasoning response latency
