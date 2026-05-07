@@ -1132,3 +1132,4 @@
 - [2026-05-06 19:07:15] feat(rag): expand FATF 40 recommendations knowledge base (Commit #1130)
 - [2026-05-06 12:25:41] refactor(graph): enhance NetworkX cycle detection algorithm (Commit #1131)
 - [2026-05-06 18:17:08] refactor(models): strengthen Pydantic v2 validation schemas (Commit #1132)
+- [2026-05-07 12:48:24] docs(sar): update FinCEN Form 111 XML filing schemas (Commit #1133)
