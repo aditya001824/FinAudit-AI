@@ -1139,3 +1139,4 @@
 - [2026-05-07 19:22:37] chore(deps): update forensic cryptography packages (Commit #1137)
 - [2026-05-07 16:21:30] chore(ci): optimize daily maintenance automated sync (Commit #1138)
 - [2026-05-08 18:27:49] chore(ci): optimize daily maintenance automated sync (Commit #1139)
+- [2026-05-08 18:21:01] docs(aml): update FinCEN BSA compliance guidelines (Commit #1140)
