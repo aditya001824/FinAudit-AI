@@ -116,3 +116,4 @@
 - [2026-05-06 09:12] perf: improve ReAct agent multi-step reasoning response latency
 - [2026-05-07 15:50] chore: optimize docker-compose build caching
 - [2026-05-07 14:13] feat: expand high-risk offshore jurisdiction definitions
+- [2026-05-09 21:25] feat: add betweenness centrality hub detection
