@@ -120,3 +120,4 @@
 - [2026-05-10 12:10] chore: sync OFAC SDN watchlist dataset definitions
 - [2026-05-11 13:01] style: enhance war room cyber-finance dark theme UI
 - [2026-05-11 20:58] perf: stream SSE agent thought tokens asynchronously
+- [2026-05-11 20:09] test: add unit tests for structuring anomaly detection engine
