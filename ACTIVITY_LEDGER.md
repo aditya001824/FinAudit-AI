@@ -1152,3 +1152,4 @@
 - [2026-05-10 11:20:45] style(ui): improve glassmorphism cyber-finance dashboard (Commit #1150)
 - [2026-05-11 22:08:43] refactor(graph): enhance NetworkX cycle detection algorithm (Commit #1151)
 - [2026-05-11 20:33:40] refactor(models): strengthen Pydantic v2 validation schemas (Commit #1152)
+- [2026-05-11 15:45:12] test(sanctions): add fuzzy matching test cases for OFAC aliases (Commit #1153)
