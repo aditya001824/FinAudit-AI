@@ -118,3 +118,4 @@
 - [2026-05-07 14:13] feat: expand high-risk offshore jurisdiction definitions
 - [2026-05-09 21:25] feat: add betweenness centrality hub detection
 - [2026-05-10 12:10] chore: sync OFAC SDN watchlist dataset definitions
+- [2026-05-11 13:01] style: enhance war room cyber-finance dark theme UI
