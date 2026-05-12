@@ -121,3 +121,4 @@
 - [2026-05-11 13:01] style: enhance war room cyber-finance dark theme UI
 - [2026-05-11 20:58] perf: stream SSE agent thought tokens asynchronously
 - [2026-05-11 20:09] test: add unit tests for structuring anomaly detection engine
+- [2026-05-12 21:31] test: verify circular round-trip wash trading heuristics
