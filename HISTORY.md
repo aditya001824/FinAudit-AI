@@ -123,3 +123,4 @@
 - [2026-05-11 20:09] test: add unit tests for structuring anomaly detection engine
 - [2026-05-12 21:31] test: verify circular round-trip wash trading heuristics
 - [2026-05-12 19:18] test: verify circular round-trip wash trading heuristics
+- [2026-05-13 18:55] docs: update AML forensic typology guidelines
