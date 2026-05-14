@@ -124,3 +124,4 @@
 - [2026-05-12 21:31] test: verify circular round-trip wash trading heuristics
 - [2026-05-12 19:18] test: verify circular round-trip wash trading heuristics
 - [2026-05-13 18:55] docs: update AML forensic typology guidelines
+- [2026-05-14 18:45] docs: update SAR Form 111 XML schema references
