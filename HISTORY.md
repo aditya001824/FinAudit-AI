@@ -127,3 +127,4 @@
 - [2026-05-14 18:45] docs: update SAR Form 111 XML schema references
 - [2026-05-14 14:31] refactor: optimize NetworkX graph traversal speed
 - [2026-05-14 14:13] fix: refine fuzzy sanctions matching threshold for aliases
+- [2026-05-15 17:17] test: add unit tests for structuring anomaly detection engine
