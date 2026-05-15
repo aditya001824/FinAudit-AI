@@ -1173,3 +1173,4 @@
 - [2026-05-15 21:41:44] refactor(models): strengthen Pydantic v2 validation schemas (Commit #1171)
 - [2026-05-15 13:24:09] docs(aml): update FinCEN BSA compliance guidelines (Commit #1172)
 - [2026-05-15 16:40:24] chore(deps): update forensic cryptography packages (Commit #1173)
+- [2026-05-15 12:18:07] style(ui): improve glassmorphism cyber-finance dashboard (Commit #1174)
