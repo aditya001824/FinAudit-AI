@@ -1177,3 +1177,4 @@
 - [2026-05-15 14:54:32] refactor(graph): enhance NetworkX cycle detection algorithm (Commit #1175)
 - [2026-05-16 21:05:01] feat(rag): expand FATF 40 recommendations knowledge base (Commit #1176)
 - [2026-05-16 13:09:12] chore(ci): optimize daily maintenance automated sync (Commit #1177)
+- [2026-05-16 18:45:22] feat(analytics): add betweenness centrality hub indicators (Commit #1178)
