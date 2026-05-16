@@ -1175,3 +1175,4 @@
 - [2026-05-15 16:40:24] chore(deps): update forensic cryptography packages (Commit #1173)
 - [2026-05-15 12:18:07] style(ui): improve glassmorphism cyber-finance dashboard (Commit #1174)
 - [2026-05-15 14:54:32] refactor(graph): enhance NetworkX cycle detection algorithm (Commit #1175)
+- [2026-05-16 21:05:01] feat(rag): expand FATF 40 recommendations knowledge base (Commit #1176)
