@@ -129,3 +129,4 @@
 - [2026-05-14 14:13] fix: refine fuzzy sanctions matching threshold for aliases
 - [2026-05-15 17:17] test: add unit tests for structuring anomaly detection engine
 - [2026-05-15 14:39] docs: update AML forensic typology guidelines
+- [2026-05-17 09:54] style: enhance war room cyber-finance dark theme UI
