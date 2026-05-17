@@ -131,3 +131,4 @@
 - [2026-05-15 14:39] docs: update AML forensic typology guidelines
 - [2026-05-17 09:54] style: enhance war room cyber-finance dark theme UI
 - [2026-05-17 13:51] docs: clarify BSA anti-structuring statutory authorities
+- [2026-05-17 10:32] fix: handle zero-amount edge cases in flow reconstructor
