@@ -1180,3 +1180,4 @@
 - [2026-05-16 18:45:22] feat(analytics): add betweenness centrality hub indicators (Commit #1178)
 - [2026-05-17 19:42:37] refactor(graph): enhance NetworkX cycle detection algorithm (Commit #1179)
 - [2026-05-17 22:01:06] fix(parser): handle cross-border SWIFT wire transit edge cases (Commit #1180)
+- [2026-05-17 11:34:04] chore(deps): update forensic cryptography packages (Commit #1181)
