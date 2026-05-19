@@ -135,3 +135,4 @@
 - [2026-05-17 11:29] chore: optimize docker-compose build caching
 - [2026-05-18 16:37] docs: update AML forensic typology guidelines
 - [2026-05-19 11:29] chore: sync OFAC SDN watchlist dataset definitions
+- [2026-05-19 15:41] feat: expand high-risk offshore jurisdiction definitions
