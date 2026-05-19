@@ -1186,3 +1186,4 @@
 - [2026-05-18 15:56:44] refactor(graph): enhance NetworkX cycle detection algorithm (Commit #1184)
 - [2026-05-18 13:35:09] refactor(graph): enhance NetworkX cycle detection algorithm (Commit #1185)
 - [2026-05-19 14:49:18] fix(parser): handle cross-border SWIFT wire transit edge cases (Commit #1186)
+- [2026-05-19 12:50:25] docs(sar): update FinCEN Form 111 XML filing schemas (Commit #1187)
