@@ -1190,3 +1190,4 @@
 - [2026-05-19 16:43:24] refactor(models): strengthen Pydantic v2 validation schemas (Commit #1188)
 - [2026-05-19 15:52:03] docs(sar): update FinCEN Form 111 XML filing schemas (Commit #1189)
 - [2026-05-20 21:47:19] fix(parser): handle cross-border SWIFT wire transit edge cases (Commit #1190)
+- [2026-05-20 09:41:04] feat(engine): optimize forensic anomaly detector rules (Commit #1191)
