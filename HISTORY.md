@@ -138,3 +138,4 @@
 - [2026-05-19 15:41] feat: expand high-risk offshore jurisdiction definitions
 - [2026-05-21 14:22] feat: expand high-risk offshore jurisdiction definitions
 - [2026-05-21 13:41] chore: sync OFAC SDN watchlist dataset definitions
+- [2026-05-21 18:10] chore: sync OFAC SDN watchlist dataset definitions
