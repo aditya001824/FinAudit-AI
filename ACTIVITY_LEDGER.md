@@ -1201,3 +1201,4 @@
 - [2026-05-22 12:27:45] test(integration): verify autonomous SAR generation pipeline (Commit #1199)
 - [2026-05-22 12:04:44] fix(parser): handle cross-border SWIFT wire transit edge cases (Commit #1200)
 - [2026-05-22 17:37:49] chore(ci): optimize daily maintenance automated sync (Commit #1201)
+- [2026-05-22 13:30:02] test(sanctions): add fuzzy matching test cases for OFAC aliases (Commit #1202)
