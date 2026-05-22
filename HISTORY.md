@@ -141,3 +141,4 @@
 - [2026-05-21 18:10] chore: sync OFAC SDN watchlist dataset definitions
 - [2026-05-21 17:26] style: enhance war room cyber-finance dark theme UI
 - [2026-05-22 16:51] perf: improve ReAct agent multi-step reasoning response latency
+- [2026-05-22 19:21] chore: sync OFAC SDN watchlist dataset definitions
