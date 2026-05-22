@@ -1202,3 +1202,4 @@
 - [2026-05-22 12:04:44] fix(parser): handle cross-border SWIFT wire transit edge cases (Commit #1200)
 - [2026-05-22 17:37:49] chore(ci): optimize daily maintenance automated sync (Commit #1201)
 - [2026-05-22 13:30:02] test(sanctions): add fuzzy matching test cases for OFAC aliases (Commit #1202)
+- [2026-05-22 14:52:39] feat(rag): expand FATF 40 recommendations knowledge base (Commit #1203)
