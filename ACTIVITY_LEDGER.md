@@ -1210,3 +1210,4 @@
 - [2026-05-24 13:09:38] test(integration): verify autonomous SAR generation pipeline (Commit #1208)
 - [2026-05-24 17:29:48] refactor(graph): enhance NetworkX cycle detection algorithm (Commit #1209)
 - [2026-05-24 17:30:38] docs(aml): update FinCEN BSA compliance guidelines (Commit #1210)
+- [2026-05-24 14:56:16] docs(aml): update FinCEN BSA compliance guidelines (Commit #1211)
