@@ -1211,3 +1211,4 @@
 - [2026-05-24 17:29:48] refactor(graph): enhance NetworkX cycle detection algorithm (Commit #1209)
 - [2026-05-24 17:30:38] docs(aml): update FinCEN BSA compliance guidelines (Commit #1210)
 - [2026-05-24 14:56:16] docs(aml): update FinCEN BSA compliance guidelines (Commit #1211)
+- [2026-05-24 15:59:48] feat(analytics): add betweenness centrality hub indicators (Commit #1212)
