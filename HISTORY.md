@@ -148,3 +148,4 @@
 - [2026-05-25 10:04] docs: update AML forensic typology guidelines
 - [2026-05-25 12:58] docs: update SAR Form 111 XML schema references
 - [2026-05-25 15:48] perf: stream SSE agent thought tokens asynchronously
+- [2026-05-25 20:37] chore: optimize docker-compose build caching
