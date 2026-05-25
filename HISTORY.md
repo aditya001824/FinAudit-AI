@@ -145,3 +145,4 @@
 - [2026-05-22 20:29] test: verify circular round-trip wash trading heuristics
 - [2026-05-23 21:13] style: enhance war room cyber-finance dark theme UI
 - [2026-05-24 18:02] docs: update SAR Form 111 XML schema references
+- [2026-05-25 10:04] docs: update AML forensic typology guidelines
