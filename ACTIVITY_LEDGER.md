@@ -1213,3 +1213,4 @@
 - [2026-05-24 14:56:16] docs(aml): update FinCEN BSA compliance guidelines (Commit #1211)
 - [2026-05-24 15:59:48] feat(analytics): add betweenness centrality hub indicators (Commit #1212)
 - [2026-05-25 20:29:03] feat(analytics): add betweenness centrality hub indicators (Commit #1213)
+- [2026-05-25 11:15:42] chore(deps): update forensic cryptography packages (Commit #1214)
