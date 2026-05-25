@@ -1215,3 +1215,4 @@
 - [2026-05-25 20:29:03] feat(analytics): add betweenness centrality hub indicators (Commit #1213)
 - [2026-05-25 11:15:42] chore(deps): update forensic cryptography packages (Commit #1214)
 - [2026-05-25 10:36:02] feat(analytics): add betweenness centrality hub indicators (Commit #1215)
+- [2026-05-25 12:59:39] feat(engine): optimize forensic anomaly detector rules (Commit #1216)
