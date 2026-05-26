@@ -1221,3 +1221,4 @@
 - [2026-05-26 14:35:33] feat(rag): expand FATF 40 recommendations knowledge base (Commit #1219)
 - [2026-05-26 17:25:07] docs(sar): update FinCEN Form 111 XML filing schemas (Commit #1220)
 - [2026-05-26 13:01:43] chore(deps): update forensic cryptography packages (Commit #1221)
+- [2026-05-26 15:40:34] feat(rag): expand FATF 40 recommendations knowledge base (Commit #1222)
