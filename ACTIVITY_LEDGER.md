@@ -1218,3 +1218,4 @@
 - [2026-05-25 12:59:39] feat(engine): optimize forensic anomaly detector rules (Commit #1216)
 - [2026-05-25 22:51:29] style(ui): improve glassmorphism cyber-finance dashboard (Commit #1217)
 - [2026-05-26 19:05:09] style(ui): improve glassmorphism cyber-finance dashboard (Commit #1218)
+- [2026-05-26 14:35:33] feat(rag): expand FATF 40 recommendations knowledge base (Commit #1219)
