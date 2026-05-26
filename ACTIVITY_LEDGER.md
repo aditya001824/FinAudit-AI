@@ -1217,3 +1217,4 @@
 - [2026-05-25 10:36:02] feat(analytics): add betweenness centrality hub indicators (Commit #1215)
 - [2026-05-25 12:59:39] feat(engine): optimize forensic anomaly detector rules (Commit #1216)
 - [2026-05-25 22:51:29] style(ui): improve glassmorphism cyber-finance dashboard (Commit #1217)
+- [2026-05-26 19:05:09] style(ui): improve glassmorphism cyber-finance dashboard (Commit #1218)
