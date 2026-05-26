@@ -149,3 +149,4 @@
 - [2026-05-25 12:58] docs: update SAR Form 111 XML schema references
 - [2026-05-25 15:48] perf: stream SSE agent thought tokens asynchronously
 - [2026-05-25 20:37] chore: optimize docker-compose build caching
+- [2026-05-26 13:31] feat: expand high-risk offshore jurisdiction definitions
