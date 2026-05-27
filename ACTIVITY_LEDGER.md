@@ -1225,3 +1225,4 @@
 - [2026-05-26 17:16:36] docs(aml): update FinCEN BSA compliance guidelines (Commit #1223)
 - [2026-05-27 16:16:18] feat(engine): optimize forensic anomaly detector rules (Commit #1224)
 - [2026-05-27 14:17:06] docs(sar): update FinCEN Form 111 XML filing schemas (Commit #1225)
+- [2026-05-27 16:43:17] fix(parser): handle cross-border SWIFT wire transit edge cases (Commit #1226)
