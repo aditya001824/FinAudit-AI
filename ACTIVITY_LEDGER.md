@@ -1227,3 +1227,4 @@
 - [2026-05-27 14:17:06] docs(sar): update FinCEN Form 111 XML filing schemas (Commit #1225)
 - [2026-05-27 16:43:17] fix(parser): handle cross-border SWIFT wire transit edge cases (Commit #1226)
 - [2026-05-27 09:35:59] style(ui): improve glassmorphism cyber-finance dashboard (Commit #1227)
+- [2026-05-27 13:21:34] feat(rag): expand FATF 40 recommendations knowledge base (Commit #1228)
