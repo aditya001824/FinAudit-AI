@@ -1224,3 +1224,4 @@
 - [2026-05-26 15:40:34] feat(rag): expand FATF 40 recommendations knowledge base (Commit #1222)
 - [2026-05-26 17:16:36] docs(aml): update FinCEN BSA compliance guidelines (Commit #1223)
 - [2026-05-27 16:16:18] feat(engine): optimize forensic anomaly detector rules (Commit #1224)
+- [2026-05-27 14:17:06] docs(sar): update FinCEN Form 111 XML filing schemas (Commit #1225)
