@@ -152,3 +152,4 @@
 - [2026-05-26 13:31] feat: expand high-risk offshore jurisdiction definitions
 - [2026-05-26 11:04] feat: expand high-risk offshore jurisdiction definitions
 - [2026-05-27 17:25] chore: optimize docker-compose build caching
+- [2026-05-27 13:58] refactor: modularize regulatory RAG corpus search
