@@ -1228,3 +1228,4 @@
 - [2026-05-27 16:43:17] fix(parser): handle cross-border SWIFT wire transit edge cases (Commit #1226)
 - [2026-05-27 09:35:59] style(ui): improve glassmorphism cyber-finance dashboard (Commit #1227)
 - [2026-05-27 13:21:34] feat(rag): expand FATF 40 recommendations knowledge base (Commit #1228)
+- [2026-05-27 14:15:42] docs(aml): update FinCEN BSA compliance guidelines (Commit #1229)
