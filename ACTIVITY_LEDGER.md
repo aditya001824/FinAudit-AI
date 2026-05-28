@@ -1231,3 +1231,4 @@
 - [2026-05-27 14:15:42] docs(aml): update FinCEN BSA compliance guidelines (Commit #1229)
 - [2026-05-28 17:27:28] fix(parser): handle cross-border SWIFT wire transit edge cases (Commit #1230)
 - [2026-05-28 12:16:22] refactor(models): strengthen Pydantic v2 validation schemas (Commit #1231)
+- [2026-05-28 10:51:01] feat(analytics): add betweenness centrality hub indicators (Commit #1232)
