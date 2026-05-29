@@ -1232,3 +1232,4 @@
 - [2026-05-28 17:27:28] fix(parser): handle cross-border SWIFT wire transit edge cases (Commit #1230)
 - [2026-05-28 12:16:22] refactor(models): strengthen Pydantic v2 validation schemas (Commit #1231)
 - [2026-05-28 10:51:01] feat(analytics): add betweenness centrality hub indicators (Commit #1232)
+- [2026-05-29 22:55:20] chore(deps): update forensic cryptography packages (Commit #1233)
