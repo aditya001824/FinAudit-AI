@@ -1235,3 +1235,4 @@
 - [2026-05-29 22:55:20] chore(deps): update forensic cryptography packages (Commit #1233)
 - [2026-05-29 21:13:44] refactor(graph): enhance NetworkX cycle detection algorithm (Commit #1234)
 - [2026-05-29 13:20:11] test(integration): verify autonomous SAR generation pipeline (Commit #1235)
+- [2026-05-29 14:15:46] docs(aml): update FinCEN BSA compliance guidelines (Commit #1236)
