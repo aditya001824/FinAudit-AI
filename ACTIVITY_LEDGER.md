@@ -1241,3 +1241,4 @@
 - [2026-05-30 11:34:20] feat(analytics): add betweenness centrality hub indicators (Commit #1239)
 - [2026-05-30 09:05:24] chore(ci): optimize daily maintenance automated sync (Commit #1240)
 - [2026-05-30 10:13:01] style(ui): improve glassmorphism cyber-finance dashboard (Commit #1241)
+- [2026-05-30 12:23:50] feat(engine): optimize forensic anomaly detector rules (Commit #1242)
