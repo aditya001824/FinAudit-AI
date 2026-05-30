@@ -157,3 +157,4 @@
 - [2026-05-28 21:14] feat: expand high-risk offshore jurisdiction definitions
 - [2026-05-29 09:06] test: verify circular round-trip wash trading heuristics
 - [2026-05-29 20:56] refactor: modularize regulatory RAG corpus search
+- [2026-05-30 16:04] refactor: modularize regulatory RAG corpus search
