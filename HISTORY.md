@@ -158,3 +158,4 @@
 - [2026-05-29 09:06] test: verify circular round-trip wash trading heuristics
 - [2026-05-29 20:56] refactor: modularize regulatory RAG corpus search
 - [2026-05-30 16:04] refactor: modularize regulatory RAG corpus search
+- [2026-05-30 15:12] feat: add FATF recommendation 16 wire transit validation
