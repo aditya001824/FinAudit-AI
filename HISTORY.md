@@ -162,3 +162,4 @@
 - [2026-05-30 21:45] chore: optimize docker-compose build caching
 - [2026-05-31 14:05] docs: update SAR Form 111 XML schema references
 - [2026-05-31 18:52] feat: expand high-risk offshore jurisdiction definitions
+- [2026-05-31 11:43] chore: update FinCEN red flag indicators catalog
