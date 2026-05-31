@@ -163,3 +163,4 @@
 - [2026-05-31 14:05] docs: update SAR Form 111 XML schema references
 - [2026-05-31 18:52] feat: expand high-risk offshore jurisdiction definitions
 - [2026-05-31 11:43] chore: update FinCEN red flag indicators catalog
+- [2026-05-31 11:40] test: verify circular round-trip wash trading heuristics
