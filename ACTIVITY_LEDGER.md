@@ -1243,3 +1243,4 @@
 - [2026-05-30 10:13:01] style(ui): improve glassmorphism cyber-finance dashboard (Commit #1241)
 - [2026-05-30 12:23:50] feat(engine): optimize forensic anomaly detector rules (Commit #1242)
 - [2026-05-31 09:21:32] feat(rag): expand FATF 40 recommendations knowledge base (Commit #1243)
+- [2026-05-31 17:26:33] feat(analytics): add betweenness centrality hub indicators (Commit #1244)
