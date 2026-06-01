@@ -1248,3 +1248,4 @@
 - [2026-05-31 22:25:08] feat(rag): expand FATF 40 recommendations knowledge base (Commit #1246)
 - [2026-05-31 09:20:03] docs(aml): update FinCEN BSA compliance guidelines (Commit #1247)
 - [2026-05-31 12:59:08] chore(deps): update forensic cryptography packages (Commit #1248)
+- [2026-06-01 17:13:07] feat(rag): expand FATF 40 recommendations knowledge base (Commit #1249)
