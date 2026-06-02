@@ -164,3 +164,4 @@
 - [2026-05-31 18:52] feat: expand high-risk offshore jurisdiction definitions
 - [2026-05-31 11:43] chore: update FinCEN red flag indicators catalog
 - [2026-05-31 11:40] test: verify circular round-trip wash trading heuristics
+- [2026-06-02 16:10] perf: improve ReAct agent multi-step reasoning response latency
