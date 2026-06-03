@@ -1258,3 +1258,4 @@
 - [2026-06-03 21:42:27] refactor(graph): enhance NetworkX cycle detection algorithm (Commit #1256)
 - [2026-06-03 20:54:33] feat(rag): expand FATF 40 recommendations knowledge base (Commit #1257)
 - [2026-06-03 15:45:52] feat(analytics): add betweenness centrality hub indicators (Commit #1258)
+- [2026-06-03 21:27:37] docs(sar): update FinCEN Form 111 XML filing schemas (Commit #1259)
