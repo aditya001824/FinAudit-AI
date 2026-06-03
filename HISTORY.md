@@ -167,3 +167,4 @@
 - [2026-06-02 16:10] perf: improve ReAct agent multi-step reasoning response latency
 - [2026-06-02 12:32] fix: handle zero-amount edge cases in flow reconstructor
 - [2026-06-03 10:00] chore: update FinCEN red flag indicators catalog
+- [2026-06-03 18:45] chore: optimize docker-compose build caching
