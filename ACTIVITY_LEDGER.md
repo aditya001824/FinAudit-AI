@@ -1264,3 +1264,4 @@
 - [2026-06-04 13:53:52] chore(ci): optimize daily maintenance automated sync (Commit #1262)
 - [2026-06-04 13:42:52] chore(deps): update forensic cryptography packages (Commit #1263)
 - [2026-06-04 19:26:24] chore(ci): optimize daily maintenance automated sync (Commit #1264)
+- [2026-06-05 14:13:31] feat(analytics): add betweenness centrality hub indicators (Commit #1265)
