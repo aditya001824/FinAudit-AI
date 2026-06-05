@@ -169,3 +169,4 @@
 - [2026-06-03 10:00] chore: update FinCEN red flag indicators catalog
 - [2026-06-03 18:45] chore: optimize docker-compose build caching
 - [2026-06-03 13:19] feat: add FATF recommendation 16 wire transit validation
+- [2026-06-05 21:38] fix: handle zero-amount edge cases in flow reconstructor
