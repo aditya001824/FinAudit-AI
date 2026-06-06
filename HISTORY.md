@@ -172,3 +172,4 @@
 - [2026-06-05 21:38] fix: handle zero-amount edge cases in flow reconstructor
 - [2026-06-05 10:52] refactor: optimize NetworkX graph traversal speed
 - [2026-06-05 17:01] fix: refine fuzzy sanctions matching threshold for aliases
+- [2026-06-06 18:02] fix: refine fuzzy sanctions matching threshold for aliases
