@@ -1267,3 +1267,4 @@
 - [2026-06-05 14:13:31] feat(analytics): add betweenness centrality hub indicators (Commit #1265)
 - [2026-06-05 19:58:42] refactor(models): strengthen Pydantic v2 validation schemas (Commit #1266)
 - [2026-06-05 11:53:03] feat(analytics): add betweenness centrality hub indicators (Commit #1267)
+- [2026-06-06 20:41:01] docs(sar): update FinCEN Form 111 XML filing schemas (Commit #1268)
