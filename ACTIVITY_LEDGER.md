@@ -1273,3 +1273,4 @@
 - [2026-06-07 12:09:16] chore(ci): optimize daily maintenance automated sync (Commit #1271)
 - [2026-06-07 21:34:50] test(sanctions): add fuzzy matching test cases for OFAC aliases (Commit #1272)
 - [2026-06-07 16:54:11] refactor(models): strengthen Pydantic v2 validation schemas (Commit #1273)
+- [2026-06-07 13:53:04] fix(parser): handle cross-border SWIFT wire transit edge cases (Commit #1274)
