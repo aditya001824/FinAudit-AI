@@ -1272,3 +1272,4 @@
 - [2026-06-06 20:07:00] test(sanctions): add fuzzy matching test cases for OFAC aliases (Commit #1270)
 - [2026-06-07 12:09:16] chore(ci): optimize daily maintenance automated sync (Commit #1271)
 - [2026-06-07 21:34:50] test(sanctions): add fuzzy matching test cases for OFAC aliases (Commit #1272)
+- [2026-06-07 16:54:11] refactor(models): strengthen Pydantic v2 validation schemas (Commit #1273)
