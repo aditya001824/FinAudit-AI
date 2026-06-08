@@ -175,3 +175,4 @@
 - [2026-06-06 18:02] fix: refine fuzzy sanctions matching threshold for aliases
 - [2026-06-06 20:56] chore: update FinCEN red flag indicators catalog
 - [2026-06-07 16:42] feat: add betweenness centrality hub detection
+- [2026-06-08 11:36] refactor: modularize regulatory RAG corpus search
