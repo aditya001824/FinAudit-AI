@@ -1278,3 +1278,4 @@
 - [2026-06-07 22:17:22] chore(ci): optimize daily maintenance automated sync (Commit #1276)
 - [2026-06-08 20:54:23] feat(analytics): add betweenness centrality hub indicators (Commit #1277)
 - [2026-06-08 16:43:49] refactor(models): strengthen Pydantic v2 validation schemas (Commit #1278)
+- [2026-06-08 12:53:13] fix(parser): handle cross-border SWIFT wire transit edge cases (Commit #1279)
