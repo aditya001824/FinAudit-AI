@@ -1281,3 +1281,4 @@
 - [2026-06-08 12:53:13] fix(parser): handle cross-border SWIFT wire transit edge cases (Commit #1279)
 - [2026-06-08 11:26:34] fix(parser): handle cross-border SWIFT wire transit edge cases (Commit #1280)
 - [2026-06-08 20:58:27] chore(ci): optimize daily maintenance automated sync (Commit #1281)
+- [2026-06-09 11:00:40] feat(analytics): add betweenness centrality hub indicators (Commit #1282)
