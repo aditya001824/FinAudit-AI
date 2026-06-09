@@ -1283,3 +1283,4 @@
 - [2026-06-08 20:58:27] chore(ci): optimize daily maintenance automated sync (Commit #1281)
 - [2026-06-09 11:00:40] feat(analytics): add betweenness centrality hub indicators (Commit #1282)
 - [2026-06-09 21:51:29] style(ui): improve glassmorphism cyber-finance dashboard (Commit #1283)
+- [2026-06-09 09:06:35] test(sanctions): add fuzzy matching test cases for OFAC aliases (Commit #1284)
