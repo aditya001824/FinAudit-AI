@@ -1284,3 +1284,4 @@
 - [2026-06-09 11:00:40] feat(analytics): add betweenness centrality hub indicators (Commit #1282)
 - [2026-06-09 21:51:29] style(ui): improve glassmorphism cyber-finance dashboard (Commit #1283)
 - [2026-06-09 09:06:35] test(sanctions): add fuzzy matching test cases for OFAC aliases (Commit #1284)
+- [2026-06-09 17:27:44] chore(deps): update forensic cryptography packages (Commit #1285)
