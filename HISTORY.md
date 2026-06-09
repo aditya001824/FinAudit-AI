@@ -177,3 +177,4 @@
 - [2026-06-07 16:42] feat: add betweenness centrality hub detection
 - [2026-06-08 11:36] refactor: modularize regulatory RAG corpus search
 - [2026-06-08 21:34] feat: add FATF recommendation 16 wire transit validation
+- [2026-06-09 16:58] chore: update FinCEN red flag indicators catalog
