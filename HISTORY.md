@@ -179,3 +179,4 @@
 - [2026-06-08 21:34] feat: add FATF recommendation 16 wire transit validation
 - [2026-06-09 16:58] chore: update FinCEN red flag indicators catalog
 - [2026-06-10 16:17] docs: clarify BSA anti-structuring statutory authorities
+- [2026-06-10 19:01] style: enhance war room cyber-finance dark theme UI
