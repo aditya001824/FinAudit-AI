@@ -182,3 +182,4 @@
 - [2026-06-10 19:01] style: enhance war room cyber-finance dark theme UI
 - [2026-06-11 20:42] style: enhance war room cyber-finance dark theme UI
 - [2026-06-12 16:15] test: add unit tests for structuring anomaly detection engine
+- [2026-06-12 09:50] docs: update AML forensic typology guidelines
