@@ -184,3 +184,4 @@
 - [2026-06-12 16:15] test: add unit tests for structuring anomaly detection engine
 - [2026-06-12 09:50] docs: update AML forensic typology guidelines
 - [2026-06-12 21:22] perf: stream SSE agent thought tokens asynchronously
+- [2026-06-12 13:58] perf: improve ReAct agent multi-step reasoning response latency
