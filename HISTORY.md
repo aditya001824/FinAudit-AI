@@ -183,3 +183,4 @@
 - [2026-06-11 20:42] style: enhance war room cyber-finance dark theme UI
 - [2026-06-12 16:15] test: add unit tests for structuring anomaly detection engine
 - [2026-06-12 09:50] docs: update AML forensic typology guidelines
+- [2026-06-12 21:22] perf: stream SSE agent thought tokens asynchronously
