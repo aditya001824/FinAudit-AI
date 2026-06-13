@@ -185,3 +185,4 @@
 - [2026-06-12 09:50] docs: update AML forensic typology guidelines
 - [2026-06-12 21:22] perf: stream SSE agent thought tokens asynchronously
 - [2026-06-12 13:58] perf: improve ReAct agent multi-step reasoning response latency
+- [2026-06-13 16:40] chore: sync OFAC SDN watchlist dataset definitions
