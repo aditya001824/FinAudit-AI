@@ -1304,3 +1304,4 @@
 - [2026-06-13 19:29:18] test(integration): verify autonomous SAR generation pipeline (Commit #1302)
 - [2026-06-13 22:22:59] feat(analytics): add betweenness centrality hub indicators (Commit #1303)
 - [2026-06-14 14:44:03] feat(rag): expand FATF 40 recommendations knowledge base (Commit #1304)
+- [2026-06-14 16:37:03] docs(sar): update FinCEN Form 111 XML filing schemas (Commit #1305)
