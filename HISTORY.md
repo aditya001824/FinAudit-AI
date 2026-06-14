@@ -188,3 +188,4 @@
 - [2026-06-13 16:40] chore: sync OFAC SDN watchlist dataset definitions
 - [2026-06-13 11:25] chore: sync OFAC SDN watchlist dataset definitions
 - [2026-06-14 11:44] refactor: modularize regulatory RAG corpus search
+- [2026-06-14 14:33] test: add unit tests for structuring anomaly detection engine
