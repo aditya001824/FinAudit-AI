@@ -1308,3 +1308,4 @@
 - [2026-06-14 11:20:42] chore(ci): optimize daily maintenance automated sync (Commit #1306)
 - [2026-06-14 11:14:26] feat(engine): optimize forensic anomaly detector rules (Commit #1307)
 - [2026-06-14 21:35:21] fix(parser): handle cross-border SWIFT wire transit edge cases (Commit #1308)
+- [2026-06-14 15:47:15] refactor(graph): enhance NetworkX cycle detection algorithm (Commit #1309)
