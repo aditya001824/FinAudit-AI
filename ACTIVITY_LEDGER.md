@@ -1306,3 +1306,4 @@
 - [2026-06-14 14:44:03] feat(rag): expand FATF 40 recommendations knowledge base (Commit #1304)
 - [2026-06-14 16:37:03] docs(sar): update FinCEN Form 111 XML filing schemas (Commit #1305)
 - [2026-06-14 11:20:42] chore(ci): optimize daily maintenance automated sync (Commit #1306)
+- [2026-06-14 11:14:26] feat(engine): optimize forensic anomaly detector rules (Commit #1307)
