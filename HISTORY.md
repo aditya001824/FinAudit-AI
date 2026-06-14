@@ -187,3 +187,4 @@
 - [2026-06-12 13:58] perf: improve ReAct agent multi-step reasoning response latency
 - [2026-06-13 16:40] chore: sync OFAC SDN watchlist dataset definitions
 - [2026-06-13 11:25] chore: sync OFAC SDN watchlist dataset definitions
+- [2026-06-14 11:44] refactor: modularize regulatory RAG corpus search
