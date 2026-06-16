@@ -192,3 +192,4 @@
 - [2026-06-15 17:36] refactor: modularize regulatory RAG corpus search
 - [2026-06-15 10:15] fix: refine fuzzy sanctions matching threshold for aliases
 - [2026-06-16 12:01] style: enhance war room cyber-finance dark theme UI
+- [2026-06-16 14:29] refactor: optimize NetworkX graph traversal speed
