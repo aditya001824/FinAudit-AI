@@ -1313,3 +1313,4 @@
 - [2026-06-15 22:00:23] fix(parser): handle cross-border SWIFT wire transit edge cases (Commit #1311)
 - [2026-06-15 21:37:52] refactor(graph): enhance NetworkX cycle detection algorithm (Commit #1312)
 - [2026-06-16 22:21:38] test(integration): verify autonomous SAR generation pipeline (Commit #1313)
+- [2026-06-16 19:03:24] feat(rag): expand FATF 40 recommendations knowledge base (Commit #1314)
