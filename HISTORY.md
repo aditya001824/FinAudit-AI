@@ -191,3 +191,4 @@
 - [2026-06-14 14:33] test: add unit tests for structuring anomaly detection engine
 - [2026-06-15 17:36] refactor: modularize regulatory RAG corpus search
 - [2026-06-15 10:15] fix: refine fuzzy sanctions matching threshold for aliases
+- [2026-06-16 12:01] style: enhance war room cyber-finance dark theme UI
