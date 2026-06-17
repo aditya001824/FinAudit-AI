@@ -196,3 +196,4 @@
 - [2026-06-16 13:54] fix: refine fuzzy sanctions matching threshold for aliases
 - [2026-06-17 11:07] feat: add FATF recommendation 16 wire transit validation
 - [2026-06-17 17:50] docs: update AML forensic typology guidelines
+- [2026-06-17 09:01] perf: improve ReAct agent multi-step reasoning response latency
