@@ -194,3 +194,4 @@
 - [2026-06-16 12:01] style: enhance war room cyber-finance dark theme UI
 - [2026-06-16 14:29] refactor: optimize NetworkX graph traversal speed
 - [2026-06-16 13:54] fix: refine fuzzy sanctions matching threshold for aliases
+- [2026-06-17 11:07] feat: add FATF recommendation 16 wire transit validation
