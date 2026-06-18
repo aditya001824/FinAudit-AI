@@ -197,3 +197,4 @@
 - [2026-06-17 11:07] feat: add FATF recommendation 16 wire transit validation
 - [2026-06-17 17:50] docs: update AML forensic typology guidelines
 - [2026-06-17 09:01] perf: improve ReAct agent multi-step reasoning response latency
+- [2026-06-18 12:33] feat: expand high-risk offshore jurisdiction definitions
