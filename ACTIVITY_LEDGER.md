@@ -1323,3 +1323,4 @@
 - [2026-06-17 09:09:42] chore(ci): optimize daily maintenance automated sync (Commit #1321)
 - [2026-06-18 11:07:54] docs(sar): update FinCEN Form 111 XML filing schemas (Commit #1322)
 - [2026-06-18 20:11:33] test(sanctions): add fuzzy matching test cases for OFAC aliases (Commit #1323)
+- [2026-06-18 13:27:10] feat(engine): optimize forensic anomaly detector rules (Commit #1324)
