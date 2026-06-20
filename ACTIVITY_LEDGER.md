@@ -1332,3 +1332,4 @@
 - [2026-06-19 11:03:38] docs(aml): update FinCEN BSA compliance guidelines (Commit #1330)
 - [2026-06-20 20:32:39] feat(engine): optimize forensic anomaly detector rules (Commit #1331)
 - [2026-06-20 18:40:43] test(sanctions): add fuzzy matching test cases for OFAC aliases (Commit #1332)
+- [2026-06-20 18:36:23] perf(agent): reduce ReAct multi-agent thought latency (Commit #1333)
