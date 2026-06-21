@@ -201,3 +201,4 @@
 - [2026-06-18 12:36] chore: optimize docker-compose build caching
 - [2026-06-20 10:51] chore: sync OFAC SDN watchlist dataset definitions
 - [2026-06-20 09:47] chore: update FinCEN red flag indicators catalog
+- [2026-06-21 15:02] feat: add betweenness centrality hub detection
