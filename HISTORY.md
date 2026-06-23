@@ -205,3 +205,4 @@
 - [2026-06-21 12:13] refactor: modularize regulatory RAG corpus search
 - [2026-06-22 16:00] style: enhance war room cyber-finance dark theme UI
 - [2026-06-23 21:07] refactor: modularize regulatory RAG corpus search
+- [2026-06-23 17:50] perf: stream SSE agent thought tokens asynchronously
