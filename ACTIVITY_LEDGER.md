@@ -1343,3 +1343,4 @@
 - [2026-06-22 18:08:27] docs(sar): update FinCEN Form 111 XML filing schemas (Commit #1341)
 - [2026-06-22 10:23:03] docs(aml): update FinCEN BSA compliance guidelines (Commit #1342)
 - [2026-06-23 11:18:59] chore(deps): update forensic cryptography packages (Commit #1343)
+- [2026-06-23 19:48:50] test(sanctions): add fuzzy matching test cases for OFAC aliases (Commit #1344)
