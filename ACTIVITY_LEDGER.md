@@ -1345,3 +1345,4 @@
 - [2026-06-23 11:18:59] chore(deps): update forensic cryptography packages (Commit #1343)
 - [2026-06-23 19:48:50] test(sanctions): add fuzzy matching test cases for OFAC aliases (Commit #1344)
 - [2026-06-23 17:35:00] test(sanctions): add fuzzy matching test cases for OFAC aliases (Commit #1345)
+- [2026-06-24 12:27:35] refactor(graph): enhance NetworkX cycle detection algorithm (Commit #1346)
