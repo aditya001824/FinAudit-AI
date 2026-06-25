@@ -1350,3 +1350,4 @@
 - [2026-06-24 10:24:41] chore(ci): optimize daily maintenance automated sync (Commit #1348)
 - [2026-06-24 21:45:49] docs(aml): update FinCEN BSA compliance guidelines (Commit #1349)
 - [2026-06-24 19:10:45] docs(sar): update FinCEN Form 111 XML filing schemas (Commit #1350)
+- [2026-06-25 14:47:45] refactor(models): strengthen Pydantic v2 validation schemas (Commit #1351)
