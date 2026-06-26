@@ -211,3 +211,4 @@
 - [2026-06-25 09:56] feat: add betweenness centrality hub detection
 - [2026-06-25 18:55] perf: improve ReAct agent multi-step reasoning response latency
 - [2026-06-25 21:24] docs: clarify BSA anti-structuring statutory authorities
+- [2026-06-26 14:45] test: add unit tests for structuring anomaly detection engine
