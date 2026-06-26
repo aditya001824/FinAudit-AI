@@ -213,3 +213,4 @@
 - [2026-06-25 21:24] docs: clarify BSA anti-structuring statutory authorities
 - [2026-06-26 14:45] test: add unit tests for structuring anomaly detection engine
 - [2026-06-26 13:36] fix: handle zero-amount edge cases in flow reconstructor
+- [2026-06-26 12:17] docs: update AML forensic typology guidelines
