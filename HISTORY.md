@@ -216,3 +216,4 @@
 - [2026-06-26 12:17] docs: update AML forensic typology guidelines
 - [2026-06-26 15:12] feat: add FATF recommendation 16 wire transit validation
 - [2026-06-27 21:32] perf: improve ReAct agent multi-step reasoning response latency
+- [2026-06-27 20:49] chore: optimize docker-compose build caching
