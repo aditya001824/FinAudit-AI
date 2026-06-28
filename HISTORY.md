@@ -218,3 +218,4 @@
 - [2026-06-27 21:32] perf: improve ReAct agent multi-step reasoning response latency
 - [2026-06-27 20:49] chore: optimize docker-compose build caching
 - [2026-06-28 21:33] docs: clarify BSA anti-structuring statutory authorities
+- [2026-06-28 20:48] chore: update FinCEN red flag indicators catalog
