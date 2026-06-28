@@ -1361,3 +1361,4 @@
 - [2026-06-27 09:46:04] style(ui): improve glassmorphism cyber-finance dashboard (Commit #1359)
 - [2026-06-27 15:52:09] chore(deps): update forensic cryptography packages (Commit #1360)
 - [2026-06-28 19:38:49] style(ui): improve glassmorphism cyber-finance dashboard (Commit #1361)
+- [2026-06-28 12:49:21] feat(engine): optimize forensic anomaly detector rules (Commit #1362)
