@@ -1365,3 +1365,4 @@
 - [2026-06-28 19:32:24] test(integration): verify autonomous SAR generation pipeline (Commit #1363)
 - [2026-06-28 14:09:15] feat(engine): optimize forensic anomaly detector rules (Commit #1364)
 - [2026-06-28 14:14:04] test(integration): verify autonomous SAR generation pipeline (Commit #1365)
+- [2026-06-28 11:09:20] feat(analytics): add betweenness centrality hub indicators (Commit #1366)
