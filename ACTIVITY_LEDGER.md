@@ -1370,3 +1370,4 @@
 - [2026-06-29 12:07:08] style(ui): improve glassmorphism cyber-finance dashboard (Commit #1368)
 - [2026-06-29 22:07:32] refactor(models): strengthen Pydantic v2 validation schemas (Commit #1369)
 - [2026-06-29 22:05:36] test(sanctions): add fuzzy matching test cases for OFAC aliases (Commit #1370)
+- [2026-06-29 18:22:29] docs(sar): update FinCEN Form 111 XML filing schemas (Commit #1371)
