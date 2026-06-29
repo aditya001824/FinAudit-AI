@@ -1368,3 +1368,4 @@
 - [2026-06-28 11:09:20] feat(analytics): add betweenness centrality hub indicators (Commit #1366)
 - [2026-06-29 14:01:30] feat(analytics): add betweenness centrality hub indicators (Commit #1367)
 - [2026-06-29 12:07:08] style(ui): improve glassmorphism cyber-finance dashboard (Commit #1368)
+- [2026-06-29 22:07:32] refactor(models): strengthen Pydantic v2 validation schemas (Commit #1369)
