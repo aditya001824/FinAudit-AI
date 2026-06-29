@@ -221,3 +221,4 @@
 - [2026-06-28 20:48] chore: update FinCEN red flag indicators catalog
 - [2026-06-28 20:53] chore: optimize docker-compose build caching
 - [2026-06-29 15:17] test: add unit tests for structuring anomaly detection engine
+- [2026-06-29 13:02] fix: refine fuzzy sanctions matching threshold for aliases
