@@ -1374,3 +1374,4 @@
 - [2026-06-29 11:15:00] chore(ci): optimize daily maintenance automated sync (Commit #1372)
 - [2026-06-30 20:57:36] style(ui): improve glassmorphism cyber-finance dashboard (Commit #1373)
 - [2026-06-30 18:43:09] style(ui): improve glassmorphism cyber-finance dashboard (Commit #1374)
+- [2026-06-30 21:32:54] test(sanctions): add fuzzy matching test cases for OFAC aliases (Commit #1375)
