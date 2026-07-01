@@ -224,3 +224,4 @@
 - [2026-06-29 13:02] fix: refine fuzzy sanctions matching threshold for aliases
 - [2026-06-30 09:02] style: enhance war room cyber-finance dark theme UI
 - [2026-06-30 15:53] refactor: optimize NetworkX graph traversal speed
+- [2026-07-01 13:59] refactor: optimize NetworkX graph traversal speed
