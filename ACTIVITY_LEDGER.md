@@ -1378,3 +1378,4 @@
 - [2026-06-30 16:57:37] style(ui): improve glassmorphism cyber-finance dashboard (Commit #1376)
 - [2026-07-01 12:31:25] chore(ci): optimize daily maintenance automated sync (Commit #1377)
 - [2026-07-01 20:53:24] test(integration): verify autonomous SAR generation pipeline (Commit #1378)
+- [2026-07-01 22:34:12] feat(analytics): add betweenness centrality hub indicators (Commit #1379)
