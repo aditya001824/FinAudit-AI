@@ -225,3 +225,4 @@
 - [2026-06-30 09:02] style: enhance war room cyber-finance dark theme UI
 - [2026-06-30 15:53] refactor: optimize NetworkX graph traversal speed
 - [2026-07-01 13:59] refactor: optimize NetworkX graph traversal speed
+- [2026-07-02 19:54] fix: handle zero-amount edge cases in flow reconstructor
