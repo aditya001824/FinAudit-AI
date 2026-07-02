@@ -226,3 +226,4 @@
 - [2026-06-30 15:53] refactor: optimize NetworkX graph traversal speed
 - [2026-07-01 13:59] refactor: optimize NetworkX graph traversal speed
 - [2026-07-02 19:54] fix: handle zero-amount edge cases in flow reconstructor
+- [2026-07-02 20:30] chore: sync OFAC SDN watchlist dataset definitions
