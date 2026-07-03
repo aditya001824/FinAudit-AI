@@ -1386,3 +1386,4 @@
 - [2026-07-02 16:07:22] feat(analytics): add betweenness centrality hub indicators (Commit #1384)
 - [2026-07-02 09:09:36] refactor(models): strengthen Pydantic v2 validation schemas (Commit #1385)
 - [2026-07-02 14:41:06] test(integration): verify autonomous SAR generation pipeline (Commit #1386)
+- [2026-07-03 12:48:01] docs(aml): update FinCEN BSA compliance guidelines (Commit #1387)
