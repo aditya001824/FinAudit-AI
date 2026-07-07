@@ -230,3 +230,4 @@
 - [2026-07-03 21:26] chore: sync OFAC SDN watchlist dataset definitions
 - [2026-07-04 20:19] fix: refine fuzzy sanctions matching threshold for aliases
 - [2026-07-05 10:35] fix: handle zero-amount edge cases in flow reconstructor
+- [2026-07-07 18:27] docs: update AML forensic typology guidelines
