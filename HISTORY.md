@@ -233,3 +233,4 @@
 - [2026-07-07 18:27] docs: update AML forensic typology guidelines
 - [2026-07-07 21:45] fix: handle zero-amount edge cases in flow reconstructor
 - [2026-07-07 11:07] refactor: modularize regulatory RAG corpus search
+- [2026-07-07 09:40] perf: stream SSE agent thought tokens asynchronously
