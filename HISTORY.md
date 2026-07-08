@@ -235,3 +235,4 @@
 - [2026-07-07 11:07] refactor: modularize regulatory RAG corpus search
 - [2026-07-07 09:40] perf: stream SSE agent thought tokens asynchronously
 - [2026-07-08 09:57] test: verify circular round-trip wash trading heuristics
+- [2026-07-08 21:59] perf: stream SSE agent thought tokens asynchronously
