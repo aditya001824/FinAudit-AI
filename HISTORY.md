@@ -236,3 +236,4 @@
 - [2026-07-07 09:40] perf: stream SSE agent thought tokens asynchronously
 - [2026-07-08 09:57] test: verify circular round-trip wash trading heuristics
 - [2026-07-08 21:59] perf: stream SSE agent thought tokens asynchronously
+- [2026-07-09 13:19] style: enhance war room cyber-finance dark theme UI
