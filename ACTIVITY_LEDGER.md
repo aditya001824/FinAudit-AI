@@ -1421,3 +1421,4 @@
 - [2026-07-09 13:03:15] feat(rag): expand FATF 40 recommendations knowledge base (Commit #1419)
 - [2026-07-09 13:41:20] feat(rag): expand FATF 40 recommendations knowledge base (Commit #1420)
 - [2026-07-09 13:35:46] style(ui): improve glassmorphism cyber-finance dashboard (Commit #1421)
+- [2026-07-09 19:05:25] feat(analytics): add betweenness centrality hub indicators (Commit #1422)
