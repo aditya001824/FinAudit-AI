@@ -239,3 +239,4 @@
 - [2026-07-09 13:19] style: enhance war room cyber-finance dark theme UI
 - [2026-07-09 20:13] docs: update SAR Form 111 XML schema references
 - [2026-07-10 09:08] chore: sync OFAC SDN watchlist dataset definitions
+- [2026-07-11 12:50] fix: refine fuzzy sanctions matching threshold for aliases
