@@ -242,3 +242,4 @@
 - [2026-07-11 12:50] fix: refine fuzzy sanctions matching threshold for aliases
 - [2026-07-11 16:54] feat: expand high-risk offshore jurisdiction definitions
 - [2026-07-11 21:37] test: add unit tests for structuring anomaly detection engine
+- [2026-07-11 19:11] chore: sync OFAC SDN watchlist dataset definitions
