@@ -1430,3 +1430,4 @@
 - [2026-07-11 22:49:47] feat(engine): optimize forensic anomaly detector rules (Commit #1428)
 - [2026-07-11 13:09:54] style(ui): improve glassmorphism cyber-finance dashboard (Commit #1429)
 - [2026-07-11 10:59:09] docs(aml): update FinCEN BSA compliance guidelines (Commit #1430)
+- [2026-07-11 09:01:10] docs(sar): update FinCEN Form 111 XML filing schemas (Commit #1431)
