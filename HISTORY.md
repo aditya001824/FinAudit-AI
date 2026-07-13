@@ -244,3 +244,4 @@
 - [2026-07-11 21:37] test: add unit tests for structuring anomaly detection engine
 - [2026-07-11 19:11] chore: sync OFAC SDN watchlist dataset definitions
 - [2026-07-12 20:14] fix: refine fuzzy sanctions matching threshold for aliases
+- [2026-07-13 20:26] docs: update AML forensic typology guidelines
