@@ -1435,3 +1435,4 @@
 - [2026-07-12 12:34:00] docs(sar): update FinCEN Form 111 XML filing schemas (Commit #1433)
 - [2026-07-12 12:19:44] chore(deps): update forensic cryptography packages (Commit #1434)
 - [2026-07-13 14:02:58] chore(deps): update forensic cryptography packages (Commit #1435)
+- [2026-07-13 11:07:30] docs(aml): update FinCEN BSA compliance guidelines (Commit #1436)
