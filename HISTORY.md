@@ -245,3 +245,4 @@
 - [2026-07-11 19:11] chore: sync OFAC SDN watchlist dataset definitions
 - [2026-07-12 20:14] fix: refine fuzzy sanctions matching threshold for aliases
 - [2026-07-13 20:26] docs: update AML forensic typology guidelines
+- [2026-07-13 11:32] test: verify circular round-trip wash trading heuristics
