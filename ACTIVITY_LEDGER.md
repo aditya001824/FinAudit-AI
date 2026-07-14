@@ -1441,3 +1441,4 @@
 - [2026-07-13 14:16:58] test(sanctions): add fuzzy matching test cases for OFAC aliases (Commit #1439)
 - [2026-07-13 09:03:18] style(ui): improve glassmorphism cyber-finance dashboard (Commit #1440)
 - [2026-07-14 14:59:35] fix(parser): handle cross-border SWIFT wire transit edge cases (Commit #1441)
+- [2026-07-14 18:27:48] test(sanctions): add fuzzy matching test cases for OFAC aliases (Commit #1442)
