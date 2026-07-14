@@ -248,3 +248,4 @@
 - [2026-07-13 11:32] test: verify circular round-trip wash trading heuristics
 - [2026-07-13 19:19] test: add unit tests for structuring anomaly detection engine
 - [2026-07-14 19:11] test: add unit tests for structuring anomaly detection engine
+- [2026-07-14 19:27] style: enhance war room cyber-finance dark theme UI
