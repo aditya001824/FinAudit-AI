@@ -251,3 +251,4 @@
 - [2026-07-14 19:27] style: enhance war room cyber-finance dark theme UI
 - [2026-07-14 14:14] docs: update SAR Form 111 XML schema references
 - [2026-07-14 14:33] chore: sync OFAC SDN watchlist dataset definitions
+- [2026-07-15 16:42] feat: expand high-risk offshore jurisdiction definitions
