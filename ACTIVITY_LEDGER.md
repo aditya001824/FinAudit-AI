@@ -1449,3 +1449,4 @@
 - [2026-07-15 17:39:14] feat(rag): expand FATF 40 recommendations knowledge base (Commit #1447)
 - [2026-07-15 20:47:17] test(integration): verify autonomous SAR generation pipeline (Commit #1448)
 - [2026-07-15 20:13:19] perf(agent): reduce ReAct multi-agent thought latency (Commit #1449)
+- [2026-07-15 20:15:59] refactor(models): strengthen Pydantic v2 validation schemas (Commit #1450)
