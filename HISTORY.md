@@ -252,3 +252,4 @@
 - [2026-07-14 14:14] docs: update SAR Form 111 XML schema references
 - [2026-07-14 14:33] chore: sync OFAC SDN watchlist dataset definitions
 - [2026-07-15 16:42] feat: expand high-risk offshore jurisdiction definitions
+- [2026-07-15 20:48] docs: update AML forensic typology guidelines
