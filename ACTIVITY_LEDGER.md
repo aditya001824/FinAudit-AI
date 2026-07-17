@@ -1458,3 +1458,4 @@
 - [2026-07-16 20:06:30] test(integration): verify autonomous SAR generation pipeline (Commit #1456)
 - [2026-07-17 09:19:42] style(ui): improve glassmorphism cyber-finance dashboard (Commit #1457)
 - [2026-07-17 12:48:54] fix(parser): handle cross-border SWIFT wire transit edge cases (Commit #1458)
+- [2026-07-17 14:03:14] refactor(models): strengthen Pydantic v2 validation schemas (Commit #1459)
