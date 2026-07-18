@@ -1461,3 +1461,4 @@
 - [2026-07-17 14:03:14] refactor(models): strengthen Pydantic v2 validation schemas (Commit #1459)
 - [2026-07-18 13:21:54] test(sanctions): add fuzzy matching test cases for OFAC aliases (Commit #1460)
 - [2026-07-18 21:58:45] docs(aml): update FinCEN BSA compliance guidelines (Commit #1461)
+- [2026-07-18 22:05:34] fix(parser): handle cross-border SWIFT wire transit edge cases (Commit #1462)
