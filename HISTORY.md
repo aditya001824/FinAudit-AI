@@ -257,3 +257,4 @@
 - [2026-07-16 11:52] docs: update SAR Form 111 XML schema references
 - [2026-07-17 19:40] chore: sync OFAC SDN watchlist dataset definitions
 - [2026-07-17 11:55] perf: stream SSE agent thought tokens asynchronously
+- [2026-07-18 10:57] test: verify circular round-trip wash trading heuristics
