@@ -1463,3 +1463,4 @@
 - [2026-07-18 21:58:45] docs(aml): update FinCEN BSA compliance guidelines (Commit #1461)
 - [2026-07-18 22:05:34] fix(parser): handle cross-border SWIFT wire transit edge cases (Commit #1462)
 - [2026-07-18 09:33:38] perf(agent): reduce ReAct multi-agent thought latency (Commit #1463)
+- [2026-07-18 12:46:11] fix(parser): handle cross-border SWIFT wire transit edge cases (Commit #1464)
