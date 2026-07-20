@@ -263,3 +263,4 @@
 - [2026-07-19 18:39] test: add unit tests for structuring anomaly detection engine
 - [2026-07-20 14:24] test: add unit tests for structuring anomaly detection engine
 - [2026-07-20 15:53] chore: update FinCEN red flag indicators catalog
+- [2026-07-20 20:57] chore: optimize docker-compose build caching
