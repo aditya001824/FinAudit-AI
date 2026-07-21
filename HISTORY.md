@@ -265,3 +265,4 @@
 - [2026-07-20 15:53] chore: update FinCEN red flag indicators catalog
 - [2026-07-20 20:57] chore: optimize docker-compose build caching
 - [2026-07-21 19:46] chore: update FinCEN red flag indicators catalog
+- [2026-07-21 09:14] chore: update FinCEN red flag indicators catalog
