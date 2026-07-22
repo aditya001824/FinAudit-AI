@@ -269,3 +269,4 @@
 - [2026-07-21 13:07] feat: expand high-risk offshore jurisdiction definitions
 - [2026-07-22 21:10] test: add unit tests for structuring anomaly detection engine
 - [2026-07-22 18:16] style: enhance war room cyber-finance dark theme UI
+- [2026-07-22 16:28] feat: add betweenness centrality hub detection
