@@ -1482,3 +1482,4 @@
 - [2026-07-21 14:31:40] refactor(models): strengthen Pydantic v2 validation schemas (Commit #1480)
 - [2026-07-22 22:26:04] feat(analytics): add betweenness centrality hub indicators (Commit #1481)
 - [2026-07-22 21:55:51] chore(deps): update forensic cryptography packages (Commit #1482)
+- [2026-07-22 12:12:21] refactor(graph): enhance NetworkX cycle detection algorithm (Commit #1483)
