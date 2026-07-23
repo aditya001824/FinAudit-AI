@@ -1487,3 +1487,4 @@
 - [2026-07-23 15:57:19] perf(agent): reduce ReAct multi-agent thought latency (Commit #1485)
 - [2026-07-23 11:31:16] feat(engine): optimize forensic anomaly detector rules (Commit #1486)
 - [2026-07-23 20:04:29] fix(parser): handle cross-border SWIFT wire transit edge cases (Commit #1487)
+- [2026-07-23 11:20:46] feat(engine): optimize forensic anomaly detector rules (Commit #1488)
