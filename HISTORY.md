@@ -272,3 +272,4 @@
 - [2026-07-22 16:28] feat: add betweenness centrality hub detection
 - [2026-07-23 17:25] fix: refine fuzzy sanctions matching threshold for aliases
 - [2026-07-23 09:10] fix: refine fuzzy sanctions matching threshold for aliases
+- [2026-07-23 21:08] chore: sync OFAC SDN watchlist dataset definitions
