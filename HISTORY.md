@@ -273,3 +273,4 @@
 - [2026-07-23 17:25] fix: refine fuzzy sanctions matching threshold for aliases
 - [2026-07-23 09:10] fix: refine fuzzy sanctions matching threshold for aliases
 - [2026-07-23 21:08] chore: sync OFAC SDN watchlist dataset definitions
+- [2026-07-25 20:53] docs: update SAR Form 111 XML schema references
