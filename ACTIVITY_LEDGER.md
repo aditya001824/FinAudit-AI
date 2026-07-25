@@ -1494,3 +1494,4 @@
 - [2026-07-24 20:19:44] test(integration): verify autonomous SAR generation pipeline (Commit #1492)
 - [2026-07-25 09:58:52] test(integration): verify autonomous SAR generation pipeline (Commit #1493)
 - [2026-07-25 15:40:26] test(integration): verify autonomous SAR generation pipeline (Commit #1494)
+- [2026-07-25 21:28:29] feat(analytics): add betweenness centrality hub indicators (Commit #1495)
