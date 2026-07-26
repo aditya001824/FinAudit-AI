@@ -1497,3 +1497,4 @@
 - [2026-07-25 21:28:29] feat(analytics): add betweenness centrality hub indicators (Commit #1495)
 - [2026-07-26 10:11:29] feat(engine): optimize forensic anomaly detector rules (Commit #1496)
 - [2026-07-26 21:11:56] refactor(models): strengthen Pydantic v2 validation schemas (Commit #1497)
+- [2026-07-26 10:41:37] perf(agent): reduce ReAct multi-agent thought latency (Commit #1498)
