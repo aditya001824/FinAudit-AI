@@ -1496,3 +1496,4 @@
 - [2026-07-25 15:40:26] test(integration): verify autonomous SAR generation pipeline (Commit #1494)
 - [2026-07-25 21:28:29] feat(analytics): add betweenness centrality hub indicators (Commit #1495)
 - [2026-07-26 10:11:29] feat(engine): optimize forensic anomaly detector rules (Commit #1496)
+- [2026-07-26 21:11:56] refactor(models): strengthen Pydantic v2 validation schemas (Commit #1497)
