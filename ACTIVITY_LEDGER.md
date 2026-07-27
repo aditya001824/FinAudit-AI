@@ -1503,3 +1503,4 @@
 - [2026-07-27 12:52:19] refactor(graph): enhance NetworkX cycle detection algorithm (Commit #1501)
 - [2026-07-27 16:25:18] test(integration): verify autonomous SAR generation pipeline (Commit #1502)
 - [2026-07-27 22:44:24] perf(agent): reduce ReAct multi-agent thought latency (Commit #1503)
+- [2026-07-27 19:50:07] test(sanctions): add fuzzy matching test cases for OFAC aliases (Commit #1504)
