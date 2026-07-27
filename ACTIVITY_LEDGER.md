@@ -1500,3 +1500,4 @@
 - [2026-07-26 10:41:37] perf(agent): reduce ReAct multi-agent thought latency (Commit #1498)
 - [2026-07-26 22:59:22] test(integration): verify autonomous SAR generation pipeline (Commit #1499)
 - [2026-07-27 14:49:06] feat(rag): expand FATF 40 recommendations knowledge base (Commit #1500)
+- [2026-07-27 12:52:19] refactor(graph): enhance NetworkX cycle detection algorithm (Commit #1501)
