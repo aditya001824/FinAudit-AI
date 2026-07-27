@@ -277,3 +277,4 @@
 - [2026-07-26 16:20] style: enhance war room cyber-finance dark theme UI
 - [2026-07-26 18:39] feat: expand high-risk offshore jurisdiction definitions
 - [2026-07-26 19:45] fix: refine fuzzy sanctions matching threshold for aliases
+- [2026-07-27 12:47] refactor: modularize regulatory RAG corpus search
