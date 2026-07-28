@@ -279,3 +279,4 @@
 - [2026-07-26 19:45] fix: refine fuzzy sanctions matching threshold for aliases
 - [2026-07-27 12:47] refactor: modularize regulatory RAG corpus search
 - [2026-07-28 13:19] refactor: modularize regulatory RAG corpus search
+- [2026-07-28 09:51] feat: add betweenness centrality hub detection
