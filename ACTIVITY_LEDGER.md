@@ -1507,3 +1507,4 @@
 - [2026-07-27 11:12:08] test(integration): verify autonomous SAR generation pipeline (Commit #1505)
 - [2026-07-28 17:36:12] style(ui): improve glassmorphism cyber-finance dashboard (Commit #1506)
 - [2026-07-28 14:52:10] refactor(models): strengthen Pydantic v2 validation schemas (Commit #1507)
+- [2026-07-28 11:21:24] docs(sar): update FinCEN Form 111 XML filing schemas (Commit #1508)
