@@ -281,3 +281,4 @@
 - [2026-07-28 13:19] refactor: modularize regulatory RAG corpus search
 - [2026-07-28 09:51] feat: add betweenness centrality hub detection
 - [2026-07-28 21:46] feat: expand high-risk offshore jurisdiction definitions
+- [2026-07-29 18:18] chore: optimize docker-compose build caching
