@@ -282,3 +282,4 @@
 - [2026-07-28 09:51] feat: add betweenness centrality hub detection
 - [2026-07-28 21:46] feat: expand high-risk offshore jurisdiction definitions
 - [2026-07-29 18:18] chore: optimize docker-compose build caching
+- [2026-07-29 13:24] feat: add betweenness centrality hub detection
