@@ -284,3 +284,4 @@
 - [2026-07-29 18:18] chore: optimize docker-compose build caching
 - [2026-07-29 13:24] feat: add betweenness centrality hub detection
 - [2026-07-30 14:13] test: add unit tests for structuring anomaly detection engine
+- [2026-07-30 13:13] refactor: modularize regulatory RAG corpus search
