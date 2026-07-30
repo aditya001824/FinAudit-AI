@@ -1514,3 +1514,4 @@
 - [2026-07-29 10:18:06] refactor(graph): enhance NetworkX cycle detection algorithm (Commit #1512)
 - [2026-07-29 15:23:18] refactor(models): strengthen Pydantic v2 validation schemas (Commit #1513)
 - [2026-07-30 17:25:01] feat(engine): optimize forensic anomaly detector rules (Commit #1514)
+- [2026-07-30 11:03:48] docs(aml): update FinCEN BSA compliance guidelines (Commit #1515)
