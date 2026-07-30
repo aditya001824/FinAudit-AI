@@ -1516,3 +1516,4 @@
 - [2026-07-30 17:25:01] feat(engine): optimize forensic anomaly detector rules (Commit #1514)
 - [2026-07-30 11:03:48] docs(aml): update FinCEN BSA compliance guidelines (Commit #1515)
 - [2026-07-30 22:16:37] chore(ci): optimize daily maintenance automated sync (Commit #1516)
+- [2026-07-30 22:15:14] feat(engine): optimize forensic anomaly detector rules (Commit #1517)
