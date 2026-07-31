@@ -1520,3 +1520,4 @@
 - [2026-07-30 22:49:07] style(ui): improve glassmorphism cyber-finance dashboard (Commit #1518)
 - [2026-07-30 15:29:51] perf(agent): reduce ReAct multi-agent thought latency (Commit #1519)
 - [2026-07-31 17:14:57] test(sanctions): add fuzzy matching test cases for OFAC aliases (Commit #1520)
+- [2026-07-31 16:21:58] refactor(graph): enhance NetworkX cycle detection algorithm (Commit #1521)
