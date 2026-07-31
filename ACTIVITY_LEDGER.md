@@ -1522,3 +1522,4 @@
 - [2026-07-31 17:14:57] test(sanctions): add fuzzy matching test cases for OFAC aliases (Commit #1520)
 - [2026-07-31 16:21:58] refactor(graph): enhance NetworkX cycle detection algorithm (Commit #1521)
 - [2026-07-31 21:31:30] feat(engine): optimize forensic anomaly detector rules (Commit #1522)
+- [2026-07-31 22:42:13] chore(deps): update forensic cryptography packages (Commit #1523)
