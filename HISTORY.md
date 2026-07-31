@@ -286,3 +286,4 @@
 - [2026-07-30 14:13] test: add unit tests for structuring anomaly detection engine
 - [2026-07-30 13:13] refactor: modularize regulatory RAG corpus search
 - [2026-07-30 13:50] test: verify circular round-trip wash trading heuristics
+- [2026-07-31 15:08] docs: clarify BSA anti-structuring statutory authorities
