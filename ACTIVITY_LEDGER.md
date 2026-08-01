@@ -1526,3 +1526,4 @@
 - [2026-08-01 22:07:20] refactor(models): strengthen Pydantic v2 validation schemas (Commit #1524)
 - [2026-08-01 20:49:04] fix(parser): handle cross-border SWIFT wire transit edge cases (Commit #1525)
 - [2026-08-01 18:40:29] style(ui): improve glassmorphism cyber-finance dashboard (Commit #1526)
+- [2026-08-01 11:39:18] feat(rag): expand FATF 40 recommendations knowledge base (Commit #1527)
