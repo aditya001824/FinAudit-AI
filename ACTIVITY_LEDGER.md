@@ -1524,3 +1524,4 @@
 - [2026-07-31 21:31:30] feat(engine): optimize forensic anomaly detector rules (Commit #1522)
 - [2026-07-31 22:42:13] chore(deps): update forensic cryptography packages (Commit #1523)
 - [2026-08-01 22:07:20] refactor(models): strengthen Pydantic v2 validation schemas (Commit #1524)
+- [2026-08-01 20:49:04] fix(parser): handle cross-border SWIFT wire transit edge cases (Commit #1525)
