@@ -289,3 +289,4 @@
 - [2026-07-31 15:08] docs: clarify BSA anti-structuring statutory authorities
 - [2026-07-31 21:02] test: verify circular round-trip wash trading heuristics
 - [2026-08-01 13:07] feat: add betweenness centrality hub detection
+- [2026-08-01 17:12] feat: add betweenness centrality hub detection
