@@ -1529,3 +1529,4 @@
 - [2026-08-01 11:39:18] feat(rag): expand FATF 40 recommendations knowledge base (Commit #1527)
 - [2026-08-01 09:33:52] chore(deps): update forensic cryptography packages (Commit #1528)
 - [2026-08-02 20:29:10] feat(rag): expand FATF 40 recommendations knowledge base (Commit #1529)
+- [2026-08-02 18:11:05] refactor(graph): enhance NetworkX cycle detection algorithm (Commit #1530)
