@@ -291,3 +291,4 @@
 - [2026-08-01 13:07] feat: add betweenness centrality hub detection
 - [2026-08-01 17:12] feat: add betweenness centrality hub detection
 - [2026-08-02 17:41] fix: refine fuzzy sanctions matching threshold for aliases
+- [2026-08-02 09:49] refactor: optimize NetworkX graph traversal speed
