@@ -1531,3 +1531,4 @@
 - [2026-08-02 20:29:10] feat(rag): expand FATF 40 recommendations knowledge base (Commit #1529)
 - [2026-08-02 18:11:05] refactor(graph): enhance NetworkX cycle detection algorithm (Commit #1530)
 - [2026-08-02 13:05:10] fix(parser): handle cross-border SWIFT wire transit edge cases (Commit #1531)
+- [2026-08-03 10:24:22] style(ui): improve glassmorphism cyber-finance dashboard (Commit #1532)
