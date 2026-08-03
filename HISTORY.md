@@ -293,3 +293,4 @@
 - [2026-08-02 17:41] fix: refine fuzzy sanctions matching threshold for aliases
 - [2026-08-02 09:49] refactor: optimize NetworkX graph traversal speed
 - [2026-08-03 17:06] refactor: modularize regulatory RAG corpus search
+- [2026-08-03 16:02] feat: expand high-risk offshore jurisdiction definitions
