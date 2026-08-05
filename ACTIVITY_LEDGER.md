@@ -1540,3 +1540,4 @@
 - [2026-08-04 22:27:13] refactor(models): strengthen Pydantic v2 validation schemas (Commit #1538)
 - [2026-08-04 20:22:16] feat(engine): optimize forensic anomaly detector rules (Commit #1539)
 - [2026-08-04 16:54:49] style(ui): improve glassmorphism cyber-finance dashboard (Commit #1540)
+- [2026-08-05 22:17:17] feat(rag): expand FATF 40 recommendations knowledge base (Commit #1541)
