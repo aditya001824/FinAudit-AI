@@ -1548,3 +1548,4 @@
 - [2026-08-06 22:04:02] chore(deps): update forensic cryptography packages (Commit #1546)
 - [2026-08-06 18:03:31] refactor(graph): enhance NetworkX cycle detection algorithm (Commit #1547)
 - [2026-08-06 14:38:59] chore(ci): optimize daily maintenance automated sync (Commit #1548)
+- [2026-08-06 20:33:57] feat(rag): expand FATF 40 recommendations knowledge base (Commit #1549)
