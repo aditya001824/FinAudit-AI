@@ -297,3 +297,4 @@
 - [2026-08-03 18:44] docs: update SAR Form 111 XML schema references
 - [2026-08-05 16:11] docs: clarify BSA anti-structuring statutory authorities
 - [2026-08-07 21:34] docs: update AML forensic typology guidelines
+- [2026-08-07 16:52] refactor: optimize NetworkX graph traversal speed
