@@ -1555,3 +1555,4 @@
 - [2026-08-07 15:07:32] refactor(graph): enhance NetworkX cycle detection algorithm (Commit #1553)
 - [2026-08-07 22:41:34] feat(rag): expand FATF 40 recommendations knowledge base (Commit #1554)
 - [2026-08-07 21:16:55] perf(agent): reduce ReAct multi-agent thought latency (Commit #1555)
+- [2026-08-07 16:13:16] fix(parser): handle cross-border SWIFT wire transit edge cases (Commit #1556)
