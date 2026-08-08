@@ -1560,3 +1560,4 @@
 - [2026-08-08 13:52:31] style(ui): improve glassmorphism cyber-finance dashboard (Commit #1558)
 - [2026-08-08 12:09:01] test(integration): verify autonomous SAR generation pipeline (Commit #1559)
 - [2026-08-08 12:53:56] fix(parser): handle cross-border SWIFT wire transit edge cases (Commit #1560)
+- [2026-08-08 20:42:19] docs(aml): update FinCEN BSA compliance guidelines (Commit #1561)
