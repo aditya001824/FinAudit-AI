@@ -1563,3 +1563,4 @@
 - [2026-08-08 20:42:19] docs(aml): update FinCEN BSA compliance guidelines (Commit #1561)
 - [2026-08-09 20:00:55] style(ui): improve glassmorphism cyber-finance dashboard (Commit #1562)
 - [2026-08-09 14:40:46] docs(sar): update FinCEN Form 111 XML filing schemas (Commit #1563)
+- [2026-08-09 12:55:04] refactor(models): strengthen Pydantic v2 validation schemas (Commit #1564)
