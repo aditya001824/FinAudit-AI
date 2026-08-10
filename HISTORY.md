@@ -304,3 +304,4 @@
 - [2026-08-10 14:10] fix: refine fuzzy sanctions matching threshold for aliases
 - [2026-08-10 21:05] docs: update SAR Form 111 XML schema references
 - [2026-08-10 19:43] fix: handle zero-amount edge cases in flow reconstructor
+- [2026-08-10 19:55] test: add unit tests for structuring anomaly detection engine
