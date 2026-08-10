@@ -1569,3 +1569,4 @@
 - [2026-08-10 10:01:02] refactor(graph): enhance NetworkX cycle detection algorithm (Commit #1567)
 - [2026-08-10 17:24:22] feat(rag): expand FATF 40 recommendations knowledge base (Commit #1568)
 - [2026-08-10 10:28:01] refactor(graph): enhance NetworkX cycle detection algorithm (Commit #1569)
+- [2026-08-10 11:11:38] refactor(models): strengthen Pydantic v2 validation schemas (Commit #1570)
