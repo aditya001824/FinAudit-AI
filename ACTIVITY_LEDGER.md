@@ -1573,3 +1573,4 @@
 - [2026-08-10 18:57:09] chore(ci): optimize daily maintenance automated sync (Commit #1571)
 - [2026-08-11 21:52:52] docs(aml): update FinCEN BSA compliance guidelines (Commit #1572)
 - [2026-08-11 10:42:58] perf(agent): reduce ReAct multi-agent thought latency (Commit #1573)
+- [2026-08-11 21:57:38] feat(analytics): add betweenness centrality hub indicators (Commit #1574)
