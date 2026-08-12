@@ -308,3 +308,4 @@
 - [2026-08-11 09:21] test: verify circular round-trip wash trading heuristics
 - [2026-08-11 15:25] feat: add FATF recommendation 16 wire transit validation
 - [2026-08-12 12:23] test: verify circular round-trip wash trading heuristics
+- [2026-08-12 14:17] feat: add FATF recommendation 16 wire transit validation
