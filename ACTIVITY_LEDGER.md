@@ -1575,3 +1575,4 @@
 - [2026-08-11 10:42:58] perf(agent): reduce ReAct multi-agent thought latency (Commit #1573)
 - [2026-08-11 21:57:38] feat(analytics): add betweenness centrality hub indicators (Commit #1574)
 - [2026-08-12 09:24:01] docs(sar): update FinCEN Form 111 XML filing schemas (Commit #1575)
+- [2026-08-12 17:40:33] fix(parser): handle cross-border SWIFT wire transit edge cases (Commit #1576)
