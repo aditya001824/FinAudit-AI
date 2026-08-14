@@ -311,3 +311,4 @@
 - [2026-08-12 14:17] feat: add FATF recommendation 16 wire transit validation
 - [2026-08-13 11:13] fix: handle zero-amount edge cases in flow reconstructor
 - [2026-08-13 09:05] refactor: modularize regulatory RAG corpus search
+- [2026-08-14 10:41] fix: handle zero-amount edge cases in flow reconstructor
