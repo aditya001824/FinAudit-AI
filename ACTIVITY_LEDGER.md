@@ -1585,3 +1585,4 @@
 - [2026-08-13 22:47:55] refactor(models): strengthen Pydantic v2 validation schemas (Commit #1583)
 - [2026-08-13 21:55:22] feat(analytics): add betweenness centrality hub indicators (Commit #1584)
 - [2026-08-14 21:25:57] docs(aml): update FinCEN BSA compliance guidelines (Commit #1585)
+- [2026-08-14 10:34:16] perf(agent): reduce ReAct multi-agent thought latency (Commit #1586)
