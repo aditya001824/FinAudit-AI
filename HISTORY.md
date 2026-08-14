@@ -312,3 +312,4 @@
 - [2026-08-13 11:13] fix: handle zero-amount edge cases in flow reconstructor
 - [2026-08-13 09:05] refactor: modularize regulatory RAG corpus search
 - [2026-08-14 10:41] fix: handle zero-amount edge cases in flow reconstructor
+- [2026-08-14 12:54] refactor: optimize NetworkX graph traversal speed
