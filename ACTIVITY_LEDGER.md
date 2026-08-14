@@ -1587,3 +1587,4 @@
 - [2026-08-14 21:25:57] docs(aml): update FinCEN BSA compliance guidelines (Commit #1585)
 - [2026-08-14 10:34:16] perf(agent): reduce ReAct multi-agent thought latency (Commit #1586)
 - [2026-08-14 09:07:42] fix(parser): handle cross-border SWIFT wire transit edge cases (Commit #1587)
+- [2026-08-14 14:10:31] test(integration): verify autonomous SAR generation pipeline (Commit #1588)
