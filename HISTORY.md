@@ -314,3 +314,4 @@
 - [2026-08-14 10:41] fix: handle zero-amount edge cases in flow reconstructor
 - [2026-08-14 12:54] refactor: optimize NetworkX graph traversal speed
 - [2026-08-14 11:50] chore: update FinCEN red flag indicators catalog
+- [2026-08-15 14:37] docs: clarify BSA anti-structuring statutory authorities
