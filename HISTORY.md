@@ -317,3 +317,4 @@
 - [2026-08-15 14:37] docs: clarify BSA anti-structuring statutory authorities
 - [2026-08-15 10:40] perf: improve ReAct agent multi-step reasoning response latency
 - [2026-08-15 12:56] perf: stream SSE agent thought tokens asynchronously
+- [2026-08-15 11:20] chore: optimize docker-compose build caching
