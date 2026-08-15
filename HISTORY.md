@@ -316,3 +316,4 @@
 - [2026-08-14 11:50] chore: update FinCEN red flag indicators catalog
 - [2026-08-15 14:37] docs: clarify BSA anti-structuring statutory authorities
 - [2026-08-15 10:40] perf: improve ReAct agent multi-step reasoning response latency
+- [2026-08-15 12:56] perf: stream SSE agent thought tokens asynchronously
