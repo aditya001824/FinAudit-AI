@@ -318,3 +318,4 @@
 - [2026-08-15 10:40] perf: improve ReAct agent multi-step reasoning response latency
 - [2026-08-15 12:56] perf: stream SSE agent thought tokens asynchronously
 - [2026-08-15 11:20] chore: optimize docker-compose build caching
+- [2026-08-16 17:08] refactor: modularize regulatory RAG corpus search
