@@ -1601,3 +1601,4 @@
 - [2026-08-17 18:43:39] chore(ci): optimize daily maintenance automated sync (Commit #1599)
 - [2026-08-17 22:19:40] feat(rag): expand FATF 40 recommendations knowledge base (Commit #1600)
 - [2026-08-17 21:55:45] refactor(graph): enhance NetworkX cycle detection algorithm (Commit #1601)
+- [2026-08-17 22:59:42] refactor(models): strengthen Pydantic v2 validation schemas (Commit #1602)
