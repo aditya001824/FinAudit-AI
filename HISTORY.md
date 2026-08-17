@@ -322,3 +322,4 @@
 - [2026-08-16 19:43] perf: stream SSE agent thought tokens asynchronously
 - [2026-08-17 15:58] refactor: optimize NetworkX graph traversal speed
 - [2026-08-17 20:22] feat: add FATF recommendation 16 wire transit validation
+- [2026-08-17 21:51] perf: improve ReAct agent multi-step reasoning response latency
