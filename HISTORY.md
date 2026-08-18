@@ -324,3 +324,4 @@
 - [2026-08-17 20:22] feat: add FATF recommendation 16 wire transit validation
 - [2026-08-17 21:51] perf: improve ReAct agent multi-step reasoning response latency
 - [2026-08-18 10:42] feat: expand high-risk offshore jurisdiction definitions
+- [2026-08-18 12:13] feat: add betweenness centrality hub detection
