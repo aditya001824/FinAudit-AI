@@ -325,3 +325,4 @@
 - [2026-08-17 21:51] perf: improve ReAct agent multi-step reasoning response latency
 - [2026-08-18 10:42] feat: expand high-risk offshore jurisdiction definitions
 - [2026-08-18 12:13] feat: add betweenness centrality hub detection
+- [2026-08-18 14:12] refactor: optimize NetworkX graph traversal speed
