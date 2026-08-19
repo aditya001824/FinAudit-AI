@@ -326,3 +326,4 @@
 - [2026-08-18 10:42] feat: expand high-risk offshore jurisdiction definitions
 - [2026-08-18 12:13] feat: add betweenness centrality hub detection
 - [2026-08-18 14:12] refactor: optimize NetworkX graph traversal speed
+- [2026-08-19 09:10] chore: optimize docker-compose build caching
