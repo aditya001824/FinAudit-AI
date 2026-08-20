@@ -329,3 +329,4 @@
 - [2026-08-19 09:10] chore: optimize docker-compose build caching
 - [2026-08-19 18:10] feat: add betweenness centrality hub detection
 - [2026-08-20 09:13] docs: update AML forensic typology guidelines
+- [2026-08-20 16:32] feat: expand high-risk offshore jurisdiction definitions
