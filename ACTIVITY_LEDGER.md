@@ -1616,3 +1616,4 @@
 - [2026-08-20 16:20:11] refactor(graph): enhance NetworkX cycle detection algorithm (Commit #1614)
 - [2026-08-20 16:11:30] chore(ci): optimize daily maintenance automated sync (Commit #1615)
 - [2026-08-20 16:05:10] chore(deps): update forensic cryptography packages (Commit #1616)
+- [2026-08-20 20:17:12] feat(analytics): add betweenness centrality hub indicators (Commit #1617)
