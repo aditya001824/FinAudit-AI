@@ -330,3 +330,4 @@
 - [2026-08-19 18:10] feat: add betweenness centrality hub detection
 - [2026-08-20 09:13] docs: update AML forensic typology guidelines
 - [2026-08-20 16:32] feat: expand high-risk offshore jurisdiction definitions
+- [2026-08-21 15:50] test: verify circular round-trip wash trading heuristics
