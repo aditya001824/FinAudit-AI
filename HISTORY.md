@@ -332,3 +332,4 @@
 - [2026-08-20 16:32] feat: expand high-risk offshore jurisdiction definitions
 - [2026-08-21 15:50] test: verify circular round-trip wash trading heuristics
 - [2026-08-22 21:57] feat: add FATF recommendation 16 wire transit validation
+- [2026-08-22 19:21] chore: optimize docker-compose build caching
