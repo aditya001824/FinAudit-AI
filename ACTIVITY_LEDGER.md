@@ -1625,3 +1625,4 @@
 - [2026-08-22 17:09:36] docs(aml): update FinCEN BSA compliance guidelines (Commit #1623)
 - [2026-08-22 17:11:20] feat(analytics): add betweenness centrality hub indicators (Commit #1624)
 - [2026-08-22 14:41:00] refactor(models): strengthen Pydantic v2 validation schemas (Commit #1625)
+- [2026-08-23 13:56:05] feat(engine): optimize forensic anomaly detector rules (Commit #1626)
