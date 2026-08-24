@@ -338,3 +338,4 @@
 - [2026-08-24 19:52] refactor: optimize NetworkX graph traversal speed
 - [2026-08-24 13:25] docs: clarify BSA anti-structuring statutory authorities
 - [2026-08-24 09:14] perf: improve ReAct agent multi-step reasoning response latency
+- [2026-08-24 18:27] chore: sync OFAC SDN watchlist dataset definitions
