@@ -335,3 +335,4 @@
 - [2026-08-22 19:21] chore: optimize docker-compose build caching
 - [2026-08-22 11:08] test: verify circular round-trip wash trading heuristics
 - [2026-08-23 19:07] refactor: modularize regulatory RAG corpus search
+- [2026-08-24 19:52] refactor: optimize NetworkX graph traversal speed
