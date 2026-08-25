@@ -1634,3 +1634,4 @@
 - [2026-08-25 19:31:59] fix(parser): handle cross-border SWIFT wire transit edge cases (Commit #1632)
 - [2026-08-25 20:07:34] feat(rag): expand FATF 40 recommendations knowledge base (Commit #1633)
 - [2026-08-25 15:42:59] feat(analytics): add betweenness centrality hub indicators (Commit #1634)
+- [2026-08-25 10:35:38] test(sanctions): add fuzzy matching test cases for OFAC aliases (Commit #1635)
