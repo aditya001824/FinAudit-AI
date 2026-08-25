@@ -341,3 +341,4 @@
 - [2026-08-24 18:27] chore: sync OFAC SDN watchlist dataset definitions
 - [2026-08-25 20:17] docs: update AML forensic typology guidelines
 - [2026-08-25 09:41] feat: expand high-risk offshore jurisdiction definitions
+- [2026-08-25 09:04] feat: add FATF recommendation 16 wire transit validation
