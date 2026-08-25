@@ -1632,3 +1632,4 @@
 - [2026-08-24 11:34:36] fix(parser): handle cross-border SWIFT wire transit edge cases (Commit #1630)
 - [2026-08-24 14:25:41] feat(rag): expand FATF 40 recommendations knowledge base (Commit #1631)
 - [2026-08-25 19:31:59] fix(parser): handle cross-border SWIFT wire transit edge cases (Commit #1632)
+- [2026-08-25 20:07:34] feat(rag): expand FATF 40 recommendations knowledge base (Commit #1633)
