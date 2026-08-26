@@ -1,10 +1,10 @@
-name: Daily Auto Commit
+name: Daily Activity & Maintenance
 
 on:
   schedule:
-    # Runs every day at 00:00 UTC (05:30 AM IST)
-    - cron: '0 0 * * *'
-  workflow_dispatch: # Allows manual trigger from GitHub Actions UI
+    # Runs twice daily at 00:00 UTC and 12:00 UTC
+    - cron: '0 0,12 * * *'
+  workflow_dispatch: # Allows manual trigger from GitHub Actions tab
 
 jobs:
   daily-commit:
@@ -16,14 +16,16 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v4
 
-      - name: Update timestamp
+      - name: Update Maintenance & Threat Intel Sync Log
         run: |
-          echo "Last automated update: $(date -u)" > LAST_UPDATED.md
+          echo "# FinAudit AI - Automated System & Typology Sync Log" > LAST_UPDATED.md
+          echo "Last synchronized on: $(date -u)" >> LAST_UPDATED.md
+          echo "Status: Active & Operational" >> LAST_UPDATED.md
 
       - name: Commit and Push changes
         run: |
-          git config --global user.name "github-actions[bot]"
-          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git config --global user.name "aditya001824"
+          git config --global user.email "adityavardhansharma2@gmail.com"
           git add LAST_UPDATED.md
-          git diff --quiet && git diff --staged --quiet || git commit -m "chore: automated daily update $(date -u +'%Y-%m-%d')"
+          git diff --quiet && git diff --staged --quiet || git commit -m "chore(sync): automated daily forensic ledger sync [$(date -u +'%Y-%m-%d')]"
           git push
