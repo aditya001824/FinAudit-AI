@@ -344,3 +344,4 @@
 - [2026-08-25 09:04] feat: add FATF recommendation 16 wire transit validation
 - [2026-08-26 10:47] test: add unit tests for structuring anomaly detection engine
 - [2026-08-26 09:59] docs: update AML forensic typology guidelines
+- [2026-08-26 13:52] docs: update SAR Form 111 XML schema references
