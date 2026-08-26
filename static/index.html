@@ -1,0 +1,285 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>FinAudit AI — Autonomous AML & Forensic Financial Intelligence</title>
+    <!-- Google Fonts -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800&family=JetBrains+Mono:wght@400;500;600&display=swap" rel="stylesheet">
+    <!-- FontAwesome Icons -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css">
+    <!-- Vis.js Network Visualization -->
+    <script type="text/javascript" src="https://unpkg.com/vis-network/standalone/umd/vis-network.min.js"></script>
+    <link rel="stylesheet" href="/static/style.css">
+</head>
+<body class="dark-theme">
+    <!-- App Container -->
+    <div class="app-container">
+        
+        <!-- Header -->
+        <header class="top-navbar">
+            <div class="brand-section">
+                <div class="logo-icon">
+                    <i class="fa-solid fa-shield-halved"></i>
+                </div>
+                <div class="brand-titles">
+                    <h1>FinAudit <span class="accent-text">AI</span></h1>
+                    <span class="sub-heading">Autonomous AML & Forensic Financial Intelligence Swarm</span>
+                </div>
+            </div>
+
+            <div class="controls-section">
+                <div class="scenario-selector-wrapper">
+                    <label for="scenarioSelect"><i class="fa-solid fa-folder-open"></i> Scenario:</label>
+                    <select id="scenarioSelect" class="form-select">
+                        <option value="" disabled selected>Loading scenarios...</option>
+                    </select>
+                </div>
+
+                <button id="startInvestigateBtn" class="btn btn-primary">
+                    <i class="fa-solid fa-brain-circuit"></i> Launch Multi-Agent Investigation
+                </button>
+                
+                <button id="viewSarBtn" class="btn btn-secondary" disabled>
+                    <i class="fa-solid fa-file-shield"></i> View SAR Filing
+                </button>
+            </div>
+
+            <div class="status-section">
+                <div class="status-badge live-pulse">
+                    <span class="dot"></span> Swarm Online
+                </div>
+                <div class="provider-badge" id="providerBadge">
+                    <i class="fa-solid fa-microchip"></i> Provider: Auto
+                </div>
+            </div>
+        </header>
+
+        <!-- Scenario Banner -->
+        <section class="scenario-banner" id="scenarioBanner">
+            <div class="banner-content">
+                <div class="banner-title-row">
+                    <h3 id="bannerTitle">Smurfing & Structuring Network (Offshore Funnel)</h3>
+                    <span class="badge severity-badge" id="bannerSeverity">HIGH SEVERITY</span>
+                </div>
+                <p id="bannerDesc">Select a financial crime scenario above and launch the autonomous multi-agent swarm to execute forensic entity screening, graph traversal, regulatory RAG queries, and automated SAR drafting.</p>
+            </div>
+        </section>
+
+        <!-- KPI Metrics Grid -->
+        <section class="metrics-grid">
+            <div class="metric-card">
+                <div class="metric-icon blue"><i class="fa-solid fa-money-bill-transfer"></i></div>
+                <div class="metric-data">
+                    <span class="metric-label">Monitored Volume</span>
+                    <h2 id="metricTotalVol">$0.00</h2>
+                </div>
+            </div>
+
+            <div class="metric-card">
+                <div class="metric-icon red"><i class="fa-solid fa-triangle-exclamation"></i></div>
+                <div class="metric-data">
+                    <span class="metric-label">Suspicious Volume</span>
+                    <h2 id="metricSuspVol">$0.00</h2>
+                </div>
+            </div>
+
+            <div class="metric-card">
+                <div class="metric-icon amber"><i class="fa-solid fa-fingerprint"></i></div>
+                <div class="metric-data">
+                    <span class="metric-label">Typologies Identified</span>
+                    <h2 id="metricTypologies">0</h2>
+                </div>
+            </div>
+
+            <div class="metric-card">
+                <div class="metric-icon purple"><i class="fa-solid fa-shield-virus"></i></div>
+                <div class="metric-data">
+                    <span class="metric-label">AML Risk Score</span>
+                    <h2 id="metricRiskScore">-- / 100</h2>
+                </div>
+            </div>
+        </section>
+
+        <!-- Main War Room Grid -->
+        <main class="war-room-grid">
+            
+            <!-- Left Panel: Graph & Transactions -->
+            <div class="panel-column left-column">
+                
+                <!-- Graph Card -->
+                <div class="card graph-card">
+                    <div class="card-header">
+                        <div class="header-title">
+                            <i class="fa-solid fa-diagram-project"></i>
+                            <h3>Forensic Entity & Transaction Network Graph</h3>
+                        </div>
+                        <div class="graph-legend">
+                            <span class="legend-item"><span class="legend-dot clean"></span> Clean Entity</span>
+                            <span class="legend-item"><span class="legend-dot suspicious"></span> Flagged Hub</span>
+                            <span class="legend-item"><span class="legend-dot critical"></span> Sanctioned/PEP</span>
+                        </div>
+                    </div>
+                    <div class="card-body graph-body">
+                        <div id="networkGraph" class="network-canvas"></div>
+                        <div class="graph-watermark">Interactive NetworkX Engine • Drag / Zoom / Inspect Nodes</div>
+                    </div>
+                </div>
+
+                <!-- Ledger Card -->
+                <div class="card ledger-card">
+                    <div class="card-header">
+                        <div class="header-title">
+                            <i class="fa-solid fa-list-check"></i>
+                            <h3>Ingested Transaction Ledger & Threat Flags</h3>
+                        </div>
+                        <span class="badge" id="txCountBadge">0 Transactions</span>
+                    </div>
+                    <div class="card-body table-body">
+                        <div class="table-responsive">
+                            <table class="data-table" id="txTable">
+                                <thead>
+                                    <tr>
+                                        <th>Tx ID</th>
+                                        <th>Timestamp</th>
+                                        <th>Origin</th>
+                                        <th>Beneficiary</th>
+                                        <th>Amount</th>
+                                        <th>Type</th>
+                                        <th>Risk Indicators</th>
+                                    </tr>
+                                </thead>
+                                <tbody id="txTableBody">
+                                    <tr>
+                                        <td colspan="7" class="text-center text-muted">Select a scenario and click Launch Investigation to populate ledger.</td>
+                                    </tr>
+                                </tbody>
+                            </table>
+                        </div>
+                    </div>
+                </div>
+
+            </div>
+
+            <!-- Right Panel: Agent Trace & Anomalies -->
+            <div class="panel-column right-column">
+                
+                <!-- Multi-Agent Reasoning Card -->
+                <div class="card agent-card">
+                    <div class="card-header">
+                        <div class="header-title">
+                            <i class="fa-solid fa-microchip-ai"></i>
+                            <h3>Autonomous Multi-Agent Reasoning Feed</h3>
+                        </div>
+                        <div class="agent-pulse-indicator" id="agentPulse">
+                            <span class="pulse-ring"></span>
+                            <span class="pulse-text">IDLE</span>
+                        </div>
+                    </div>
+                    <div class="card-body agent-feed-body" id="agentFeed">
+                        <div class="empty-state" id="feedEmptyState">
+                            <i class="fa-solid fa-satellite-dish"></i>
+                            <p>Ready to deploy multi-agent investigation swarm.</p>
+                            <span>Agents will execute ReAct loops, query OFAC/PEP watchlists, retrieve FinCEN statutes, and draft audit reports in real time.</span>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Anomalies & Citations Card -->
+                <div class="card alerts-card">
+                    <div class="card-header">
+                        <div class="header-title">
+                            <i class="fa-solid fa-scale-balanced"></i>
+                            <h3>Regulatory Violations & Typology Alerts</h3>
+                        </div>
+                    </div>
+                    <div class="card-body alerts-body" id="alertsContainer">
+                        <div class="empty-state-sm">
+                            <span>No anomalies triggered yet.</span>
+                        </div>
+                    </div>
+                </div>
+
+            </div>
+
+        </main>
+
+        <!-- SAR Report Modal -->
+        <div class="modal-overlay" id="sarModal">
+            <div class="modal-dialog">
+                <div class="modal-header">
+                    <div class="modal-title-group">
+                        <i class="fa-solid fa-file-contract"></i>
+                        <div>
+                            <h2 id="modalSarId">FinCEN Form 111 — Suspicious Activity Report</h2>
+                            <span class="modal-subtitle" id="modalFilingDate">Generated by Autonomous SAR Drafter Agent</span>
+                        </div>
+                    </div>
+                    <button class="modal-close-btn" id="closeSarModalBtn">&times;</button>
+                </div>
+
+                <div class="modal-body sar-document">
+                    
+                    <div class="sar-meta-banner">
+                        <div class="meta-item">
+                            <span class="meta-title">PRIMARY SUBJECT</span>
+                            <strong id="sarSubject">--</strong>
+                        </div>
+                        <div class="meta-item">
+                            <span class="meta-title">SUSPICIOUS VOLUME</span>
+                            <strong id="sarTotalAmount" class="text-danger">$0.00 USD</strong>
+                        </div>
+                        <div class="meta-item">
+                            <span class="meta-title">RISK ASSESSMENT</span>
+                            <strong id="sarRiskScore" class="text-warning">-- / 100</strong>
+                        </div>
+                        <div class="meta-item">
+                            <span class="meta-title">FILING STATUS</span>
+                            <span class="badge" id="sarStatusBadge">DRAFT_PENDING_REVIEW</span>
+                        </div>
+                    </div>
+
+                    <div class="sar-section">
+                        <h4><i class="fa-solid fa-align-left"></i> Formal Regulatory Narrative</h4>
+                        <div class="sar-narrative-box" id="sarNarrativeBox"></div>
+                    </div>
+
+                    <div class="sar-section">
+                        <h4><i class="fa-solid fa-list-ol"></i> Chronological Transaction Event Log</h4>
+                        <div class="timeline-box" id="sarTimelineBox"></div>
+                    </div>
+
+                    <div class="sar-section">
+                        <h4><i class="fa-solid fa-gavel"></i> Governing Statutory Authorities & BSA Mandates</h4>
+                        <ul class="citation-list" id="sarCitationsList"></ul>
+                    </div>
+
+                    <div class="sar-section">
+                        <h4><i class="fa-solid fa-shield-check"></i> Recommended Remediation & Law Enforcement Actions</h4>
+                        <ul class="action-list" id="sarActionsList"></ul>
+                    </div>
+
+                </div>
+
+                <div class="modal-footer">
+                    <div class="signoff-controls">
+                        <input type="text" id="reviewerName" class="form-input" placeholder="Compliance Officer Name" value="Chief AML Compliance Officer">
+                        <button id="approveSarBtn" class="btn btn-success">
+                            <i class="fa-solid fa-signature"></i> Approve & Sign Off SAR
+                        </button>
+                    </div>
+                    <button id="downloadSarJsonBtn" class="btn btn-outline">
+                        <i class="fa-solid fa-download"></i> Export JSON Dossier
+                    </button>
+                </div>
+            </div>
+        </div>
+
+    </div>
+
+    <!-- Script Entrypoint -->
+    <script src="/static/script.js"></script>
+</body>
+</html>
