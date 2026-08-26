@@ -1637,3 +1637,4 @@
 - [2026-08-25 10:35:38] test(sanctions): add fuzzy matching test cases for OFAC aliases (Commit #1635)
 - [2026-08-26 22:39:34] docs(sar): update FinCEN Form 111 XML filing schemas (Commit #1636)
 - [2026-08-26 21:39:39] feat(analytics): add betweenness centrality hub indicators (Commit #1637)
+- [2026-08-26 17:51:04] test(sanctions): add fuzzy matching test cases for OFAC aliases (Commit #1638)
